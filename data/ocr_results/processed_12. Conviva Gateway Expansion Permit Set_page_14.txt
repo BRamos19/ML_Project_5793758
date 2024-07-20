@@ -1,0 +1,567 @@
+4{2/2021 10:58:15 AM
+
+093013 - CERAMIC TILING
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+. Ceramic tile.
+. Glazed wall tile.
+. Stone thresholds.
+. Tile backing panels.
+. Waterproof membrane for thinset applications.
+. Crack isolation membrane.
+7. Metal edge strips.
+1.3 ACTION SUBMITTALS
+A. Product Data: For each type of product. Shop Drawings: Show locations of each type of tile and tile pattern.
+Show widths, details, and locations of expansion, contraction, control, and isolation joints in tile substrates and
+finished tile surfaces.
+B. Samples for Verification:
+1. Full-size units of each type and composition of tile and for each color and finish required.
+2. Full-size units of each type of trim and accessory for each color and finish required.
+3. Stone thresholds in 6-inch (150-mm) lengths.
+1.4 DELIVERY, STORAGE, AND HANDLING
+A. Deliver and store packaged materials in original containers with seals unbroken and labels intact until time of
+use. Comply with requirements in ANSI A137.1 for labeling tile packages. Store tile and cementitious materials on
+elevated platforms, under cover, and ina dry location.
+B. Store aggregates where grading and other required characteristics can be maintained and contamination can
+be avoided. Store liquid materials in unopened containers and protected from freezing.
+1.5 FIELD CONDITIONS
+A. Environmental Limitations: Do not install tile until construction in spaces is complete and ambient
+temperature and humidity conditions are maintained at the levels indicated in referenced standards and
+manufacturer's written instructions.
+
+PART2- PRODUCTS
+2.1. PRODUCTS, GENERAL
+
+A. ANSI Standards for Tile Installation Materials: Provide materials complying with ANS! A108.02, ANSI
+standards referenced in other Part 2 articles, ANSI standards referenced by TCNA installation methods specified in
+tile installation schedules, and other requirements specified.
+
+2.2 THRESHOLDS
+
+A. General: Fabricate to sizes and profiles indicated or required to provide transition between adjacent floor
+finishes Granite Thresholds: ASTM C 615/C 615M, with A. honed finish. Marble Thresholds: ASTM C 503/C
+503M, with a minimum abrasion resistance of 12 according to ASTM C 1353 or ASTM C 241/C 241M and with
+honed finish.
+
+2.3 TILE BACKING PANELS
+
+A. Cementitious Backer Units: ANSI A118.9 or ASTM C 1325, Type A, in maximum lengths available to
+minimize end-to-end butt joints. Fiber-Cement Backer Board: ASTM C 1288, in maximum lengths available to
+minimize end-to-end butt joints.
+
+2.4 WATERPROOF MEMBRANE
+
+A. General: Manufacturer's standard product that complies with ANSI A118.10 and is recommended by the
+manufacturer for the application indicated. Include reinforcement and accessories recommended by manufacturer.
+
+B. Chlorinated Polyethylene Sheet: Nonplasticized, chlorinated polyethylene faced on both sides with nonwoven
+polyester fabric. PVC Sheet: PVC heat-fused on both sides to facings of nonwoven polyester.
+
+C. Polyethylene Sheet: Polyethylene faced on both sides with fleece webbing; 0.008-inch (0.2-mm) nominal
+thickness. Fabric-Reinforced, Modified-Bituminous Sheet: Self-adhering, SBS-modified-bituminous sheet with
+fabric reinforcement facing; 0.040-inch (1 -mm) nominal thickness.
+
+D. Fabric-Reinforced, Fluid-Applied Membrane: System consisting of liquid-latex rubber or elastomeric polymer
+and continuous fabric reinforcement. Fluid-Applied Membrane: Liquid-latex rubber or elastomeric polymer.
+
+E. Latex-Portland Cement Waterproof Mortar: Flexible, waterproof mortar consisting of cement-based mix and
+latex additive.
+
+F. Waterproofing and Tile-Setting Adhesive: One-part, fluid-applied product intended for use as both
+waterproofing and tile-setting adhesive in a two-step process.
+
+2.5 CRACK ISOLATION MEMBRANE
+
+A. General: Manufacturer's standard product that complies with ANSI A118.12 for and is recommended by the
+manufacturer for the application indicated. Include reinforcement and accessories recommended by manufacturer.
+
+B. Chlorinated Polyethylene Sheet: Nonplasticized, chlorinated polyethylene faced on both sides with nonwoven
+polyester fabric; 0.030-inch (0.76-mm) nominal thickness.
+
+C. PVC Sheet: PVC heat-fused on both sides to facings of nonwoven polyester; 0.040-inch (1-mm) nominal
+thickness.
+
+D. Polyethylene Sheet: Polyethylene faced on both sides with fleece webbing; 0.008-inch (0.2-mm) nominal
+thickness.
+
+E. Fabric-Reinforced, Modified-Bituminous Sheet: Self-adhering, modified-bituminous sheet with fabric
+reinforcement facing; 0.040-inch (1-mm) nominal thickness.
+
+F. Fabric-Reinforced, Fluid-Applied Membrane: System consisting of liquid-latex rubber or elastomeric polymer
+and fabric reinforcement.
+
+G. Fluid-Applied Membrane: Liquid-latex rubber or elastomeric polymer.
+
+H. Latex-Portland Cement Crack-Resistant Mortar: Flexible mortar consisting of cement-based mix and latex
+additive.
+
+2.6 SETTING MATERIALS
+
+A. Portland Cement Mortar (Thickset) Installation Materials: ANSI A108.02.
+
+1. Cleavage Membrane: Asphalt felt, ASTM D 226/D 226M, Type | (No. 15); or polyethylene sheeting,
+ASTM D 4397, 4.0 mils (0.1 mm) thick.
+
+2. Reinforcing Wire Fabric: Galvanized, welded-wire fabric, 2 by 2 inches (50.8 by 50.8 mm) by 0.062-inch
+(1.57-mm) diameter; comply with ASTM A 185/A 185M and ASTM A 82/A 82M, except for minimum wire size.
+
+3. Expanded Metal Lath: Diamond-mesh lath complying with ASTM C 847.
+
+4. Latex Additive: Manufacturer's standard water emulsion, serving as replacement for part or all of gaging
+water, of type specifically recommended by latex-additive manufacturer for use with field-mixed portland cement
+and aggregate mortar bed.
+
+B. Dry-Set Portland Cement Mortar (Thinset): ANSI A118.1. For wall applications, provide mortar that complies
+with requirements for nonsagging mortar in addition to the other requirements in ANSI A118.1.
+
+C. Latex-Portland Cement Mortar (Thinset): ANSI A118.4. Medium-Bed, Latex-Portland Cement Mortar: Comply
+with requirements in ANS! A118.4. Provide product that is approved by manufacturer for application thickness of
+5/8 inch (16 mm)
+
+D. EGP (Exterior Glue Plywood) Latex-Portland Cement Mortar (Thinset): ANSI A118.11. Water-Cleanable, Tile-
+Setting Epoxy: ANSI A118.
+
+2.7 GROUT MATERIALS3.
+
+A. Sand-Portland Cement Grout: ANSI A108.10, consisting of white or gray cement and white or colored
+aggregate as required to produce color indicated.
+
+B. Standard Cement Grout: ANSI A118.6.
+
+C. High-Performance Tile Grout: ANSI A118.7.
+
+D. Water-Cleanable Epoxy Grout: ANSI A118.3[, with a VOC content of 65 g/L or less].
+
+E. Grout for Pregrouted Tile Sheets: Same product used in factory to pregrout tile sheets.
+
+2.8 MISCELLANEOUS MATERIALS
+
+A. Trowelable Underlayments and Patching Compounds: Latex-modified, portland cement-based formulation
+provided or approved by manufacturer of tile-setting materials for installations indicated.
+
+B. Vapor-Retarder Membrane: Polyethylene sheeting, ASTM D 4397, 4.0 mils (0.1 mm) thick.
+
+C. Metal Edge Strips: Angle or L-shaped, height to match tile and setting-bed thickness, metallic or combination
+of metal and PVC or neoprene base, designed specifically for flooring applications; stainless-steel, ASTM A 666,
+300 Series exposed-edge material.
+2.9 MIXING MORTARS AND GROUT
+
+A. Mix mortars and grouts to comply with referenced standards and mortar and grout manufacturers’ written
+instructions.
+
+B. Add materials, water, and additives in accurate proportions.
+
+C. Obtain and use type of mixing equipment, mixer speeds, mixing containers, mixing time, and other procedures
+to produce mortars and grouts of uniform quality with optimum performance characteristics for installations indicated.
+
+PART 3- EXECUTION
+2.1 EXAMINATION
+
+A. Examine substrates, areas, and conditions where tile will be installed, with Installer present, for compliance
+with requirements for installation tolerances and other conditions affecting performance of the Work. Proceed with
+installation only after unsatisfactory conditions have been corrected. Fill cracks, holes, and depressions in concrete
+substrates for tile floors installed with trowelable leveling and patching compound specifically recommended by tile-
+setting material manufacturer. Where indicated, prepare substrates to receive waterproofing by applying a reinforced
+mortar bed that complies with ANSI A108.1A and is sloped 1/4 inch per foot (1:50) max. toward drains.
+
+3.2 CERAMIC TILE INSTALLATION
+
+A. Comply with TCNA's "Handbook for Ceramic, Glass, and Stone Tile Installation" for TCNA installation methods
+specified in tile installation schedules. Comply with parts of the ANSI A108 series "Specifications for Installation of
+Ceramic Tile" that are referenced in TCNA installation methods, specified in tile installation schedules, and apply to
+types of setting and grouting materials used.
+
+B. Extend tile work into recesses and under or behind equipment and fixtures to form complete covering without
+interruptions unless otherwise indicated. Terminate work neatly at obstructions, edges, and corners without disrupting
+pattern or joint alignments.
+
+C. Accurately form intersections and returns. Perform cutting and drilling of tile without marring visible surfaces.
+Carefully grind cut edges of tile abutting trim, finish, or built-in items for straight aligned joints. Fit tile closely to
+electrical outlets, piping, fixtures, and other penetrations so plates, collars, or covers overlap tile. Provide
+manufacturer's standard trim shapes where necessary to eliminate exposedtile edges.
+
+D. Joint Widths: Unless otherwise indicated, install tile with the following joint widths:
+
+1. Ceramic Mosaic Tile: 1/16 inch (1.6 mm)
+2. Glazed Wall Tile: 1/16 inch (1.6 mm)
+
+E. Expansion Joints: Provide expansion joints and other sealant-filled joints, including control, contraction, and
+isolation joints, where indicated. Form joints during installation of setting materials, mortar beds, and tile.
+Do not saw-cut joints after installing tiles.
+
+F. Stone Thresholds: Install stone thresholds in same type of setting bed as adjacent floor unless otherwise
+indicated.
+
+G. Grout Sealer: Apply grout sealer to cementitious grout joints in tile floor according to grout-sealer
+manufacturer's written instructions. As soon as grout sealer has penetrated grout joints, remove excess sealer
+and sealer from tile faces by wiping with soft cloth.
+
+3.3 TILE BACKING PANEL INSTALLATION
+
+A. Install panels and treat joints according to ANS! A108.11 and manufacturer's written instructions for type of
+application indicated.
+
+3.4 WATERPROOFING INSTALLATION
+
+A. Install waterproofing to comply with ANSI A108.13 and manufacturer's written instructions to produce
+waterproof membrane of uniform thickness that is bonded securely to substrate. Allow waterproofing to cure and
+verify by testing that it is watertight before installing tile or setting materials over it.
+
+3.5 CRACK ISOLATION MEMBRANE INSTALLATION
+
+A. Install crack isolation membrane to comply with ANSI A108.17 and manufacturer's written instructions to
+produce membrane of uniform thickness that is bonded securely to substrate. Allow crack isolation
+membrane to cure before installing tile or setting materials over it.
+
+3.6 ADJUSTING AND CLEANING
+
+A. Remove and replace tile that is damaged or that does not match adjoining tile. Provide new matching units,
+installed as specified and ina manner to eliminate evidence of replacement. Cleaning: On completion of
+placement and grouting, clean all ceramic tile surfaces so they are free of foreign matter
+3.7 PROTECTION
+
+A. Protect installed tile work with kraft paper or other heavy covering during construction period to prevent
+staining, damage, and wear. If | recommended by tile manufacturer, apply coat of neutral protective cleaner to
+completed tile walls and floors. Prohibit foot and wheel _ traffic from tiled floors for at least seven days after
+grouting is completed. Before final inspection, remove protective coverings and rinse neutral protective cleaner
+from tile surfaces.
+
+095113 - ACOUSTICAL PANEL CEILINGS
+
+PART1- GENERAL
+1.1. RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+
+A. Section includes acoustical panels and exposed suspension systems for ceilings. Products furnished, but not
+installed under this Section, include anchors, clips, and other ceiling attachment devices to be cast in concrete.
+1.3 ACTION SUBMITTALS
+
+A. Product Data: For each type of product. Samples: For each exposed product and for each color and texture
+specified, 6 inches (150 mm) in size.
+1.4 DELIVERY, STORAGE, AND HANDLING
+
+A. Deliver acoustical panels, suspension-system components, and accessories to Project site in original,
+unopened packages and store them in a fully enclosed, conditioned space where they will be protected against
+damage from moisture, humidity, temperature extremes, direct sunlight, surface contamination, and other causes.
+Before installing acoustical panels, permit them to reach room temperature and a stabilized moisture content. Handle
+acoustical panels carefully to avoid chipping edges or damaging units in any way.
+1.5 FIELD CONDITIONS
+
+A. Environmental Limitations: Do not install acoustical panel ceilings until spaces are enclosed and weatherproof,
+wet work in spaces is complete and dry, work above ceilings is complete, and ambient temperature and humidity
+conditions are maintained at the levels indicated for Project when occupied for its intended use.
+
+PART 2- PRODUCTS
+2.1 PERFORMANCE REQUIREMENTS
+
+A. Seismic Performance: Acoustical ceiling shall withstand the effects of earthquake motions determined
+according to ASCE/SEI 7.
+
+B. Surface-Burning Characteristics: Comply with ASTM E 84; testing by a qualified testing agency. Identify
+products with appropriate markings of applicable testing agency.
+
+C. Fire-Resistance Ratings: Comply with ASTM E 119; testing by a qualified testing agency. Identify products with
+appropriate markings of applicable testing agency. Indicate design designations from UL's "Fire Resistance Directory".
+2.2 ACOUSTICAL PANELS, GENERAL
+
+A. Low-Emitting Materials: Acoustical panel ceilings shall comply with the testing and product requirements of the
+California Department of Health Services’ "Standard Practice for the Testing of Volatile Organic Emissions from
+Various Sources Using Small-Scale Environmental Chambers."
+
+B. Source Limitations: Obtain each type of acoustical ceiling panel and supporting suspension system from single
+source from single manufacturer.
+
+C. Acoustical Panel Standard: Provide manufacturer's standard panels of configuration indicated that comply with
+ASTM E 1264 classifications as designated by types, patterns, acoustical ratings, and light reflectances unless
+otherwise indicated.
+
+2.3 METAL SUSPENSION SYSTEMS, GENERAL
+
+A. Metal Suspension-System Standard: Provide manufacturer's standard direct-hung metal suspension systems of
+types, structural classifications, and finishes indicated that comply with applicable requirements in
+ASTM C 635/C 635M.
+
+B. Attachment Devices: Size for five times the design load indicated in ASTM C 635/C 635M, Table 1, "Direct
+Hung," unless otherwise indicated. Comply with seismic design requirements. Wire Hangers, Braces, and Ties:
+Provide wires complying with the following — requirements:
+
+1. Type and Form: Type Ill, mineral base with painted finish; [Form 1, nodular] [Form 2, water felted] [Form 4,
+cast or molded].
+
+2. Type and Form: Type IV, mineral base with membrane-faced overlay; Form 1, nodular; with [glass-fiber
+cloth] [washable vinyl-film] overlay.
+
+3. Type and Form: Type IV, mineral base with membrane-faced overlay; Form 2, water felted; with [vinyl overlay
+on face] [vinyl overlay on face and back] [vinyl overlay on face, back, and sealed edges] [fiberglass-fabric overlay on
+face].
+
+4. Type and Form: Type XIl, glass-fiber base with membrane-faced overlay; [Form 1, plastic] [Form 2, cloth]
+[Form 3, other].
+
+5. Type and Form: Type XX, other types; described as high-density, ceramic- and mineral-base panels with
+scrubbable finish, resistant to heat, moisture, and corrosive fumes.
+
+6. Type and Form: <Insert type and form>.
+
+7. Pattern: [C (perforated, small holes)] [CD (perforated, small holes and fissured)] [CE (perforated, small
+holes and lightly textured)] [D (fissured)] [E (lightly textured)] [F (heavily textured)] [G (smooth)] [GH (smooth and
+printed)] [I (embossed)] [J (embossed-in- register)] [K (surface scored)] [Z (other patterns as described)] [As
+indicated by manufacturer's designation] <Insert pattern>.
+
+C. Angle Hangers: Angles with legs not less than 7/8 inch (22 mm) wide; formed with 0.04-inch- (1-mm-) thick,
+galvanized-steel sheet complying with ASTM A 653/A 653M, G90 (2275) coating designation; with bolted
+connections and 5/16-inch- (8-mm-) diameter bolts.
+
+D. Seismic Stabilizer Bars: Manufacturer's standard perimeter stabilizers designed to accommodate seismic
+forces. Seismic Struts: Manufacturer's standard compression struts designed to accommodate seismic forces.
+
+E. Seismic Clips: Manufacturer's standard seismic clips designed and spaced to secure acoustical panels in place.
+Hold-Down Clips: Where indicated, provide manufacturer's standard hold-down clips spaced 24 inches (610 mm)
+0.C. on all cross tees. Impact Clips: Where indicated, provide manufacturer's standard impact-clip system designed to
+absorb impact forces against acoustical panels.
+
+2.4 METAL EDGE MOLDINGS AND TRIM
+
+A. Roll-Formed, Sheet-Metal Edge Moldings and Trim: Type and profile indicated or, if not indicated,
+manufacturer's standard moldings for edges and penetrations that comply with seismic design requirements; formed
+from sheet metal of same material, finish, and color as that used for exposed flanges of suspension-system runners.
+
+B. Extruded-Aluminum Edge Moldings and Trim: Where indicated, provide manufacturer's extruded-aluminum
+edge moldings and trim of profile indicated or referenced by manufacturer's designations, including splice plates,
+corner pieces, and attachment and other clips, complying with seismic design requirements and the following:
+
+2.5 ACOUSTICAL SEALANT
+
+A. Acoustical Sealant: Manufacturer's standard sealant complying with ASTM C 834 and effective in reducing
+airborne sound transmission through perimeter joints and openings in building construction as demonstrated by
+testing representative assemblies according to ASTM E 90.
+
+PART3- EXECUTION
+3.1 EXAMINATION
+
+A. Examine substrates, areas, and conditions, including structural framing to which acoustical panel ceilings attach
+or abut, with Installer present, for compliance with requirements specified in this and other Sections that affect ceiling
+installation and anchorage and with requirements for installation tolerances and other conditions affecting performance
+of acoustical panel ceilings. Examine acoustical panels before installation. Reject acoustical panels that are wet,
+moisture damaged, or mold damaged. Proceed with installation only after unsatisfactory conditions have been
+corrected.
+
+3.2 PREPARATION
+
+A. Measure each ceiling area and establish layout of acoustical panels to balance border widths at opposite edges
+of each ceiling. Avoid using less-than-half-width panels at borders, and comply with layout shown on reflected ceiling
+plans.
+
+3.3 INSTALLATION
+
+A. General: Install acoustical panel ceilings to comply with ASTM C 636/C 636M and seismic design
+requirements indicated, according to manufacturer's written instructions and CISCA's "Ceiling Systems Handbook."
+Fire-Rated Assembly: Install fire-rated ceiling systems according to tested fire-rated design.
+
+B. Secure bracing wires to ceiling suspension members and to supports with a minimum of four tight turns.
+Suspend bracing from building's structural members as required for hangers, without attaching to permanent metal
+forms, steel deck, or steel deck tabs. Fasten bracing wires into concrete with cast-in-place or postinstalled anchors.
+
+C. Install edge moldings and trim of type indicated at perimeter of acoustical ceiling area and where necessary to
+conceal edges of acoustical panels.
+
+D. Install suspension-system runners so they are square and securely interlocked with one another. Remove and
+replace dented, bent, or kinked members. Install acoustical panels with undamaged edges and fit accurately into
+suspension-system runners and edge moldings. Scribe and cut panels at borders and penetrations to provide a neat,
+precise fit.
+
+3.4 CLEANING
+
+A. Clean exposed surfaces of acoustical panel ceilings, including trim, edge moldings, and suspension-system
+members. Comply with manufacturer's written instructions for cleaning and touchup of minor finish damage. Remove
+and replace ceiling components that cannot be successfully cleaned and repaired to permanently eliminate evidence
+of damage.
+
+096519 - RESILIENT TILE FLOORING
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+
+1.2 SUMMARY
+
+A. Section Includes:
+
+1. Solid vinyl floor tile.
+
+2. Rubber floor tile.
+
+3. Vinyl composition floor tile.
+
+4. Resilient terrazzo floor tile.
+1.3 ACTION SUBMITTALS
+
+A. Product Data: For each type of product. Shop Drawings: For each type of floor tile. Include floor tile
+layouts, edges, columns, doorways, enclosing partitions, built-in furniture, cabinets, and cutouts. Samples:
+Full-size units of each color and pattern of floor tile required.
+
+B. Samples for Verification: Full-size units of each color and pattern of floor tile required. Welded-Seam
+Samples: For seamless-installation technique indicated and for each flooring product, color, and pattern
+required; with seam running lengthwise and in center — of 6-by-9-inch (150-by-230-mm) Sample applied to a
+rigid backing and prepared by Installer for this Project.
+
+1.4. MAINTENANCE MATERIAL SUBMITTALS
+
+A. Furnish extra materials that match products installed and that are packaged with protective covering for
+storage and identified with labels describing contents.
+1.5 DELIVERY, STORAGE, AND HANDLING
+
+A. Store floor tile and installation materials in dry spaces protected from the weather, with ambient
+temperatures maintained within range recommended by manufacturer, but not less than 50 deg F (10 deg C) or
+more than 90 deg F (32 deg C). Store floor tiles on flat surfaces.
+
+1.6 FIELD CONDITIONS
+
+A. Maintain ambient temperatures within range recommended by manufacturer, but not less than 70 deg F
+
+(21 deg C) or more than 95 deg F (35 deg C), in spaces to receive floor tile during the following time periods:
+1. 48 hours before installation.
+2. During installation.
+3. 48 hours after installation.
+
+B. After installation and until Substantial Completion, maintain ambient temperatures within range
+recommended by manufacturer, but not less than 5 deg F (13 deg C) or more than 95 deg F (35 deg C) Close
+spaces to traffic for 48 hours after floor tile installation. Install floor tile after other finishing operations,
+including painting, have been completed.
+
+PART 2- PRODUCTS
+2.1. PERFORMANCE REQUIREMENTS
+
+A. Fire-Test-Response Characteristics: For resilient tile flooring, as determined by testing identical products
+according to ASTM E 648 or NFPA 253 by a qualified testing agency.
+2.2 INSTALLATION MATERIALS
+
+A. Trowelable Leveling and Patching Compounds: Latex-modified, portland cement based or blended
+hydraulic-cement-based formulation provided or approved by floor tile manufacturer for applications indicated.
+Adhesives: Water-resistant type recommended by floor tile and adhesive manufacturers to suit floor tile and
+substrate conditions indicated. Floor Polish: Provide protective, liquid floor-polish products recommended by
+floor tile manufacturer. Joint Sealant for Resilient Terrazzo Floor Tile: Silicone sealant of type and grade
+recommended in writing by floor tile manufacturer to suit resilient terrazzo floor tile.
+
+PART3- EXECUTION
+3.1 EXAMINATION
+
+A. Examine substrates, with Installer present, for compliance with requirements for maximum moisture
+content and other conditions affecting performance of the Work. Proceed with installation only after
+unsatisfactory conditions have been corrected.
+
+3.2 PREPARATION
+
+A. Prepare substrates according to floor tile manufacturer's written instructions to ensure adhesion of
+resilient products. Concrete Substrates: Prepare according to ASTM F 710. Access Flooring Panels: Remove
+protective film of oil or other coating using method recommended by access flooring manufacturer.
+
+B. Fill cracks, holes, and depressions in substrates with trowelable leveling and patching compound; remove
+bumps and ridges to produce a uniform and smooth substrate. Do not install floor tiles until they are the same
+temperature as the space where they are to be installed. Immediately before installation, sweep and vacuum
+clean substrates to be covered by resilient floor tile.
+
+3.3 FLOOR TILE INSTALLATION
+
+A. Comply with manufacturer's written instructions for installing floor tile. Lay out floor tiles from center
+marks established with principal walls, discounting minor offsets, so tiles at opposite edges of room are of
+equal width. Adjust as necessary to avoid using cut widths that equal less than one-half tile at perimeter. Match
+floor tiles for color and pattern by selecting tiles from cartons in the same sequence as manufactured and
+packaged, if so numbered. Discard broken, cracked, chipped, or deformed tiles.
+
+B. Scribe, cut, and fit floor tiles to butt neatly and tightly to vertical surfaces and permanent fixtures including
+built-in furniture, cabinets, pipes, outlets, and door frames. Extend floor tiles into toe spaces, door reveals,
+closets, and similar openings. Extend floor tiles to center of door openings.
+
+C. Maintain reference markers, holes, and openings that are in place or marked for future cutting by repeating
+on floor tiles as marked on substrates. Use chalk or other nonpermanent marking device. Install floor tiles on
+covers for telephone and electrical ducts, building expansion-joint covers, and similar items in finished floor
+areas. Maintain overall continuity of color and pattern between pieces of tile installed on covers and adjoining
+tiles. Tightly adhere tile edges to substrates that abut covers and to cover perimeters.
+
+D. Adhere floor tiles to flooring substrates using a full spread of adhesive applied to substrate to produce a
+completed installation without open cracks, voids, raising and puckering at joints, telegraphing of adhesive
+Spreader marks, and other surface imperfections.
+
+E. Seamless Installation:
+
+1. Heat-Welded Seams: Comply with ASTM F 1516. Rout joints and heat weld with welding bead to
+permanently fuse sections into a seamless flooring. Prepare, weld, and finish seams to produce surfaces flush
+with adjoining flooring surfaces.
+
+2. Chemically Bonded Seams: Bond seams with chemical-bonding compound to permanently fuse
+sections into a seamless flooring. Prepare seams and apply compound to produce tightly fitted seams without
+gaps, overlays, or excess bonding compound on flooring surfaces.
+
+3.4 CLEANING AND PROTECTION
+
+A. Comply with manufacturer's written instructions for cleaning and protecting floor tile. Perform the
+following operations immediately after completing floor tile installation: Protect floor tile from mars, marks,
+indentations, and other damage from construction operations and placement of equipment and fixtures during
+remainder of construction period.
+
+B. Floor Polish: Remove soil, adhesive, and blemishes from floor tile surfaces before applying liquid floor
+polish. Joint Sealant: Apply sealant to resilient terrazzo floor tile perimeter and around columns, at door frames,
+and at other joints and penetrations.
+
+C. Sealers and Finish Coats: Remove soil, visible adhesive, and surface blemishes from resilient terrazzo
+floor tile surfaces before applying liquid cleaners, sealers, and finish products. Cover floor tile until Substantial
+Completion.
+
+convivat7
+Care Solutions
+GATEWAY
+
+JACKSONVILLE
+EXPANSION
+
+5238-16 Norwood Ave.,
+Suite 25,
+Jacksonville, FL 33208
+
+GEORGE W. DE LA HOZ
+FL LICENSE #AR0016664
+
+ISSUE FOR PERMIT
+90% CD PROGRESS SET
+
+04/02/2021
+02/19/2021
+
+Delta_Issue Description Date
+Nr.
+
+INTERIOR
+ARCHITECTS, RE.
+
+NM A M
+
+150 ALHAMBRA CIRCLE
+SUITE 800
+CORAL GABLES, FLORIDA 33134
+TEL 786-405-0230
+
+©2021 INTERIOR ARCHITECTS P.-C. LICENSE #AA26001062.
+ALL DRAWINGS AND WRITTEN MATERIAL HERE IN CONSTITUTE THE
+ORIGINAL AND UNPUBLISHED WORK OF THE ARCHITECT, AND THE
+SAME MAY NOT BE DUPLICATED, USED, OR DISCLOSED WITHOUT THE
+WRITTEN CONSENT OF THE ARCHITECT.
+
+Drawn: VM Check: Checker Owner Approval:
+
+Job No: 37HUMX.0331.000 Scale: 12" = 1'-0"
+
+nw: SPECIFICATIONS
+
+uAN-2.13
+

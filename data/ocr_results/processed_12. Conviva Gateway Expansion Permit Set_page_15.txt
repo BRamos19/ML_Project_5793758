@@ -1,0 +1,570 @@
+4{2/2021 10:58:15 AM
+
+072100-THERMAL INSULATION
+
+PART1- GENERAL
+1.1. RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+1. Extruded polystyrene foam-plastic board.
+2. Molded polystyrene foam-plastic board.
+3. Glass-fiber blanket.
+4. Glass-fiber board.
+5. Mineral-wool blanket.
+6. Mineral-wool board.
+1.3 ACTION SUBMITTALS
+A. Product Data: For each type of product.
+1.4 INFORMATIONAL SUBMITTALS
+A. Product Test Reports: For each product, for tests performed by a qualified testing agency.
+1.5 DELIVERY, STORAGE, AND HANDLING
+A. Protect insulation materials from physical damage and from deterioration due to moisture, soiling, and other
+sources. Store inside and in a dry location. Comply with manufacturer's written instructions for handling, storing,
+and protecting during installation.
+
+PART 2- PRODUCTS
+2.1. EXTRUDED POLYSTYRENE FOAM-PLASTIC BOARD
+
+A. Extruded polystyrene boards in this article are also called "XPS boards." Roman numeral designators in
+ASTM C 578 are assigned ina fixed random sequence, and their numeric order does not reflect increasing
+strength or other characteristics.
+
+B. Extruded Polystyrene Board, Type X <Insert drawing designation>: ASTM C 578, Type X, 15-psi (104-kPa)
+minimum compressive strength; unfaced; maximum flame-spread and smokedeveloped indexes of 25 and 450,
+respectively, per ASTM E 84.
+
+1. Fire Propagation Characteristics: Passes NFPA 285 testing as part of an approved assembly.
+2.2 MOLDED POLYSTYRENE FOAM-PLASTIC BOARD
+
+A. Molded Polystyrene Board, Type | ASTM C 578, Type I, 10-psi (69-kPa) minimum compressive strength.
+2.3 POLYISOCYANURATE FOAM-PLASTIC BOARD
+
+A. Polyisocyanurate Board, Foil Faced: ASTM C 12889, foil faced, Type |, Class 1 or 2.
+
+2.4 GLASS-FIBER BLANKET
+
+A. Sustainability Requirements: Provide glass-fiber blanket insulation as shown on drawings:
+
+B. Glass-Fiber Blanket, Unfaced: ASTM C 665, Type |; with maximum flame-spread and smokedeveloped
+indexes of 25 and 50, respectively, per ASTM E 84; passing ASTM E 136 for combustion characteristics.
+
+C. Glass-Fiber Blanket, Kraft Faced ASTM C 665, Type II (nonreflective faced), Class C (faced surface not rated
+for flame propagation); Category 1 (membrane is a vapor barrier).
+
+D. Glass-Fiber Blanket, Reinforced-Foil Faced: ASTM C 665, Type Ill (reflective faced), Class A (faced surface
+with a flame-spread index of 25 or less); Category 1 (membrane is a vapor barrier), faced with foil scrim, foil-
+scrim kraft, or foil-scrim polyethylene.
+
+E. Glass-Fiber Blanket, Foil Faced: ASTM C 666, Type Ill (reflective faced), Class B (faced surface with a flame-
+propagation resistance of 0.12 W/sq. cm); Category 1 (membrane is a vapor barrier), faced with foil scrim, foil-
+scrim kraft, or foil-scrim polyethylene.
+
+2.5 GLASS-FIBER BOARD
+
+A. Sustainability Requirements: Provide glass-fiber board insulation free of Formaldehyde: Insulation
+manufactured with 100 percent acrylic binders and no formaldehyde.
+
+B. Glass-Fiber Board, Unfaced ASTM C 612, Type IA; unfaced, with maximum flame-spread and smoke-
+developed indexes of 25 and 50, respectively, per ASTM E 84, passing ASTM E 136 for combustion
+characteristics. Nominal density of 2.25 Ib/cu. ft (. (36 kg/cu. m)), thermal resistivity of 4.3 deg Fx hx sq. ft/Btu
+x in. at 75 deg F (29.8 Kx m/W at 24 deg C).
+
+C. Glass-Fiber Board, Faced ASTM C 612, Type IA; faced on one side with foil-scrim-kraft or foil-scrim-
+polyethylene vapor retarder, with maximum flame-spread and smoke-developed indexes of 25 and 50,
+respectively, per ASTM E 84. Nominal density of 2.25 Ib/cu. ft. (6kg/cu. m), thermal resistivity of 4.3 deg Fx hx
+sq. ft/Btu x in. at 75 deg F (29.8 K x m/W at 24 deg C).
+
+2.6 MINERAL-WOOL BLANKETS
+
+A. Mineral-Wool Blanket, Unfaced ASTM C 665, Type | (blankets without membrane facing); consisting of
+fibers; with maximum flame-spread and smoke-developed indexes of 25 and 50, respectively, per ASTM E 84:
+passing ASTM E 136 for combustion characteristics.
+
+B. Mineral-Wool Blanket, Reinforced-Foil Faced ASTM C 665, Type Ill (reflective faced), Class A (faced surface
+with a flame-spread index of 25 or less per ASTM E 84); Category 1 (membrane is a vapor barrier), faced with foil
+scrim, foil-scrim kraft, or foil-scrim polyethylene.
+
+2.7 ~MINERAL-WOOL BOARD
+
+A. Mineral-Wool Board, Types IA and IB, Unfaced ASTM C 612, Types IA and IB; with maximum flame-spread
+and smoke-developed indexes of 15 and zero, respectively, per ASTM E 84; passing ASTM E 136 for combustion
+characteristics. Nominal density of 4 Ib/cu.ft. (64 kg/cu. m).
+
+B. Mineral-Wool Board, Types IA and IB, Faced ASTM C 612, Types IA and IB; faced on one side with foil-scrim
+or foil-scrim-polyethylene vapor retarder; with maximum flame-spread and smoke-developed indexes of 15 and
+zero, respectively, per ASTM E 84. Nominal density of 4 Ib/cu. ft. (64 kg/cu. m).
+
+2.8 INSULATION FASTENERS
+
+A. Adhesively Attached, Spindle-Type Anchors: Plate welded to projecting spindle; capable of holding
+insulation of specified thickness securely in position with self-locking washer in place.
+
+1. Plate: Perforated, galvanized carbon-steel sheet, 0.030 inch (0.762 mm) thick by 2 inches (50 mm)
+square.
+
+2. Spindle: Copper-coated, low-carbon steel; fully annealed; 0.105 inch (2.67 mm) in diameter; length to
+suit depth of insulation.
+
+B. Anchor Adhesive: Product with demonstrated capability to bond insulation anchors securely to substrates
+without damaging insulation, fasteners, or substrates.
+
+2.9 ACCESSORIES
+
+A. Adhesive for Bonding Insulation: Product compatible with insulation and air and water barrier materials, and
+
+with demonstrated capability to bond insulation securely to substrates without damaging insulation and substrates.
+
+PART 3 - EXECUTION
+3.1 INSTALLATION, GENERAL
+
+A. Comply with insulation manufacturer's written instructions applicable to products and applications.
+
+B. Install insulation that is undamaged, dry, and unsoiled and that has not been left exposed to ice, rain, or
+snow at any time.
+
+C. Extend insulation to envelop entire area to be insulated. Fit tightly around obstructions and fill voids with
+insulation. Remove projections that interfere with placement.
+
+D. Provide sizes to fit applications and selected from manufacturer's standard thicknesses, widths, and lengths.
+Apply single layer of insulation units unless multiple layers are otherwise shown or required to make up total
+thickness or to achieve R-value.
+
+3.2 INSTALLATION OF FOUNDATION WALL INSULATION
+
+A. Butt panels together for tight fit.
+
+B. Anchor Installation: Install board insulation on concrete substrates by adhesively attached, spindle-type
+insulation anchors as follows:
+
+1. Fasten insulation anchors to concrete substrates with insulation anchor adhesive according to anchor
+manufacturer's written instructions. Space anchors according to insulation manufacturer's written instructions for
+insulation type, thickness, and application.
+
+2. Apply insulation standoffs to each spindle to create cavity width indicated on Drawings between concrete
+substrate and insulation.
+
+3. After adhesive has dried, install board insulation by pressing insulation into position over spindles and
+securing it tightly in place with insulation-retaining washers, taking care not to compress insulation.
+
+4. Where insulation will not be covered by other building materials, apply capped washers to tips of
+spindles.
+
+C. Adhesive Installation: Install with adhesive or press into tacky waterproofing or dampproofing according to
+manufacturer's written instructions.
+3.3. INSTALLATION OF INSULATION IN FRAMED CONSTRUCTION
+
+A. Blanket Insulation: Install in cavities formed by framing members according to the following requirements:
+
+1. Use insulation widths and lengths that fill the cavities formed by framing members. If more than one
+length is required to fill the cavities, provide lengths that will produce a snug fit between ends.
+
+2. Place insulation in cavities formed by framing members to produce a friction fit between edges of
+insulation and adjoining framing members.
+
+3. Maintain 3-inch (76-mm) clearance of insulation around recessed lighting fixtures not rated for or
+protected from contact with insulation.
+
+4. Attics: Install eave ventilation troughs between roof framing members in insulated attic spaces at vented
+eaves.
+
+5. For metal-framed wall cavities where cavity heights exceed 96 inches (2438 mm), support unfaced
+blankets mechanically and support faced blankets by taping flanges of insulation to flanges of metal studs.
+
+6. Vapor-Retarder-Faced Blankets: Tape joints and ruptures in vapor-retarder facings, and seal each
+continuous area of insulation to ensure airtight installation.
+
+3.4 INSTALLATION OF CURTAIN-WALL INSULATION
+A. Install board insulation in curtain-wall construction according to curtain-wall manufacturer's written
+instructions.
+
+1. Hold insulation in place by securing metal clips and straps or integral pockets within window frames,
+spaced at intervals recommended in writing by insulation manufacturer to hold insulation securely in place without
+touching spandrel glass. Maintain cavity width of dimension indicated on Drawings between insulation and glass.
+
+2. Install insulation to fit snugly without bowing.
+
+3.5 PROTECTION
+
+A. Protect installed insulation from damage due to harmful weather exposures, physical abuse, and other
+causes. Provide temporary coverings or enclosures where insulation is subject to abuse and cannot be concealed
+and protected by permanent construction immediately after installation.
+
+099123 - INTERIOR PAINTING
+
+PART1- GENERAL
+1.1. RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section includes surface preparation and the application of paint systems on the following interior substrates:
+. Concrete.
+. Clay masonry.
+. Concrete masonry units (CMU).
+. Steel.
+. Cast iron.
+. Galvanized metal.
+. Wood.
+. Gypsum board.
+9. Plaster.
+ACTION SUBMITTALS
+. Product Data: For each type of product. Include preparation requirements and application instructions.
+. Samples for Verification: For each type of paint system and in each color and gloss of topcoat.
+1. Submit Samples on rigid backing, 8 inches (200 mm) square.
+2. Step coats on Samples to show each coat required for system.
+3. Label each coat of each Sample.
+4. Label each Sample for location and application area.
+C. Product List: For each product indicated, include the following:
+1. Cross-reference to paint system and locations of application areas. Use same designations indicated on
+Drawings and in schedules.
+2. Printout of current "MPI Approved Products List" for each product category specified in Part 2, with the
+proposed product highlighted.
+3. VOC content.
+1.4 DELIVERY, STORAGE, AND HANDLING
+A. Store materials not in use in tightly covered containers in well-ventilated areas with ambient temperatures
+continuously maintained at not less than 45 deg F (7 deg C). Maintain containers in clean condition, free of foreign
+materials and residue. Remove rags and waste _ from storage areas daily.
+1.5 FIELD CONDITIONS
+A. Apply paints only when temperature of surfaces to be painted and ambient air temperatures are between 50 and
+95 deg F (10 and 35 deg C). Do not apply paints when relative humidity exceeds 85 percent; at temperatures less
+than 5 deg F (3 deg C) above the dew point; or to damp or wet surfaces.
+
+PART2- PRODUCTS
+2.1 PAINT, GENERAL
+
+A. MPI Standards: Provide products that comply with MPI standards indicated and that are listed in its "MPI
+Approved Products List."
+
+B. Material Compatibility:
+
+1. Provide materials for use within each paint system that are compatible with one another and substrates
+indicated, under conditions of service and application as demonstrated by manufacturer, based on testing and field
+experience.
+
+2. For each coat in a paint system, provide products recommended in writing by manufacturers of topcoat for
+use in paint system and on substrate indicated.
+
+PART3- EXECUTION
+3.1. EXAMINATION
+
+A. Examine substrates and conditions, with Applicator present, for compliance with requirements for maximum
+moisture content and other conditions affecting performance of the Work.
+
+B. Maximum Moisture Content of Substrates: When measured with an electronic moisture meter as follows:
+
+1. Concrete: 12 percent.
+2. Masonry (Clay and CMU): 12 percent.
+3. Wood: 15 percent.
+4. Gypsum Board: 12 percent.
+5. Plaster: 12 percent.
+. Gypsum Board Substrates: Verify that finishing compound is sanded smooth.
+. Plaster Substrates: Verify that plaster is fully cured.
+. Spray-Textured Ceiling Substrates: Verify that surfaces are dry.
+. Verify suitability of substrates, including surface conditions and compatibility with existing finishes and primers.
+. Proceed with coating application only after unsatisfactory conditions have been corrected.
+1. Application of coating indicates acceptance of surfaces and conditions.
+3.2 PREPARATION
+
+A. Comply with manufacturer's written instructions and recommendations in "MPI Manual" applicable to substrates
+indicated.
+
+B. Remove hardware, covers, plates, and similar items already in place that are removable and are not to be
+painted. If removal is impractical or impossible because of size or weight of item, provide surface-applied protection
+before surface preparation and painting. Clean substrates of substances that could impair bond of paints, including
+dust, dirt, oil, grease, and incompatible paints and encapsulants.
+
+C. Concrete Substrates: Remove release agents, curing compounds, efflorescence, and chalk. Do not paint
+surfaces if moisture content or alkalinity of surfaces to be painted exceeds that permitted in manufacturer's written
+instructions. Masonry Substrates: Remove efflorescence and chalk. Do not paint surfaces if moisture content or
+alkalinity of surfaces or mortar joints exceed that permitted in manufacturer's written instructions.
+
+D. Shop-Primed Steel Substrates: Clean field welds, bolted connections, and abraded areas of shop paint, and
+paint exposed areas with the same material as used for shop priming to comply with SSPC-PA 1 for touching up
+shop-primed surfaces. Galvanized-Metal Substrates: Remove grease and oil residue from galvanized sheet metal
+fabricated from coil stock by mechanical methods to produce clean, lightly etched surfaces that promote adhesion of
+subsequently applied paints.
+
+3.3 APPLICATION
+
+A. Apply paints according to manufacturer's written instructions and to recommendations in "MPI Manual."
+
+B. Tint each undercoat a lighter shade to facilitate identification of each coat if multiple coats of same material are
+to be applied. Tint undercoats to match color of topcoat, but provide sufficient difference in shade of undercoats to
+distinguish each separate coat.
+
+C. If undercoats or other conditions show through topcoat, apply additional coats until cured film has a uniform
+paint finish, color, and appearance.
+
+D. Apply paints to produce surface films without cloudiness, spotting, holidays, laps, brush marks, roller tracking,
+runs, sags, ropiness, or other surface imperfections. Cut in sharp lines and color breaks.
+
+E. Painting Fire Suppression, Plumbing, HVAC, Electrical, Communication, and Electronic Safety and Security
+Work:
+
+1. Paint the following work where exposed in equipment rooms:
+
+a. Equipment, including panelboards and switch gear.
+. Uninsulated metal piping.
+. Uninsulated plastic piping.
+. Pipe hangers and supports.
+. Metal conduit.
+. Plastic conduit.
+. Tanks that do not have factory-applied final finishes.
+. Duct, equipment, and pipe insulation having cotton or canvas insulation covering or other paintable
+jacket material.
+2. Paint the following work where exposed in occupied spaces:
+a. Equipment, including panelboards.
+. Uninsulated metal piping.
+. Uninsulated plastic piping.
+. Pipe hangers and supports.
+. Metal conduit.
+. Plastic conduit.
+g. Duct, equipment, and pipe insulation having cotton or canvas insulation covering or other paintable
+jacket material.
+h. Other items as directed by Architect.
+
+3. Paint portions of internal surfaces of metal ducts, without liner, behind air inlets and outlets that are visible
+from occupied spaces.
+
+3.4 FIELD QUALITY CONTROL
+
+A. Dry Film Thickness Testing: Owner may engage the services of a qualified testing and inspecting agency to
+inspect and test paint for dry film thickness.
+
+1. Contractor shall touch up and restore painted surfaces damaged by testing.
+
+2. If test results show that dry film thickness of applied paint does not comply with paint manufacturer's written
+recommendations, Contractor shall pay for testing and apply additional coats as needed to provide dry film thickness
+that complies with paint manufacturer's written recommendations.
+
+3.5 CLEANING AND PROTECTION
+
+A. At end of each workday, remove rubbish, empty cans, rags, and other discarded materials from Project site.
+
+B. After completing paint application, clean spattered surfaces. Remove spattered paints by washing, scraping, or
+other methods. Do not scratch or damage adjacent finished surfaces.
+
+C. Protect work of other trades against damage from paint application. Correct damage to work of other trades by
+Cleaning, repairing, replacing, and refinishing, as approved by Architect, and leave in an undamaged condition.
+
+D. At completion of construction activities of other trades, touch up and restore damaged or defaced painted
+surfaces.
+
+123623.13 - PLASTIC-LAMINATE-CLAD
+COUNTERTOPS
+
+114500 - KITCHEN / PANTRY EQUIPMENT
+
+PART 1- GENERAL
+1.1. RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 1 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. This Section includes complete Kitchen / Pantry Equipment as follows:
+1. Microwave ovens.
+2. Refrigerator/freezers.
+3. Dishwashers.
+1.3. QUALITY ASSURANCE
+A. Certification Labels: Provide residential equipment which complies with standards and bears certification
+labels as follows:
+B. Energy Ratings: Provide energy guide labels with energy cost analysis (annual operating costs) and efficiency
+information as required by Federal Trade Commission.
+C. UL Standards: Provide residential equipment with UL labels.
+D. ANSI Standards: Provide gas-burning residential equipment with American Gas Assoc. (AGA) seal of approval,
+complying with ANSI 221 -Series.
+E. Uniformity: Provide products of same manufacturer for each type of residential equipment required.
+1.4 SUBMITTALS
+A. Product Data: Submit manufacturer's specifications and installation instructions for each type of residential
+equipment, including data indicating compliance with requirements. Submit operating and maintenance instructions
+for each item of residential equipment. Schedule: Submit schedule of residential equipment, using same room
+designations shown on drawings.
+1.5 SPECIFIED PRODUCT WARRANTIES
+A. Submit manufacturer's standard written warranty for each item of residential equipment.
+
+PART 2- PRODUCTS
+2.1. MANUFACTURER
+A. Subject to compliance of each equipment type requirements, provide products on one of the following: Bosch,
+General Electric, Modern Maid
+2.2 MATERIALS & FABRICATION
+A. Colors: Provide colors as indicated. If no color indicated, provide white.
+
+PART 3- EXECUTION
+3.1 TESTING
+
+A. Test each item of residential equipment to verify proper operation. Make necessary adjustments. Accessories:
+Verify that accessory items required have been furnished and installed. Cleaning: Remove packing material from
+residential equipment items and leave units in clean condition, ready for operation.
+3.2 INSTALLATION
+
+A. General: Comply with manufacturer's instructions and recommendations.
+
+B. Built-In Equipment: Securely anchor units to supporting cabinetry or countertops with concealed fasteners.
+Verify that clearances are adequate for proper functioning and rough openings are completely concealed.
+
+C. Freestanding Equipment: Place units in final locations after finishes have been completed in each area. Verify
+that clearances are adequate for proper operation of equipment.
+3.3 PROTECTION
+
+A. Protect equipment after installation from damage during construction. If damage occurs despite such
+protection, remove and replace damaged components or entire unit as required to provide units in their original,
+undamaged condition.
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+
+1.2 SUMMARY
+
+A. Section includes plastic-laminate countertops.
+1.3. ACTION SUBMITTALS
+
+A. Product Data: For each type of product, including high-pressure decorative laminate, adhesive for bonding
+plastic laminate and fire- retardant-treated materials. Include data for fire-retardant treatment from chemical-
+treatment manufacturer and certification by treating plant that treated materials comply with requirements.
+
+B. Shop Drawings: Show location of each item, dimensioned plans and elevations, large-scale details,
+attachment devices, and other components. Show locations and sizes of cutouts and holes for as required
+installed in plastic-laminate countertops. Apply AWI Quality Certification Program label to Shop Drawings.
+
+C. Samples for Verification: Plastic laminates, 8 by 10 inches (200 by 250 mm) for each type, color, pattern,
+and surface finish, with one sample applied to core material and specified edge material applied to one edge.
+1.4 DELIVERY, STORAGE, AND HANDLING
+
+A. Do not deliver countertops until painting and similar operations that could damage countertops have been
+completed in installation areas. If countertops must be stored in other than installation areas, store only in areas
+where environmental conditions comply with requirements specified in "Field Conditions’ Article.
+
+1.5 FIELD CONDITIONS
+
+A. Environmental Limitations: Do not deliver or install countertops until building is enclosed, wet work is
+complete, and HVAC system is operating and maintaining temperature and relative humidity at occupancy levels
+during the remainder of the construction period.
+
+B. Field Measurements: Where countertops are indicated to fit to other construction, verify dimensions of other
+construction by field measurements before fabrication, and indicate measurements on Shop Drawings.
+Coordinate fabrication schedule with construction progress to avoid delaying the Work.
+
+C. Established Dimensions: Where countertops are indicated to fit to other construction, establish dimensions
+for areas where countertops are to fit. Provide allowance for trimming at site, and coordinate construction to
+ensure that actual dimensions correspond to established dimensions.
+
+PART 2- PRODUCTS
+2.1 PLASTIC-LAMINATE COUNTERTOPS
+
+A. Quality Standard: Unless otherwise indicated, comply with the "Architectural Woodwork Standards" for
+grades indicated for construction, installation, and other requirements.
+
+B. Grade: Custom.
+
+C. High-Pressure Decorative Laminate: NEMA LD 3.
+
+D. Colors, Patterns, and Finishes: Provide materials and products that result in colors and textures of exposed
+laminate surfaces as shown on drawings:
+
+2.2 WOOD MATERIALS
+
+A. Wood Products: Provide materials that comply with requirements of referenced quality standard unless
+otherwise indicated.
+
+B. Composite Wood and Agrifiber Products: Provide materials that comply with requirements of referenced
+quality standard for each type of woodwork and quality grade specified unless otherwise indicated.
+
+2.3 FIRE-RETARDANT-TREATED MATERIALS
+
+A. Fire-Retardant-Treated Materials, General: Where fire-retardant-treated materials are indicated, use
+materials complying with requirements in this article that are acceptable to authorities having jurisdiction and with
+fire-test-response characteristics specified as determined by testing identical products per test method indicated
+by a qualified testing agency.
+
+B. Fire-Retardant Particleboard: Panels complying with the following requirements, made from softwood
+particles and fire-retardant chemicals mixed together at time of panel manufacture to achieve flame-spread index
+of 25 or less and smoke-developed index of 25 or less per ASTM E 84.
+
+2.4 ACCESSORIES
+
+A. Grommets for Cable Passage through Countertops: molded-plastic grommets and matching plastic caps
+with slot for wire passage.
+2.5 FABRICATION
+
+A. Complete fabrication, including assembly, to maximum extent possible before shipment to Project site.
+Disassemble components only as necessary for shipment and installation. Where necessary for fitting at site,
+provide ample allowance for scribing, trimming, and fitting.
+
+B. Shop cut openings to maximum extent possible to receive appliances, plumbing fixtures, electrical work,
+and similar items. Locate openings accurately and use templates or roughing-in diagrams to produce accurately
+sized and shaped openings. Sand edges of cutouts to remove splinters and burrs.
+
+PART3- EXECUTION
+3.1 INSTALLATION
+
+A. Assemble countertops and complete fabrication at Project site to the extent that it was not completed in the
+shop. Field Jointing: Where possible, make in the same manner as shop jointing, using dowels, splines,
+adhesives, and fasteners recommended by manufacturer. Prepare edges to be joined in shop so Project-site
+processing of top and edge surfaces is not required. Locate field joints where shown on Shop Drawings.
+
+B. Install countertops level, plumb, true, and straight. Shim as required with concealed shims. Install level and
+plumb to a tolerance of 1/8 inch in 96 inches (3 mm in 2400 mm). Scribe and cut countertops to fit adjoining
+work, refinish cut surfaces, and repair damaged finish at cuts.
+
+C. Fire-Retardant-Treated Wood: Handle, store, and install fire-retardant-treated wood to comply with chemical
+treatment manufacturer's written instructions, including those for adhesives used to install woodwork.
+Countertops: Anchor securely by screwing through corner blocks of base cabinets or other supports into underside
+of countertop.
+
+3.2 ADJUSTING AND CLEANING
+
+A. Repair damaged and defective countertops, where possible, to eliminate functional and visual defects;
+where not possible to repair, replace woodwork. Adjust joinery for uniform appearance.
+
+B. Clean countertops on exposed and semiexposed surfaces. Touch up shop-applied finishes to restore
+damaged or soiled areas.
+
+convivat7
+Care Solutions
+GATEWAY
+
+JACKSONVILLE
+EXPANSION
+
+5238-16 Norwood Ave.,
+Suite 25,
+Jacksonville, FL 33208
+
+GEORGE W. DE LA HOZ
+FL LICENSE #AR0016664
+
+ISSUE FOR PERMIT
+90% CD PROGRESS SET
+
+04/02/2021
+02/19/2021
+
+Delta_Issue Description Date
+Nr.
+
+INTERIOR
+ARCHITECTS, RE.
+
+NM A M
+
+150 ALHAMBRA CIRCLE
+SUITE 800
+CORAL GABLES, FLORIDA 33134
+TEL 786-405-0230
+
+©2021 INTERIOR ARCHITECTS P.-C. LICENSE #AA26001062.
+ALL DRAWINGS AND WRITTEN MATERIAL HERE IN CONSTITUTE THE
+ORIGINAL AND UNPUBLISHED WORK OF THE ARCHITECT, AND THE
+SAME MAY NOT BE DUPLICATED, USED, OR DISCLOSED WITHOUT THE
+WRITTEN CONSENT OF THE ARCHITECT.
+
+Drawn: VM Check: Checker Owner Approval:
+
+Job No: 37HUMX.0331.000 Scale: 12" = 1'-0"
+
+mw SPECIFICATIONS
+
+uAN-2.14
+

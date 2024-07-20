@@ -1,0 +1,197 @@
+\ths-projects05\2021\2021-0156\Cad-Revit - TBA\Structural\2021-0155 $2.0.dwg, 3/26/2021 10:55:55 AM
+
+DENNIS P. MAILLE, PE:&2625,
+EB:0007857; EXPIRES: 02-28-2023
+
+All design materials prepared by Fox Design
+Group, LLG shall remain the property of Fax
+
+Design Group, LLC, which shall also retain all
+Gg FO U N DATI O N PLAN common lew, statutory and other rights, including
+G ( ) ( ; ) { E ) N 1/8" = 1'-0" the copyright thereto
+As NOTES:
+155'-2" a
+- FLOOR CONSTRUCTION: 4" CONCRETE SLAB ON GRADE WITH ONE LAYER OF a | x
+4agn "an “pn age 6x6-W2.1xW2.1 W.W.F. PROVIDE 10 MIL VAPOR BARRIER AND 6" LAYER OF Sg
+43'-10' 42'-6 36'-0' 32'-10' GRANULAR FILL BELOW SLAB (UNO). 9 a
+z
+1 qn "oan N
+26"-4 18-6 - TOP OF SLAB ELEVATION = 0'-0", PROJECT DATUM ELEVATION = 28.50' USGS. ® +9 g
+"oO
+- ELEVATIONS NOTED THUS (+X'-X) ARE TO TOP OF FOOTING REFERENCED za E 3 Ww a
+FROM SLAB ON GRADE ELEVATION (UNO). ® 3 x Qa g g
+iia =
+Ll Thee) 2
+9 8 9 9 @ - TOP OF INTERIOR FOOTING ELEVATION = (-1'-0") (UNO). aoz Fat 3
+: a : : Fd
+<S Ry ry <S Ry, <S Ry Hy GuSz3
+28.50" Se < 1 8 < 8 < 28.00' - TOP OF EXTERIOR FOOTING ELEVATION = (-1'-4") (UNO). a = 3 & a z
+Liao
+
+SS - CONTINUOUS FOOTINGS ARE MARKED THUS: WIDTH x DEPTH
+
+- PROVIDE (2) #4x3'-0" LONG AT ALL REENTRANT CORNERS.
+
+a
+
+- SEE ARCHITECTURAL DRAWINGS FOR EXTENT AND FINISH OF SLAB ON GRADE
+AND ANY FLOOR DEPRESSIONS, UNDERFLOOR CONDUITS, DRAINS, ETC.
+
+- SEE SHEETS $1.0 & $1.1 FOR GENERAL NOTES.
+
+- SEE SHEET S4.0 FOR TYPICAL DETAILS.
+
+1'-0" CMU
+STEM WALL
+
+eee eee eee Cre rere ee errr Fe ee ce ee ee ee nee ee eee eee eee ee een eee eee n een eee enn eee ene ee nates
+
+SEE TYPICAL DETAIL ON 84.0 FOR : : : : : : : : : 4'-0" CMU
+
+HOUSEKEEPING SLAB DETAIL AT .
+SAWCUT CONTROL JOINTS, STEM WALL
+ELECTRIC SWITCHGEAR. COORD. SEE TYPICAL DETAIL ON
+
+1'-0" CMU : LOCATION W/ ARCH. & MECH. SHEET $4.0
+STEM WALL : : :
+
+- MP-X DENOTES MASONRY PIER. SEE SHEET S4.0. PROVIDE DOWELS AND
+EXTEND REINFORCING FULL HEIGHT OF WALL.
+
+- GB-1 DENOTES 24"x24" CAST-IN-PLACE CONCRETE GRADE BEAM CAST
+AGAINST EARTH WK(3) #6 CONT. TOP & BOT. SEE SECTIONS FOR STIRRUP
+SPACING.
+
+38-11"
+
+- FOUNDATIONS ADJACENT TO EXISTING STRUCTURES SHALL BEAR ON
+UNDISTURBED SOIL AT THE SAME ELEVATION OF THE EXISTING FOOTINGS.
+
+49'-8"
+
+- DENOTES PRESUMED FINISH GRADE AT LOCATION SHOWN. VERIFY
+VALUE WITH FINAL SITE PLAN AND NOTIFY ENGINEER OF ANY DISCREPANCIES.
+
+- (E) DENOTES EXISTING CONSTRUCTION.
+
+O
+1'-4" CONC.
+| | STEM WALL
+
+COLUMN FOOTING SCHEDULE 2500 PSF
+
+FOOTING SIZE
+MARK | LENGTH x WIDTH x DEPTH REINFORCING
+
+F4.0 4'-0"x4'-0"x1'-0" (4) - #5 E.W. BOT.
+
+F5.0 5'-0"x5'-0"x2'-0" (5) - #5 E.W. TOP & BOT.
+F6.0 6'-0"x6'-0"x2'-0" (6) - #5 E.W. TOP & BOT.
+F6.5 6'-6"x6'-6"x2'-0" (8) - #5 E.W. TOP & BOT.
+
+(5) - #5 S.W. BOT.
+(4) - #5 LW. BOT.
+
+(5) - #5 S.W. BOT.
+(4) - #5 LW. BOT.
+
+(6) - #5 S.W. BOT.
+(4) - #5 L.W. BOT.
+
+Q ©
+
+>
+x
+<
+—!
+<
+O
+
+Z™.
+QO
+
+F5.0x4.0 5'-0"x4'-0"x1'-2”
+
+F5.0x4.0A 5'-0"x4'-0"x2'-0"
+
+TRENCH DRAIN, SEE DIAMOND OR ROUND INFILL, : : : ser):
+: TYPICAL DETAILON : : : SEE TYPICAL INTERIOR COLUMN : :
+settee tenet eee eeeeeeeeeeeey SHEET $4.0 : : : : DETAIL ON SHEET 84.0.
+
+114'-0"
+
+F6.0x4.0 6'-0"x4'-0"x1'-2"
+
+31'-4"
+
+34'-4"
+6
+
+aNd.
+By Oe
+
+1-4" CMU: : 9 : : : S
+STEMWALL : : : :
+
+4-6"
+
+OO
+
+—l
+F.S. Lu
+3 ween ene ence nen een eee e cence nee e ne ee nn ee nn ee nn ee ne ee ne ee nn ee ence ence ence nncen nce lect ncen nce n ween weet nent dele dence eee eee eee e nee e nee le eee n eee neeeneeeneee nee cnceeneenceneeeneeen dace dececeeneeeneeens < | LU
+~ iS
+a Oz-
+2 = op)
+y a
+oh : $ AE r ‘y 2/2 oy 4 g al O
+e : yy 6|$ oy & 3\s Oy, 4 Oo.
+< 8/5 “a 5 “a OE “ae & If
+: SZ =| rN 2 r 29 |i NC
+. i) =Ib ~ : 4
+qr Ri lo : i : : : @ : : & : : 2]
+: q a = IN S en Set Pa
+(4) . : I eae DI III PIPPI IFN CP IPP PIPPI LP PIII I IIIS PRA RRR RRR ©)
+7)
+
+p77: A / P7177 71 77 A/T} 77 S77) 77 SST
+
+Ww
+| (={3) ls) 4 FUTURE ADJACENT BUILDING
+F.F.E. = 0-0"
+Va
+
+6" THICK DOCK SLAB
+W/ #4 @ 12” 0.C. EW.
+CENTERED IN SLAB.
+PROVIDE 6" LAYER
+OF GRANULAR FILL.
+
+(12'-0")
+
+MASONRY WALL REINFORCING PLAN
+
+NTS
+- W-1 REINFORCED WITH (2) #5 @ 16" 0.C.
+
+- W-2 REINFORCED WITH (2) #5 @ 24" O.C.
+
+- W-3 REINFORCED WITH (2) #5 @ 32" 0.C.
+
+PROJECT NUMBER: 01168
+
+DRAWING:
+FOUNDATION PLAN
+
+BA
+
+Thorson Baker + Associates
+CONSULTING ENGINEERS
+
+SHEET NUMBER:
+
+92.0
+
+3030 West Streetsboro Road (330) 659-6688 Ph.
+Richfield, Ohio 44286 (330) 659-6675 Fax
+

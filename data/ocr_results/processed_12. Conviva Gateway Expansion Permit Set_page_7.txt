@@ -1,0 +1,634 @@
+4{2/2021 10:58:11 AM
+
+017300 - EXECUTION
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and other
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section includes general administrative and procedural requirements governing execution of the Work
+including, but not limited to, the following:
+1. Construction layout.
+. Field engineering and surveying.
+. Installation of the Work.
+. Coordination of Owner-installed products.
+. Progress cleaning.
+. Starting and adjusting.
+. Protection of installed construction.
+. Related Requirements:
+1. Section 011000 "Summary" for limits on use of Project site.
+2. Section 013300 "Submittal Procedures" for submitting surveys.
+3. Section 017700 "Closeout Procedures" for submitting final property survey with Project Record Documents,
+recording of Owner- accepted deviations from indicated lines and levels, and final cleaning.
+4. Section 024119 "Selective Demolition" for demolition and removal of selected portions of the building.
+5. Section 078413 "Penetration Firestopping" for patching penetrations in fire-rated construction.
+
+PART 2- PRODUCTS
+2.1. MATERIALS
+A. General: Comply with requirements specified in other Sections.
+
+1. For projects requiring compliance with sustainable design and construction practices and procedures, use
+products for patching that comply with requirements in Section 018113.13 "Sustainable Design Requirements -
+LEED for New Construction and Major Renovations," Section 018113.16 "Sustainable Design Requirements - LEED
+for Commercial Interiors," Section 018113.19 "Sustainable Design Requirements - LEED for Core and Shell
+Development," and Section 018113.23 "Sustainable Design Requirements - LEED for Schools."
+
+B. In-Place Materials: Use materials for patching identical to in-place materials. For exposed surfaces, use
+materials that visually match in-place adjacent surfaces to the fullest extent possible.
+
+1. If identical materials are unavailable or cannot be used, use materials that, when installed, will provide a
+match acceptable to Architect for the visual and functional performance of in-place materials.
+
+PART 3- EXECUTION
+3.1 EXAMINATION
+
+A. Existing Conditions: The existence and location of underground and other utilities and construction indicated
+as existing are not guaranteed. Before beginning sitework, investigate and verify the existence and location of
+underground utilities, mechanical and electrical systems, and other construction affecting the Work.
+
+1. Before construction, verify the location and invert elevation at points of connection of sanitary sewer, storm
+sewer, and water-service piping; underground electrical services, and other utilities.
+
+2. Furnish location data for work related to Project that must be performed by public utilities serving Project
+site.
+
+B. Examination and Acceptance of Conditions: Before proceeding with each component of the Work, examine
+substrates, areas, and conditions, with Installer or Applicator present where indicated, for compliance with
+requirements for installation tolerances and other conditions affecting performance. Record observations.
+
+1. Examine roughing-in for mechanical and electrical systems to verify actual locations of connections before
+equipment and fixture installation.
+
+2. Examine walls, floors, and roofs for suitable conditions where products and systems are to be installed.
+
+3. Verify compatibility with and suitability of substrates, including compatibility with existing finishes or
+primers.
+
+C. Proceed with installation only after unsatisfactory conditions have been corrected. Proceeding with the
+Work indicates acceptance of surfaces and conditions.
+3.2 PREPARATION
+
+A. Existing Utility Information: Furnish information to Owner that is necessary to adjust, move, or relocate existing
+utility structures, utility poles, lines, services, or other utility appurtenances located in or affected by construction.
+Coordinate with authorities having jurisdiction.
+
+B. Field Measurements: Take field measurements as required to fit the Work properly. Recheck measurements
+before installing each product. Where portions of the Work are indicated to fit to other construction, verify
+dimensions of other construction by field measurements before fabrication. Coordinate fabrication schedule with
+construction progress to avoid delaying the Work.
+
+C. Space Requirements: Verify space requirements and dimensions of items shown diagrammatically on
+Drawings.
+
+D. Review of Contract Documents and Field Conditions: Immediately on discovery of the need for clarification of
+the Contract Documents caused by differing field conditions outside the control of Contractor, submit a request for
+information to Architect according to requirements in Section 013100 "Project Management and Coordination."
+
+3.3 CONSTRUCTION LAYOUT
+
+A. Verification: Before proceeding to lay out the Work, verify layout information shown on Drawings, in relation to
+the property survey and existing benchmarks. If discrepancies are discovered, notify Architect promptly.
+
+B. Site Improvements: Locate and lay out site improvements, including pavements, grading, fill and topsoil
+placement, utility slopes, and rim and invert elevations.
+
+C. Building Lines and Levels: Locate and lay out control lines and levels for structures, building foundations,
+column grids, and floor levels, including those required for mechanical and electrical work. Transfer survey markings
+and elevations for use with control lines and levels. Level foundations and piers from two or more locations.
+
+3.4 FIELD ENGINEERING
+
+A. Identification: Owner will identify existing benchmarks, control points, and property corners.
+
+B. Reference Points: Locate existing permanent benchmarks, control points, and similar reference points before
+beginning the Work. Preserve and protect permanent benchmarks and control points during construction
+operations.
+
+3.5 INSTALLATION
+
+A. General: Locate the Work and components of the Work accurately, in correct alignment and elevation, as
+
+indicated.
+
+1. Make vertical work plumb and make horizontal work level.
+
+2. Where space is limited, install components to maximize space available for maintenance and ease of
+removal for replacement.
+
+3. Conceal pipes, ducts, and wiring in finished areas unless otherwise indicated.
+
+4. Maintain minimum headroom clearance of 96 inches (2440 mm) in occupied spaces and 90 inches
+(2300 mm) in unoccupied spaces.
+
+B. Comply with manufacturer's written instructions and recommendations for installing products in applications
+indicated.
+
+C. Install products at the time and under conditions that will ensure the best possible results. Maintain conditions
+required for product performance until Substantial Completion.
+
+D. Conduct construction operations so no part of the Work is subjected to damaging operations or loading in
+excess of that expected during normal conditions of occupancy.
+
+E. Sequence the Work and allow adequate clearances to accommodate movement of construction items on site
+and placement in permanent locations.
+
+F. Tools and Equipment: Do not use tools or equipment that produce harmful noise levels.
+
+G. Templates: Obtain and distribute to the parties involved templates for work specified to be factory prepared and
+field installed. Check Shop Drawings of other work to confirm that adequate provisions are made for locating and
+installing products to comply with indicated requirements.
+
+H. Attachment: Provide blocking and attachment plates and anchors and fasteners of adequate size and number to
+securely anchor each += component in place, accurately located and aligned with other portions of the Work. Where size
+and type of attachments are not indicated, verify size and type required for load conditions.
+
+1. Mounting Heights: Where mounting heights are not indicated, mount components at heights directed by
+Architect.
+
+2. Allow for building movement, including thermal expansion and contraction.
+
+3. Coordinate installation of anchorages. Furnish setting drawings, templates, and directions for installing
+anchorages, including sleeves, concrete inserts, anchor bolts, and items with integral anchors, that are to be embedded
+in concrete or masonry. Deliver such items to Project site in time for installation.
+
+|. Joints: Make joints of uniform width. Where joint locations in exposed work are not indicated, arrange joints for the
+best visual effect. Fit exposed connections together to form hairline joints.
+
+J. Hazardous Materials: Use products, cleaners, and installation materials that are not considered hazardous.
+
+K. Cleaning: Clean areas and spaces where cutting and patching are performed. Remove paint, mortar, oils, putty, and
+similar materials from adjacent finished surfaces.
+
+3.6 OWNER-INSTALLED PRODUCTS
+
+A. Site Access: Provide access to Project site for Owner's construction personnel.
+
+B. Coordination: Coordinate construction and operations of the Work with work performed by Owner's construction
+personnel.
+
+1. Construction Schedule: Inform Owner of Contractor's preferred construction schedule for Owner's portion of the
+Work. Adjust construction schedule based on a mutually agreeable timetable. Notify Owner if changes to schedule are
+required due to differences in actual construction progress.
+
+3.7 PROGRESS CLEANING
+
+A. General: Clean Project site and work areas daily, including common areas. Enforce requirements strictly. Dispose
+of materials lawfully.
+
+B. Work Areas: Clean areas where work is in progress to the level of cleanliness necessary for proper execution of the
+Work.
+
+C. Installed Work: Keep installed work clean. Clean installed surfaces according to written instructions of
+manufacturer or fabricator of product installed, using only cleaning materials specifically recommended. If specific
+cleaning materials are not recommended, use cleaning materials that are not hazardous to health or property and that will
+not damage exposed surfaces.
+
+D. Concealed Spaces: Remove debris from concealed spaces before enclosing the space. Exposed Surfaces in
+Finished Areas: Clean exposed surfaces and protect as necessary to ensure freedom from damage and deterioration at
+time of Substantial Completion.
+
+E. Waste Disposal: Comply with local green building ordinance written requirements.
+
+F. During handling and installation, clean and protect construction in progress and adjoining materials already in
+place. Apply protective covering where required to ensure protection from damage or deterioration at Substantial
+Completion. Clean and provide maintenance on completed construction as frequently as necessary through the
+remainder of the construction period. Adjust and lubricate operable components to ensure operability without damaging
+effects.
+
+G. Limiting Exposures: Supervise construction operations to assure that no part of the construction, completed or in
+progress, is subject to harmful, dangerous, damaging, or otherwise deleterious exposure during the construction period.
+3.8 STARTING AND ADJUSTING
+
+A. Start equipment and operating components to confirm proper operation. Remove malfunctioning units, replace
+with new units, and retest. Adjust equipment for proper operation. Adjust operating components for proper operation
+without binding. Test each piece of equipment to verify proper operation. Test and adjust controls and safeties. Replace
+damaged and malfunctioning controls and equipment.
+
+3.9 PROTECTION OF INSTALLED CONSTRUCTION
+
+A. Provide final protection and maintain conditions that ensure installed Work is without damage or deterioration at
+
+time of Substantial Completion. Comply with manufacturer's written instructions for temperature and relative humidity.
+
+017329 - CUTTING AND PATCHING
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and other
+Division 1 Specification Sections, apply to this Section.
+
+1.2 SUMMARY
+
+A. This Section includes procedural requirements for cutting and patching.
+
+B. Related Sections include the following:
+
+1. Division 1 Section "Selective Demolition" for demolition of selected portions of the building.
+
+2. Divisions 2 through 33 Sections for specific requirements and limitations applicable to cutting and patching
+individual parts of the Work.
+
+3. Division 7 Section "Through-Penetration Firestop Systems' for patching fire-rated construction.
+
+1.3 DEFINITIONS
+
+A. Cutting: Removal of in-place construction necessary to permit installation or performance of other Work.
+Patching: Fitting and repair work required to restore surfaces to original conditions after installation of other Work.
+
+1.4. SUBMITTALS
+
+A. Cutting and Patching Proposal: Submit a proposal describing procedures before the time cutting and patching
+will be performed, requesting approval to proceed. Include the following information:
+
+1. Extent: Describe cutting and patching, show how they will be performed, and indicate why they cannot be
+avoided.
+
+2. Changes to In-Place Construction: Describe anticipated results. Include changes to structural elements and
+operating components as__ well as changes in building's appearance and other significant visual elements.
+
+3. Products: List products to be used and firms or entities that will perform the Work.
+
+4. Dates: Indicate when cutting and patching will be performed.
+
+5. Utility Services and Mechanical/Electrical Systems: List services/systems that cutting and patching
+procedures will disturb or affect. List services/systems that will be relocated and those that will be temporarily out of
+service. Indicate how long services/systems will be disrupted.
+
+6. Structural Elements: Where cutting and patching involve adding reinforcement to structural elements, submit
+details and engineering calculations showing integration of reinforcement with original structure.
+
+1.5 QUALITY ASSURANCE
+
+A. Structural Elements: Do not cut and patch structural elements in a manner that could change their load-carrying
+capacity or load-deflection ratio.
+
+B. Operational Elements: Do not cut and patch operating elements and related components in a manner that results
+in reducing their capacity to perform as intended or that results in increased maintenance or decreased operational life
+or safety.
+
+1. Primary operational systems and equipment.
+
+. Air or smoke barriers.
+
+. Fire-suppression systems.
+
+. Mechanical systems piping and ducts.
+. Control systems.
+
+. Communication systems.
+
+. Conveying systems.
+
+8. Electrical wiring systems.
+
+C. Miscellaneous Elements: Do not cut and patch miscellaneous elements or related components in a manner that
+could change their load-carrying capacity, that results in reducing their capacity to perform as intended, or that results
+in increased maintenance or decreased operational life or safety. Miscellaneous elements include the following:
+
+1. Water, moisture, or vapor barriers.
+
+2. Membranes and flashings.
+
+3. Exterior curtain-wall construction.
+
+4. Equipment supports.
+
+5. Piping, ductwork, vessels, and equipment.
+
+6. Noise- and vibration-control elements and systems.
+
+D. Visual Requirements: Do not cut and patch construction in a manner that results in visual evidence of cutting
+and patching. Do not cut and patch construction exposed on the exterior or in occupied spaces in a manner that would,
+in Architect's opinion, reduce the building's aesthetic qualities. Remove and replace construction that has been cut and
+patched in a visually unsatisfactory manner.
+
+1.6 WARRANTY
+A. Existing Warranties: Remove, replace, patch, and repair materials and surfaces cut or damaged during cutting and
+patching operations, by methods and with materials so as not to void existing warranties.
+
+PART 2- PRODUCTS
+2.1 MATERIALS
+
+A. General: Comply with requirements specified in other Sections.
+
+B. In-Place Materials: Use materials identical to in-place materials. For exposed surfaces, use materials that visually
+match in-place adjacent surfaces to the fullest extent possible. If identical materials are unavailable or cannot be used,
+use materials that, when installed, will match the visual and functional performance of in-place materials.
+
+PART3- EXECUTION
+3.1 EXAMINATION
+
+A. Examine surfaces to be cut and patched and conditions under which cutting and patching are to be performed.
+Compatibility: Before patching, verify compatibility with and suitability of substrates, including compatibility with in-
+place finishes or primers. Proceed with installation only after unsafe or unsatisfactory conditions have been corrected.
+3.2 PREPARATION
+
+A. Temporary Support: Provide temporary support of Work to be cut. Protection: Protect in-place construction during
+cutting and patching to prevent damage. Provide protection from adverse weather conditions for portions of Project that
+might be exposed during cutting and patching operations.
+
+B. Adjoining Areas: Avoid interference with use of adjoining areas or interruption of free passage to adjoining areas.
+Existing Utility Services and Mechanical/Electrical Systems: Where existing services/systems are required to be
+removed, relocated, or abandoned, bypass such services/systems before cutting to prevent interruption to occupied
+areas.
+
+3.3 PERFORMANCE
+
+A. General: Employ skilled workers to perform cutting and patching. Proceed with cutting and patching at the earliest
+feasible time, and complete without delay.
+
+1. Cut in-place construction to provide for installation of other components or performance of other construction,
+and subsequently patch as required to restore surfaces to their original condition.
+
+B. Cutting: Cut in-place construction by sawing, drilling, breaking, chipping, grinding, and similar operations,
+including excavation, using methods least likely to damage elements retained or adjoining construction. If possible,
+review proposed procedures with original Installer; comply with original Installer's written recommendations.
+
+1. In general, use hand or small power tools designed for sawing and grinding, not hammering and chopping. Cut
+holes and slots as small as possible, neatly to size required, and with minimum disturbance of adjacent surfaces.
+Temporarily cover openings when not in use.
+
+2. Finished Surfaces: Cut or drill from the exposed or finished side into concealed surfaces.
+
+3. Concrete and Masonry: Cut using a cutting machine, such as an abrasive saw or a diamond-core drill.
+
+4. Mechanical and Electrical Services: Cut off pipe or conduit in walls or partitions to be removed. Cap, valve, or
+plug and seal remaining portion of pipe or conduit to prevent entrance of moisture or other foreign matter after cutting.
+
+5. Proceed with patching after construction operations requiring cutting are complete.
+
+C. Patching: Patch construction by filling, repairing, refinishing, closing up, and similar operations following
+performance of other Work. Patch with durable seams that are as invisible as possible. Provide materials and comply with
+installation requirements specified in other Sections.
+
+1. Inspection: Where feasible, test and inspect patched areas after completion to demonstrate integrity of
+installation.
+
+2. Exposed Finishes: Restore exposed finishes of patched areas and extend finish restoration into retained
+adjoining construction in a manner that will eliminate evidence of patching and refinishing.
+
+a. Clean piping, conduit, and similar features before applying paint or other finishing materials.
+
+b. Restore damaged pipe covering to its original condition.
+
+3. Floors and Walls: Where walls or partitions that are removed extend one finished area into another, patch and
+repair floor and wall surfaces in the new space. Provide an even surface of uniform finish, color, texture, and appearance.
+Remove in-place floor and wall coverings and replace with new materials, if necessary, to achieve uniform color and
+appearance.
+
+a. Where patching occurs in a painted surface, apply primer and intermediate paint coats over the patch and
+apply final paint coat over entire unbroken surface containing the patch. Provide additional coats until patch blends with
+adjacent surfaces.
+
+4. Ceilings: Patch, repair, or rehang in-place ceilings as necessary to provide an even-plane surface of uniform
+appearance.
+
+5. Exterior Building Enclosure: Patch components in a manner that restores enclosure to a weathertight condition.
+
+D. Cleaning: Clean areas and spaces where cutting and patching are performed. Completely remove paint, mortar,
+oils, putty, and similar materials.
+
+017419 - CONSTRUCTION WASTE
+MANAGEMENT DISPOSAL
+
+PART 1- GENERAL
+1.1 RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and other
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section includes administrative and procedural requirements for the following:
+1. Salvaging nonhazardous demolition and construction waste.
+2. Recycling nonhazardous demolition and construction waste.
+3. Disposing of nonhazardous demolition and construction waste.
+B. Related Requirements:
+1. Section 024119 "Selective Demolition" for disposition of waste resulting from partial demolition of buildings,
+structures, and site improvements, and for disposition of hazardous waste.
+2. Section 042000 "Unit Masonry" for disposal requirements for masonry waste.
+1.3 DEFINITIONS
+A. Construction Waste: Building and site improvement materials and other solid waste resulting from construction,
+remodeling, renovation, or repair operations. Construction waste includes packaging.
+B. Demolition Waste: Building and site improvement materials resulting from demolition or selective demolition
+operations.
+C. Disposal: Removal off-site of demolition and construction waste and subsequent sale, recycling, reuse, or
+deposit in landfill or incinerator acceptable to authorities having jurisdiction.
+D. Recycle: Recovery of demolition or construction waste for subsequent processing in preparation for reuse.
+E. Salvage: Recovery of demolition or construction waste and subsequent sale or reuse in another facility.
+F. Salvage and Reuse: Recovery of demolition or construction waste and subsequent incorporation into the Work.
+1.4. PERFORMANCE REQUIREMENTS
+A. General: Practice efficient waste management in the use of materials in the course of the Work. Use all
+reasonable means to divert construction and demolition waste from landfills and incinerators. Facilitate recycling and
+salvage of materials.
+1. Demolition Waste:
+Asphalt paving.
+Concrete.
+Concrete reinforcing steel.
+Brick.
+Concrete masonry units.
+Wood studs.
+Wood joists.
+Plywood and oriented strand board.
+Wood paneling.
+Wood trim.
+Structural and miscellaneous steel.
+Rough hardware.
+Roofing.
+Insulation.
+Doors and frames.
+Door hardware.
+Windows.
+
+Glazing.
+Metal studs.
+Gypsum board.
+Acoustical tile and panels.
+Carpet.
+Carpet pad.
+Demountable partitions.
+Equipment.
+Cabinets.
+Plumbing fixtures.
+Piping.
+Supports and hangers.
+Valves.
+Sprinklers.
+Mechanical equipment.
+. Refrigerants.
+hh.Electrical conduit.
+ii. — Copper wiring.
+jj. Lighting fixtures.
+kk. Lamps.
+ll. Ballasts.
+mm. Electrical devices.
+nn.Switchgear and panelboards.
+00. Transformers.
+. Construction Waste:
+. Masonry and CMU.
+. Lumber.
+. Wood sheet materials.
+. Wood trim.
+. Metals.
+Roofing.
+. Insulation.
+. Carpet and pad.
+Gypsum board.
+Piping.
+. Electrical conduit.
+|. Packaging: Regardless of salvage/recycle goal indicated in "General" Paragraph above, salvage or
+recycle 100 percent of the following uncontaminated packaging materials:
+1) Paper.
+2) Cardboard.
+3) Boxes.
+4) Plastic sheet and film.
+5)
+)
+
+Fr a <> ea 2° <> So oe ==
+
+Polystyrene packaging.
+6) Wood crates.
+7) Plastic pails.
+1.5 QUALITY ASSURANCE
+A. Regulatory Requirements: Comply with hauling and disposal regulations of authorities having jurisdiction.
+B. Waste Management Conference: Conduct conference at Project site. Review methods and procedures
+related to waste management including, but not limited to, the following:
+
+1. Review and discuss waste management plan including responsibilities of waste management coordinator.
+
+2. Review requirements for documenting quantities of each type of waste and its disposition.
+3. Review and finalize procedures for materials separation and verify availability of containers and bins
+needed to avoid delays.
+4. Review procedures for periodic waste collection and transportation to recycling and disposal facilities.
+5. Review waste management requirements for each trade.
+PART 2- PRODUCTS (Not Used)
+PART3- EXECUTION
+3.1. PLAN IMPLEMENTATION
+
+A. General: Implement approved waste management plan. Provide handling, containers, storage, signage,
+transportation, and other items as required to implement waste management plan during the entire duration of the
+Contract.
+
+B. Training: Train workers, subcontractors, and suppliers on proper waste management procedures, as
+appropriate for the Work.
+
+1. Distribute waste management plan to everyone concerned.
+2. Distribute waste management plan to entities when they first begin work on-site. Review plan procedures
+and locations established for salvage, recycling, and disposal.
+
+C. Site Access and Temporary Controls: Conduct waste management operations to ensure minimum
+interference with roads, streets, walks, walkways, and other adjacent occupied and used facilities.
+
+1. Designate and label specific areas on Project site necessary for separating materials that are to be
+salvaged, recycled, reused, donated, and sold.
+3.2 SALVAGING DEMOLITION WASTE
+
+A. Salvaged Items for Reuse in the Work: Salvage items for reuse and handle as follows:
+
+1. Clean salvaged items.
+
+2. Pack or crate items after cleaning. Identify contents of containers with label indicating elements, date of
+removal, quantity, and location where removed.
+
+3. Store items in a secure area until installation.
+
+4. Protect items from damage during transport and storage.
+
+5. Install salvaged items to comply with installation requirements for new materials and equipment. Provide
+connections, supports, and miscellaneous materials necessary to make items functional for use indicated.
+
+B. Salvaged Items for Owner's Use: Salvage items for Owner's use and handle as follows:
+
+1. Clean salvaged items.
+
+2. Pack or crate items after cleaning. Identify contents of containers with label indicating elements, date of
+removal, quantity, and location where removed.
+
+3. Store items in a secure area until delivery to Owner.
+
+4. Transport items to Owner's storage area [on-site] [off-site] [designated by Owner].
+
+5. Protect items from damage during transport and storage.
+
+C. Doors and Hardware: Brace open end of door frames. Except for removing door closers, leave door hardware
+attached to doors.
+
+D. Equipment: Drain tanks, piping, and fixtures. Seal openings with caps or plugs. Protect equipment from
+exposure to weather.
+
+E. Plumbing Fixtures: Separate by type and size.
+
+F. Lighting Fixtures: Separate lamps by type and protect from breakage.
+
+G. Electrical Devices: Separate switches, receptacles, switchgear, transformers, meters, panelboards, circuit
+breakers, and other devices by type.
+
+3.3 RECYCLING DEMOLITION AND CONSTRUCTION WASTE, GENERAL
+
+A. Preparation of Waste: Prepare and maintain recyclable waste materials according to recycling or reuse
+facility requirements. Maintain materials free of dirt, adhesives, solvents, petroleum contamination, and other
+substances deleterious to the recycling process.
+
+B. Procedures: Separate recyclable waste from other waste materials, trash, and debris. Separate recyclable
+waste by type at Project site to the maximum extent practical according to approved construction waste
+management plan.
+
+1. Provide appropriately marked containers or bins for controlling recyclable waste until removed from Project
+site. Include list of acceptable and unacceptable materials at each container and bin.
+
+2. Stockpile processed materials on-site without intermixing with other materials. Place, grade, and shape
+stockpiles to drain surface water. Cover to prevent windblown dust.
+
+3. Stockpile materials away from construction area. Do not store within drip line of remaining trees.
+
+4. Store components off the ground and protect from the weather.
+
+5. Remove recyclable waste from Owner's property and transport to recycling receiver or processor.
+
+convivat7
+Care Solutions
+GATEWAY
+
+JACKSONVILLE
+EXPANSION
+
+5238-16 Norwood Ave.,
+Suite 25,
+Jacksonville, FL 33208
+
+GEORGE W. DE LA HOZ
+FL LICENSE #AR0016664
+
+ISSUE FOR PERMIT
+90% CD PROGRESS SET
+
+04/02/2021
+02/19/2021
+
+Delta_ Issue Description Date
+Nr.
+
+INTERIOR
+ARCHITECTS, RE.
+
+NM A M
+
+150 ALHAMBRA CIRCLE
+SUITE 800
+CORAL GABLES, FLORIDA 33134
+TEL 786-405-0230
+
+©2021 INTERIOR ARCHITECTS P.-C. LICENSE #AA26001062.
+ALL DRAWINGS AND WRITTEN MATERIAL HERE IN CONSTITUTE THE
+ORIGINAL AND UNPUBLISHED WORK OF THE ARCHITECT, AND THE
+SAME MAY NOT BE DUPLICATED, USED, OR DISCLOSED WITHOUT THE
+WRITTEN CONSENT OF THE ARCHITECT.
+
+Drawn: VM Check: Checker Owner Approval:
+
+Job No: 37HUMX.0331.000 Scale: 12" = 1'-0"
+
+mw: SPECIFICATIONS
+
+uAN-2.6
+

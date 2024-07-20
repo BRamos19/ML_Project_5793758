@@ -1,0 +1,65 @@
+DATE PLOTTED: 12 March 2024 9:59 AM BY : AARON WARD
+
+CAD File: C:\Users\garon\Dryside Engineering Dropbox\Dryside\1. Jobs\2023\DSE23011_Barellan_Levee\4. ENGINEERING\2.Drawings\DSE2301 1-1250.dwg
+
+XREF's: X-DSE23011-TYPICALS
+
+LEGEND - DRAINAGE LONG SECTIONS
+FINISHED SURFACE
+
+EXISTING SURFACE
+
+KURRAJONG STREET
+
+MYALL STREET
+
+QUADES ROAD KURRAWANG STREET BARELLAN ROAD
+
+DRAINAGE SECTION
+
+PIT NUMBER
+
+0
+
+Ve - CAPACITY VELOCITY (m/s) Vo =0.71 mis Ve = 1.25 mis Ve = 1.04 mis Ve = 1.13 mis Ve = 1.25 mis
+
+Qcap - CAPACITY FLOW (L/s) Qeap = 79 Lis Qcap = 451 Lis Qcap = 165 Lis Qeap = 125 Lis =| Qeap = 451 Lis
+PIPE SIZE (mm) 375 D (2x)600x300 @ 450 @ 375. =| (2x)600x300 @
+PIPE TYPE & CLASS RCP CLASS 4 BC RCP CLASS 4 RCP CLASS 4 BC
+
+PIPE GRADE (‘in) 1 IN 500 1 IN 300 1 IN 300 1 IN 200 1 IN 300
+
+DATUM RL (AHD)
+
+: S 2 a § al & B
+8 3B D4 ra =
+2 z 2 g 2 r=) 2 8
+
+LENGTH, CHAINAGE oS L= 14.40 m =x co L = 28,78 m g cS L = 20.81 m Rg oS =
+
+KURRAJONG STREET BOREE STREET KURRAJONG STREET YARRAN STREET KURRAJONG STREET KOOBA STREET
+
+Ve - CAPACITY VELOCITY (m/s) Ve = 1.13 mis Ve = 1.25 mis Ve = 1.13 mis Ve = 1.25 mis Ve = 1.13 mis Ve = 1.25 mis
+Qcap - CAPACITY FLOW (L/s) Qcap = 125 Lis Qcap = 451 Lis Qcap = 125 Lis aml Qcap = 226 Lis =| Qeap = 125 Lis = Qcap = 226 Lis
+PIPE SIZE (mm) 375 D (2x)600x300 @ 375 D 600x300 @ | 3758 Lee 600x300 @
+PIPE TYPE & CLASS RCP CLASS 4 BC RCP CLASS 4 BC RCP CLASS 4 BC
+
+PIPE GRADE (‘in) 1 IN 200 1 IN 300 1 IN 200 1 IN 300 1 IN 200 1 IN 300
+
+DATUM RL (AHD)
+DEPTH TO INVERT gs ! als 5 ge 5
+EXISTING SURFACE 3 | : 5 : : :
+
+DRAINAGE LONGITUDINAL SECTIONS
+SCALE H 1:200 V 1:40 FOR CONSTRUCTION
+© Dryside Engineering (Aust) Pty Ltd. NARRANDERA SHIRE COUNCIL
+
+This plan and the design here within is produced by DRYSI DE BARELLAN LEVEE DESIGN DRAWN DATE] SCALE DATUM
+
+client in accordance with the terms and conditions of the ED HENTY
+signed contract. Dryside Engineering does not and shall ENG | N EER | NG APPROVED BARELLAN, NSW 2665 DESIGNED DATE] PROJECTION SHEET SIZE
+not assume any responsibility or liability whatsoever to DETAILED DESIGN A.WARD 25/05/2023 GD94 Al
+0 . any third party arising out of any use or reliance by third
+7aR03 004 | CONSTRUCTION ISSUE oe party on the content of this document. www.dryside.com.au DRAINAGE LONGITUDINAL SECTIONS DSE23011-1250
+DATE DESCRIPTION ABN:45639039839 ED HENTY SHEET 1 OF 2
+

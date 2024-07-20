@@ -1,0 +1,590 @@
+4{2/2021 10:58:12 AM
+
+035420 - CEMENT BASED
+UBDERLAYMENT
+
+055000 - METAL FABRICATIONS
+
+061000 - ROUGH CARPENTRY
+
+PART 1- GENERAL
+1.1. RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 1 Specification Sections, apply to this Section.
+1.2 SUMMARY
+
+A. This Section includes complete cement-based, polymer-modified, self-leveling underlayment for interior
+finish flooring over concrete fill / metal decking composite floor deck.
+1.3 SUBMITTALS
+
+A. Product Data: For each type of product indicated.
+
+B. Shop Drawings: Plans indicating substrates, locations, and average depths of cement-based underlayment
+based on survey of substrate conditions.
+1.4 QUALITY ASSURANCE
+
+A. Installer Qualifications: An experienced installer (applicator) who is acceptable to manufacturer, who has
+completed cement-based underlayment applications similar in material and extent to that required for this Project,
+and whose work has resulted in construction with a record of successful in-service performance.
+1.5 DELIVERY, STORAGE, AND HANDLING
+
+A. Deliver materials in original packages and containers, with seals unbroken, bearing manufacturer's labels
+indicating brand name and directions for storage, mixing with other components, and application.
+
+B. Store materials to comply with manufacturer's written instructions to prevent deterioration from moisture or
+other detrimental effects.
+1.6 PROJECT CONDITIONS
+
+A. Environmental Limitations: Comply with manufacturer's written recommendations for substrate temperature
+and moisture content, ambient temperature and humidity, ventilation, and other conditions affecting underlayment
+performance.
+
+B. Close areas to traffic during underlayment application and for time period after application recommended in
+writing by manufacturer.
+1.7 COORDINATION
+
+A. Coordinate cement-based underlayment with requirements of finish flooring products, including adhesives,
+specified in Division 9 Sections.
+
+1. Before installing surface sealers recommended by underlayment manufacturer, if any, verify compatibility
+
+with finish flooring installation adhesives.
+
+PART 2- PRODUCTS
+2.1. MANUFACTURERS
+A. Available Products: Subject to compliance with requirements, products that may be incorporated into the
+Work include, but are not limited to, the following:
+. K-15 Self-Leveling Underlayment Concrete; Ardex, Inc.
+. 300 Premium Underlayment; Burke Group, LLC (The).
+. Conflow; Conspec Marketing and Manufacturing Co., Inc.
+. Selby Self-Leveling Underlayment; Harris Specialty Chemicals, Inc.
+. Thoro Underlayment, Self-Leveling; Harris Specialty Chemicals, Inc.
+. Levelex Underlayment; L&M Construction Chemicals, Inc.
+7. Ultra/Plan MB; Mapei Corporation.
+2.2 PRODUCTS AND MATERIALS
+A. Underlayment: Cement-based, polymer-modified, self-leveling product that can be applied in uniform
+thicknesses from 1/8 inch and that can be feathered at edges to match adjacent floor elevations.
+1. Cement Binder: ASTM C 150, portland cement, or hydraulic or blended hydraulic cement as defined by
+ASTM C 219.
+2. Compressive Strength: Not less than 4100 psi at 28 days when tested according to ASTM C 109/C 109M.
+3. Underlayment Additive: Resilient-emulsion product of underlayment manufacturer formulated for use with
+underlayment when applied to substrate and conditions indicated.
+B. Aggregate: Well-graded, washed gravel, 1/8 to 1/4 inch, or coarse sand as recommended by underlayment
+manufacturer.
+1. Provide aggregate when recommended in writing by underlayment manufacturer for underlayment
+thickness required.
+C. Water: Potable and at a temperature of not more than 70 deg F.
+D. Reinforcement: For underlayment applied to wood substrates, provide galvanized metal lath or other
+corrosion-resistant reinforcement recommended in writing by underlayment manufacturer.
+E. Primer: Product of underlayment manufacturer recommended in writing for substrate, conditions, and
+application indicated.
+
+PART 3- EXECUTION
+3.1 EXAMINATION
+
+A. Examine substrates, with Installer present, for conditions affecting performance of underlayment including
+substrate moisture content. Begin underlayment application only after unsatisfactory conditions have been
+corrected.
+
+3.2 PREPARATION
+
+A. General: Prepare and clean substrate according to manufacturer's written instructions for substrate indicated.
+Provide clean, dry, neutral-pH substrate for underlayment application.
+
+1. Treat nonmoving substrate cracks to prevent cracks from telegraphing (reflecting) through underlayment
+according to manufacturer's written recommendations.
+2. Fill substrate voids to prevent underlayment from leaking.
+
+B. Concrete Substrates: Mechanically remove laitance, glaze, efflorescence, curing compounds, form-release
+agents, dust, dirt, grease, oil, and other contaminants that might impair underlayment bond according to
+manufacturer's written instructions.
+
+C. Adhesion Tests: After substrate preparation, test substrate for adhesion with underlayment according to
+manufacturer's written instructions.
+
+3.3 APPLICATION
+
+A. General: Mix and apply underlayment components according to manufacturer's written instructions.
+
+1. Coordinate application of components to provide optimum underlayment-to-substrate and intercoat
+adhesion.
+
+2. At substrate expansion, isolation, and other moving joints, allow joint of same width to continue through
+underlayment.
+
+B. Apply primer over prepared substrate at manufacturer's recommended spreading rate.
+
+C. Apply underlayment to produce uniform, level surface.
+
+1. Apply a final layer without aggregate if required to produce smooth surface.
+2. Feather edges to match adjacent floor elevations.
+
+D. Cure underlayment according to manufacturer's written instructions. Prevent contamination during application
+and curing processes.
+
+E. Do not install finish flooring over underlayment until after time period recommended by underlayment
+manufacturer.
+
+F. Remove and replace underlayment areas that evidence lack of bond with substrate, including areas that emit a
+"hollow" sound when tapped.
+
+3.4 FIELD QUALITY CONTROL
+
+A. Slump Test: If slump testing is recommended in writing by manufacturer, test underlayment for slump as it is
+placed for compliance with manufacturer's written recommendations.
+
+B. Field Samples: Take at least three molded-cube samples from each underlayment batch. Test samples
+according to ASTM C 109/C 109M for compliance with compressive-strength requirements. When requested,
+provide test results to Architect.
+
+3.5 PROTECTION
+A. Protect underlayment from concentrated and rolling loads for remainder of construction period.
+
+PART 1- GENERAL
+1.1. RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and SupplementaryConditions and Division
+01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+1. Steel framing and supports for ceiling-hung toilet compartments.
+2. Steel framing and supports for operable partitions.
+3. Steel framing and supports for overhead doors.
+4. Steel framing and supports for countertops.
+5. Steel tube reinforcement for low partitions.
+6. Steel framing and supports for mechanical and electrical equipment.
+7. Steel framing and supports for applications where framing and supports are not specified in other Sections.
+8. Shelf angles.
+9. Miscellaneous steel trim
+1.3. COORDINATION
+A. Coordinate selection of shop primers with topcoats to be applied over them. Comply with paint and coating
+manufacturers’ written recommendations to ensure that shop primers and topcoats are compatible with one another.
+B. Coordinate installation of metal fabrications that are anchored to or that receive other work. Furnish setting
+drawings, templates, and directions for installing anchorages, including sleeves, concrete inserts, anchor bolts, and
+items with integral anchors, that are to be embedded in concrete or masonry. Deliver such items to Project site in time
+for installation.
+1.4 ACTION SUBMITTALS
+A. Shop Drawings: Show fabrication and installation details. Include plans, elevations, sections, and details of
+metal fabrications and their connections. Show anchorage and accessory items.
+1.5 FIELD CONDITIONS
+A. Field Measurements: Verify actual locations of walls and other construction contiguous with metal fabrications
+by field measurements before fabrication.
+
+PART 2- PRODUCTS
+2.1. METALS
+
+A. Metal Surfaces, General: Provide materials with smooth, flat surfaces unless otherwise indicated. For metal
+fabrications exposed to view in the completed Work, provide materials without seam marks, roller marks, rolled trade
+names, or blemishes.
+
+2.2 FASTENERS
+
+A. General: Unless otherwise indicated, provide Type 304 stainless-steel fasteners for exterior use and zinc-plated
+fasteners with coating complying with ASTM B 633 or ASTM F 1941 (ASTM F 1941M), Class Fe/Zn 5, at exterior
+walls. Select fasteners for type, grade, and class required.
+
+2.3 MISCELLANEOUS MATERIALS
+
+A. Low-Emitting Materials: Paints and coatings shall comply with the testing and product requirements of the
+California Department of Public Health's (formerly, the California Department of Health Services’) "Standard Method
+for the Testing and Evaluation of Volatile Organic Chemical Emissions from Indoor Sources Using Environmental
+Chambers."
+
+B. Shop Primers: Provide primers that comply with manufacturer's recommendations and industry standards.
+Universal Shop Primer: Fast-curing, lead- and chromate-free, universal modifiedalkyd primer complying with MPI#79
+and compatible with topcoat.
+
+C. Epoxy Zinc-Rich Primer: Complying with MPI#20 and compatible with topcoat.
+
+D. Shop Primer for Galvanized Steel: Primer formulated for exterior use over zinc-coated metal and compatible with
+finish paint systems indicated.
+
+E. Galvanizing Repair Paint: High-zinc-dust-content paint complying with SSPC-Paint 20 and compatible with
+paints specified to be used over it.
+
+F. Nonshrink, Nonmetallic Grout: Factory-packaged, nonstaining, noncorrosive, nongaseous grout complying with
+ASTM C 1107/C 1107M. Provide grout specifically recommended by manufacturer for interior and exterior
+applications.
+
+2.4 FABRICATION, GENERAL
+
+A. Shop Assembly: Preassemble items in the shop to greatest extent possible. Disassemble units only as
+necessary for shipping and handling limitations. Use connections that maintain structural value of joined pieces.
+Clearly mark units for reassembly and coordinated installation.
+
+B. Cut, drill, and punch metals cleanly and accurately. Remove burrs and ease edges to a radius of approximately
+1/32 inch (1 mm) unless otherwise indicated. Remove sharp or rough areas on exposed surfaces.
+
+C. Form bent-metal corners to smallest radius possible without causing grain separation or otherwise impairing
+work.
+
+D. Form exposed work with accurate angles and surfaces and straight edges.
+
+E. Weld corners and seams continuously to comply with the following:
+
+1. Use materials and methods that minimize distortion and develop strength and corrosion resistance of base
+metals.
+
+2. Obtain fusion without undercut or overlap.
+
+3. Remove welding flux immediately.
+
+4. At exposed connections, finish exposed welds and surfaces smooth and blended so no roughness shows after
+finishing and contour of welded surface matches that of adjacent surface.
+
+F. Form exposed connections with hairline joints, flush and smooth, using concealed fasteners or welds where
+possible. Where exposed fasteners are required, use Phillips flat-head (countersunk) fasteners unless otherwise
+indicated. Locate joints where least conspicuous.
+
+2.5 MISCELLANEOUS FRAMING AND SUPPORTS
+
+A. General: Provide steel framing and supports not specified in other Sections as needed to complete the Work.
+
+B. Fabricate units from steel shapes, plates, and bars of welded construction unless otherwise indicated. Fabricate
+to sizes, shapes, and _ profiles indicated and as necessary to receive adjacent construction.
+
+C. Fabricate supports for operable partitions from continuous steel beams of sizes recommended by partition
+manufacturer with attached bearing plates, anchors, and braces as recommended by partition manufacturer.
+
+2.6 FINISHES, GENERAL
+A. Finish metal fabrications after assembly. Finish exposed surfaces to remove tool and die marks and stretch lines,
+and to blend into surrounding surface.
+2.7 ALUMINUM FINISHES
+A. As-Fabricated Finish: AA-M12.
+B. Clear Anodic Finish: AAMA 611, Class I, AA-M12C22A41.
+
+PART3- EXECUTION
+3.1 INSTALLATION, GENERAL
+
+A. Cutting, Fitting, and Placement: Perform cutting, drilling, and fitting required for installing metal fabrications. Set
+metal fabrications accurately in location, alignment, and elevation; with edges and surfaces level, plumb, true, and
+free of rack; and measured from established lines and levels.
+
+B. Fit exposed connections accurately together to form hairline joints. Weld connections that are not to be left as
+exposed joints but cannot be shop welded because of shipping size limitations.
+
+C. Fastening to In-Place Construction: Provide anchorage devices and fasteners where metal fabrications are
+required to be fastened to in-place construction. Provide threaded fasteners for use with concrete and masonry inserts,
+toggle bolts, through bolts, and other connectors.
+
+D. Corrosion Protection: Coat concealed surfaces of aluminum that come into contact with grout, concrete,
+masonry, wood, or dissimilar metals with the following:
+
+3.2 ADJUSTING AND CLEANING
+
+A. Touchup Painting: Immediately after erection, clean field welds, bolted connections, and abraded areas. Paint
+uncoated and abraded areas with the same material as used for shop painting to comply with SSPC-PA 1 for touching
+up shop-painted surfaces.
+
+B. Galvanized Surfaces: Clean field welds, bolted connections, and abraded areas and repair galvanizing to comply
+with ASTM A 780/A 780M.
+
+PART1- GENERAL
+1.1. RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and SupplementaryConditions and Division
+01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+
+1. Wood furring
+
+2. Utility shelving.
+
+3. Solid Wood Blocking
+
+4. Plywood backing panels.
+
+5. Fire Retardant Treaded Wood.
+
+1.3. DEFINITIONS
+A. Lumber grading agencies, and the abbreviations used to reference them, include the following:
+
+1. NeLMA: Northeastern Lumber Manufacturers’ Association.
+
+2. NLGA: National Lumber Grades Authority.
+
+3. RIS: Redwood Inspection Service.
+
+4. SPIB: The Southern Pine Inspection Bureau.
+
+5. WCLIB: West Coast Lumber Inspection Bureau.
+
+6. WWPA: Western Wood Products Association.
+
+1.4 ACTION SUBMITTALS
+A. Product Data: For each type of process and factory-fabricated product. Indicate componentmaterials and
+dimensions and include construction and application details.
+
+1. Include data for fire-retardant treatment from chemical treatment manufacturer andcertification by treating
+plant that treated materials comply with requirements. Include physical properties of treated materials based
+on testing by a qualified independent
+
+testing agency.
+
+1.5 QUALITY ASSURANCE
+
+A. Testing Agency Qualifications: For testing agency providing classification marking for fireretardanttreated
+material, an inspection agency acceptable to authorities having jurisdiction thatperiodically performs inspections to
+verify that the material bearing the classification marking is representative of the material tested.
+1.6 DELIVERY, STORAGE, AND HANDLING
+
+A. Stack lumber flat with spacers beneath and between each bundle to provide air circulation. Protect lumber from
+weather by covering with waterproof sheeting, securely anchored. Provide for air circulation around stacks and under
+coverings.
+
+PART 2- PRODUCTS
+2.1 FIRE-RETARDANT-TREATED MATERIALS
+
+A. General: Where fire-retardant-treated materials are indicated, use materials complying withrequirements in this
+article, that are acceptable to authorities having jurisdiction, and with firetest-response characteristics specified as
+determined by testing identical products per test
+
+method indicated by a qualified testing agency.
+
+B. Fire-Retardant-Treated Lumber and Plywood by Pressure Process: Products with a flame spreadindex of 25 or
+less when tested according to ASTM E 84, and with no evidence of significantprogressive combustion when the test
+is extended an additional 20 minutes, and with the flame front not extending more than 10.5 feet (3.2 m) beyond the
+centerline of the burners at any time during the test.
+
+C. Kiln-dry lumber after treatment to a maximum moisture content of 19 percent. Kiln-dry plywood after treatment
+to a maximum moisture content of 15 percent.
+
+2.2 PLYWOOD BACKING PANELS
+
+A. Equipment Backing Panels: DOC PS 1, fire-retardant treated, in thickness indicated or, if not indicated, not less
+than 3/4-inch (19-mm) nominal thickness.
+2.3 FASTENERS
+
+A. Power-Driven Fasteners: NES NER-272. Expansion Anchors: Anchor bolt and sleeve assembly of material
+indicated below with capability to sustain, without failure, a load equal to six times the load imposed when installed
+in unit masonry assemblies and equal to four times the load imposed when installed in concrete as determined by
+testing per ASTM E 488 conducted by a qualified independent testing and inspecting agency.
+
+24 MISCELLANEOUS MATERIALS
+
+A. Sill-Sealer Gaskets: Closed-cell neoprene foam, 1/4 inch (6.4 mm) thick, selected from manufacturer's
+standard widths to suit width of sill members indicated.
+
+B. Adhesives for Gluing Furring to Concrete or Masonry: Formulation complying with ASTM D 3498 that is
+approved for use indicated by adhesive manufacturer.
+
+PART3- EXECUTION
+3.1. INSTALLATION, GENERAL
+A. Install plywood backing panels by fastening to studs; coordinate locations with utilities requiring backing
+panels. Install fire-retardant treated plywood backing panels with classification marking of testing agency exposed to
+view.
+B. Provide blocking and framing as indicated and as required to support facing materials, fixtures, specialty items,
+and trim.
+C. Securely attach rough carpentry work to substrate by anchoring and fastening as indicated, complying with the
+following:
+1. NES NER-272 for power-driven fasteners.
+2. Table 2304.9.1, "Fastening Schedule," in ICC's International Building Code.
+3.2 WOOD BLOCKING, AND NAILER INSTALLATION
+A. Install where indicated and where required for attaching other work. Form to shapes indicated and cut as
+required for true line and level of attached work. Coordinate locations with other work involved.
+3.3 WOOD FURRING INSTALLATION
+A. Install level and plumb with closure strips at edges and openings. Shim with wood as required for tolerance of
+finish work.
+B. Furring to Receive Gypsum Board: Install 1-by-2-inch nominal- (19-by-38-mm actual-) size furring vertically
+at 16 inches (406 mm)
+400 mm o.c.
+
+062023 - INTERIOR FINISH CARPENTRY
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division
+01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+1. Interior trim, including non-tfire-rated interior door and sidelight frames.
+2. Fire-rated interior door and sidelight frames.
+3. Interior plywood
+4. Shelving.
+5. Interior railings.
+1.3 ACTION SUBMITTALS
+A. Product Data: For each type of process and factory-fabricated product. Indicate component materials,
+dimensions, profiles, textures, and colors and include construction and application details.
+1. Include data for fire-retardant treatment from chemical-treatment manufacturer and certification by treating
+plant that treated materials comply with requirements.
+
+1.4 DELIVERY, STORAGE, AND HANDLING
+A. Stack plywood flat with spacers between each bundle to provide air circulation. Protect materials from
+weather by covering with waterproof sheeting, securely anchored. Provide for air circulation around stacks and
+under coverings. Deliver interior finish carpentry materials only when environmental conditions meet requirements
+specified for installation areas. If interior finish carpentry materials | must be stored in other than installation
+areas, store only where environmental conditions meet requirements specified for installation areas.
+1.5 FIELD CONDITIONS
+A. Environmental Limitations: Do not deliver or install interior finish carpentry materials until building is
+enclosed and weatherproof, wet work in space is completed and nominally dry, and HVAC system is operating and
+maintaining temperature and relative humidity at occupancy levels during the remainder of the construction
+period.
+B. Do not install finish carpentry materials that are wet, moisture damaged, or mold damaged.
+1. Indications that materials are wet or moisture damaged include, but are not limited to, discoloration,
+sagging, or irregular shape.
+2. Indications that materials are mold damaged include, but are not limited to, fuzzy or splotchy surface
+contamination and discoloration.
+
+PART 2- PRODUCTS
+2.1 MATERIALS, GENERAL
+
+A. Factory mark each piece of lumber with grade stamp of inspection agency indicating grade, species,
+moisture content at time of surfacing, and mill. MDF: ANSI A208.2, Grade 130, made with binder containing no
+urea-formaldehyde resin. Particleboard: ANSI A208.1, Grade M-2, made with binder containing no urea-
+formaldehyde resin.
+
+2.2 _FIRE-RETARDANT-TREATED MATERIALS
+
+A. General: For applications indicated, use materials complying with requirements in this article that are
+acceptable to authorities having jurisdiction, and comply with testing requirements; testing by a qualified testing
+agency.
+
+B. Fire-Retardant-Treated Lumber and Plywood by Pressure Process: Products with a flame-spread index of 25
+or less when tested according to ASTM E 84, with no evidence of significant progressive combustion when the
+test is extended an additional 20 minutes, and with the flame front not extending more than 10.5 feet (3.2 m)
+beyond the centerline of the burners at any time during the test.
+
+1. Kiln dry lumber and plywood after treatment to a maximum moisture content of 19 and 15 percent
+respectively.
+
+C. Identify fire-retardant-treated wood with appropriate classification marking of testing and inspecting agency
+acceptable to authorities having jurisdiction.
+
+2.3 FIRE-RATED INTERIOR DOOR AND SIDELIGHT FRAMES
+
+A. Frames, complete with casings, fabricated from fire-retardant particleboard, or from solid fire-retardant-
+treated wood. Frames shall comply with NFPA 80 and be listed and labeled by a testing and inspecting agency
+acceptable to authorities having jurisdiction, based on testing according to NFPA 252.
+
+2.4 SHELVING
+
+A. Shelf Brackets with Rod Support: BHMA A156.16, B04051; prime-painted formed steel. Shelf Brackets
+without Rod Support: BHMA A156.16, B04041; prime-painted formed steel. Standards for Adjustable Shelf
+Brackets: BHMA A156.9, B04102; zinc-plated steel. Adjustable Shelf Brackets: BHMA A156.9, BO4112; zinc-
+plated steel. Standards for Adjustable Shelf Supports: BHMA A156.9, B04071:; zinc-plated steel. Adjustable Shelf
+Supports: BHMA A156.9, B04081 or BO4091; zinc-plated steel. Clothes Rods: 1-5/16-inch- (33-mm-) diameter,
+chrome-plated-steel tubes.
+
+2.5 RAILINGS
+
+A. Interior Railings: Clear, kiln-dried red oak or similar of pattern indicated, either solid or laminated.
+
+B. Balusters: Clear, kiln-dried, red oak, or similar turned balusters of pattern and size indicated.
+
+C. Newel Posts: Clear, kiln-dried, red oak or similar.turned newel posts of pattern and size indicated.
+
+PART 3- EXECUTION
+3.1 EXAMINATION
+
+A. Examine substrates, with Installer present, for compliance with requirements for installation tolerances and
+other conditions affecting performance. Examine finish carpentry materials before installation. Reject materials
+that are wet, moisture damaged, and mold damaged. Proceed with installation only after unsatisfactory conditions
+have been corrected.
+
+3.2 PREPARATION
+
+A. Clean substrates of projections and substances detrimental to application. Before installing interior finish
+carpentry, condition materials to average prevailing humidity in installation areas for a minimum of 24
+hours unless longer conditioning is recommended by manufacturer.
+
+3.3 INSTALLATION, GENERAL
+
+A. Do not use materials that are unsound, warped, improperly treated or finished, inadequately seasoned, too
+small to fabricate with proper jointing arrangements, or with defective surfaces, sizes, or patterns.
+
+B. Install interior finish carpentry level, plumb, true, and aligned with adjacent materials. Use concealed shims
+where necessary for alignment.
+
+1. Scribe and cut interior finish carpentry to fit adjoining work. Refinish and seal cuts as recommended by
+manufacturer.
+
+2. Install to tolerance of 1/8 inch in 96 inches (3 mm in 2438 mm) for level and plumb. Install adjoining
+interior finish carpentry with 1/32-inch (0.8-mm) maximum offset for flush installation and 1/16-inch (1.5-mm)
+maximum offset for reveal installation.
+
+3.4. SHELVING AND CLOTHES ROD INSTALLATION
+
+A. Cut shelf cleats at ends of shelves about 1/2 inch (13 mm) less than width of shelves and sand exposed
+ends smooth.
+
+B. Install shelf cleats by fastening to framing or backing with finish nails or trim screws, set below face and
+filled. Space fasteners not more than 16 inches (400 mm) o.c. Use 2 fasteners at each framing member or
+fastener location for cleats 4 inches nominal (89 mm actual) in width and wider.
+
+C. Install shelf brackets according to manufacturer's written instructions, spaced not more than 32 inches (800
+mm) 0.c. Fasten to framing members, blocking, or metal backing, or use toggle bolts or hollow wall anchors.
+
+D. Install standards for adjustable shelf supports according to manufacturer's written instructions. Fasten to
+framing members, blocking, or metal backing, or use toggle bolts or hollow wall anchors. Space fasteners not
+more than 12 inches (300 mm) o.c.
+
+E. Install standards for adjustable shelf brackets according to manufacturer's written instructions, spaced not
+more than 36 inches (900 mm) o.c. and within 6 inches (150 mm) of end of shelves. Fasten to framing members,
+blocking, or metal backing, or use toggle bolts or hollow wall anchors.
+
+3.5 RAILING INSTALLATION
+
+A. Railings: Secure wall rails with metal brackets. Fasten freestanding railings to newel posts and to trim at
+walls with countersunk-head wood screws or rail bolts, and glue. Assemble railings at goosenecks, easements,
+and splices with rail bolts and glue.
+
+3.6 ADJUSTING
+
+A. Replace interior finish carpentry that is damaged or does not comply with requirements. Interior finish
+carpentry may be repaired or refinished if work complies with requirements and shows no evidence of repair or
+refinishing. Adjust joinery for uniform appearance.
+
+3.7 CLEANING
+A. Clean interior finish carpentry on exposed and semiexposed surfaces. Restore damaged or soiled areas and
+touch up factory-applied finishes, if any.
+3.8 PROTECTION
+A. Protect installed products from damage from weather and other causes during construction.
+B. Remove and replace finish carpentry materials that are wet, moisture damaged, and mold damaged
+
+convivat7
+Care Solutions
+GATEWAY
+
+JACKSONVILLE
+EXPANSION
+
+5238-16 Norwood Ave.,
+Suite 25,
+Jacksonville, FL 33208
+
+GEORGE W. DE LA HOZ
+FL LICENSE #AR0016664
+
+ISSUE FOR PERMIT
+90% CD PROGRESS SET
+
+04/02/2021
+02/19/2021
+
+Delta_Issue Description Date
+Nr.
+
+INTERIOR
+ARCHITECTS, RE.
+
+NM A M
+
+150 ALHAMBRA CIRCLE
+SUITE 800
+CORAL GABLES, FLORIDA 33134
+TEL 786-405-0230
+
+©2021 INTERIOR ARCHITECTS P.-C. LICENSE #AA26001062.
+ALL DRAWINGS AND WRITTEN MATERIAL HERE IN CONSTITUTE THE
+ORIGINAL AND UNPUBLISHED WORK OF THE ARCHITECT, AND THE
+SAME MAY NOT BE DUPLICATED, USED, OR DISCLOSED WITHOUT THE
+WRITTEN CONSENT OF THE ARCHITECT.
+
+Drawn: VM Check: Checker Owner Approval:
+
+Job No: 37HUMX.0331.000 Scale: 12" = 1'-0"
+
+mw SPECIFICATIONS
+
+uAN-2.8
+

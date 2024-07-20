@@ -1,0 +1,530 @@
+4/2/2021 10:58:13 AM
+
+079200 - JOINT SEALANTS
+
+PART 1- GENERAL
+1.1. RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+1. Exterior joints in the following vertical surfaces and horizontal nontraffic surfaces:
+a. Joints between different materials listed above.
+b. Perimeter joints between materials listed above and frames of doors, windows.
+c. Other joints as indicated.
+. Interior joints in the following vertical surfaces and horizontal nontraffic surfaces:
+a. Control and expansion joints on exposed interior surfaces of exterior walls.
+b. Perimeter joints of exterior openings where indicated.
+. Tile control and expansion joints.
+. Vertical joints on exposed surfaces of partitions.
+. Perimeter joints between interior wall surfaces and frames of interior doors and windows.
+Joints between plumbing fixtures and adjoining walls, floors, and counters.
+. Tile control joints.
+. Joints in stone paving
+Joints between different materials listed above.
+Other joints as indicated.
+. Existing base building concealed non-compliant as built field conditions
+. Interior joints in the following horizontal traffic surfaces:
+a. Control and expansion joints in stone flooring.
+b. Control and expansion joints in tile flooring.
+c. Other joints as indicated.
+4. Silicone joint sealants.
+5. Nonstaining silicone joint sealants.
+6. Butyl joint sealants.
+1.3. ACTION SUBMITTALS
+A. Product Data: For each joint-sealant product.
+1.4 FIELD CONDITIONS
+A. Do not proceed with installation of joint sealants under the following conditions: When ambient and
+substrate temperature conditions are outside limits permitted by joint-sealant manufacturer or are below 40 deg F
+(5 deg C).When joint substrates are wet. Where joint widths are less than those allowed by joint-sealant
+manufacturer for applications indicated. Where contaminants capable of interfering with adhesion have not yet
+been removed from joint substrates.
+1.5 WARRANTY
+A. Special Installer's Warranty: Installer agrees to repair or replace joint sealants that do not comply with
+performance and other requirements specified in this Section within specified warranty period. Warranty Period:
+Two years from date of Substantial Completion.
+
+PART 2- PRODUCTS
+2.1 JOINT SEALANTS, GENERAL
+
+A. Compatibility: Provide joint sealants, backings, and other related materials that are compatible with one
+another and with joint substrates under conditions of service and application, as demonstrated by joint-sealant
+manufacturer, based on testing and field experience.
+
+B. Colors of Exposed Joint Sealants: As selected by Architect from manufacturer's full range.
+
+2.2 JOINT-SEALANT BACKING
+
+A. Sealant Backing Material, General: Nonstaining; compatible with joint substrates, sealants, primers, and
+other joint fillers; and approved for applications indicated by sealant manufacturer based on field experience and
+laboratory testing.
+
+B. Cylindrical Sealant Backings: ASTM C 1330, Type C (closed-cell material with a surface skin), and of size
+and density to control sealant depth and otherwise contribute to producing optimum sealant performance.
+
+C. Bond-Breaker Tape: Polyethylene tape or other plastic tape recommended by sealant manufacturer for
+preventing sealant from adhering to rigid, inflexible joint-filler materials or joint surfaces at back of joint. Provide
+self-adhesive tape where applicable.
+
+2.3 MISCELLANEOUS MATERIALS
+
+A. Primer: Material recommended by joint-sealant manufacturer where required for adhesion of sealant to joint
+substrates indicated, as determined from preconstruction joint-sealant-substrate tests and field tests.
+
+B. Cleaners for Nonporous Surfaces: Chemical cleaners acceptable to manufacturers of sealants and sealant
+backing materials, free of oily residues or other substances capable of staining or harming joint substrates and
+adjacent nonporous surfaces in any way, and formulated to promote optimum adhesion of sealants to joint
+substrates.
+
+C. Masking Tape: Nonstaining, nonabsorbent material compatible with joint sealants and surfaces adjacent to
+joints.
+
+PART 3- EXECUTION
+3.1. EXAMINATION
+
+A. Examine joints indicated to receive joint sealants, with Installer present, for compliance with requirements
+for joint configuration, installation tolerances, and other conditions affecting performance of the Work. Proceed
+with installation only after unsatisfactory conditions have been corrected.
+
+3.2 PREPARATION
+
+A. Surface Cleaning of Joints: Clean out joints immediately before installing joint sealants to comply with
+joint-sealant manufacturer's written instructions. Remove all foreign material from joint substrates that could
+interfere with adhesion of joint sealant, including dust, paints (except for permanent, protective coatings tested
+and approved for sealant adhesion and compatibility by sealant manufacturer), old joint sealants, oil, grease,
+waterproofing, water repellents, water, surface dirt, and frost.
+
+1. Clean porous joint substrate surfaces by brushing, grinding, mechanical abrading, or a combination of
+these methods to produce a clean, sound substrate capable of developing optimum bond with joint sealants.
+Remove loose particles remaining after cleaning operations above by vacuuming or blowing out joints with oil-
+free compressed air. Porous joint substrates include the following:
+
+2. Remove laitance and form-release agents from concrete.
+
+3. Clean nonporous joint substrate surfaces with chemical cleaners or other means that do not stain, harm
+substrates, or leave residues — capable of interfering with adhesion of joint sealants. Nonporous joint substrates
+include the following:
+
+a. Metal.
+
+b. Glass.
+
+c. Porcelain enamel.
+
+d. Glazed surfaces of ceramic tile.
+
+B. Joint Priming: Prime joint substrates where recommended by joint-sealant manufacturer or as indicated by
+preconstruction joint- sealant-substrate tests or prior experience. Apply primer to comply with joint-sealant
+manufacturer's written instructions. Confine primers to areas of joint-sealant bond; do not allow spillage or
+migration onto adjoining surfaces.
+
+C. Masking Tape: Use masking tape where required to prevent contact of sealant or primer with adjoining
+surfaces that otherwise would be permanently stained or damaged by such contact or by cleaning methods
+required to remove sealant smears. Remove tape immediately after tooling without disturbing joint seal.
+
+3.3 INSTALLATION OF JOINT SEALANTS
+
+A. General: Comply with joint-sealant manufacturer's written installation instructions for products and
+applications indicated, unless more stringent requirements apply.
+
+B. Sealant Installation Standard: Comply with recommendations in ASTM C 1193 for use of joint sealants as
+applicable to materials, applications, and conditions indicated.
+
+C. Install sealant backings of kind indicated to support sealants during application and at position required to
+produce cross-sectional shapes and depths of installed sealants relative to joint widths that allow optimum
+sealant movement capability.
+
+1. Do not leave gaps between ends of sealant backings.
+
+2. Do not stretch, twist, puncture, or tear sealant backings.
+
+3. Remove absorbent sealant backings that have become wet before sealant application, and replace them
+with dry materials.
+
+D. Install bond-breaker tape behind sealants where sealant backings are not used between sealants and backs
+of joints.
+
+E. Install sealants using proven techniques that comply with the following and at the same time backings are
+installed:
+
+F. Tooling of Nonsag Sealants: Immediately after sealant application and before skinning or curing begins,
+tool sealants according to requirements specified in subparagraphs below to form smooth, uniform beads of
+configuration indicated; to eliminate air pockets; and to ensure contact and adhesion of sealant with sides of
+joint.
+
+3.4 FIELD QUALITY CONTROL
+
+A. Field-Adhesion Testing: Field test joint-sealant adhesion to joint substrates. Record test results in a field-
+adhesion-test log. Include dates when sealants were installed, names of persons who installed sealants, test
+dates, test locations, whether joints were primed, adhesion results and percent elongations, sealant material,
+sealant configuration, and sealant dimensions. Repair sealants pulled from test area by applying new sealants
+following same procedures used originally to seal joints. Ensure that original sealant surfaces are clean and that
+new sealant contacts original sealant.
+
+B. Evaluation of Field-Adhesion-Test Results: Sealants not evidencing adhesive failure from testing or
+noncompliance with other indicated requirements will be considered satisfactory. Remove sealants that fail to
+adhere to joint substrates during testing or to comply with other requirements. Retest failed applications until test
+results prove sealants comply with indicated requirements.
+
+3.5 CLEANING
+
+A. Clean off excess sealant or sealant smears adjacent to joints as the Work progresses by methods and with
+cleaning materials approved in writing by manufacturers of joint sealants and of products in which joints occur.
+3.6 PROTECTION
+
+A. Protect joint sealants during and after curing period from contact with contaminating substances and from
+damage resulting from construction operations or other causes so sealants are without deterioration or damage at
+time of Substantial Completion. If, despite such protection, damage or deterioration occurs, cut out, remove, and
+repair damaged or deteriorated joint sealants immediately so installations with repaired areas are
+indistinguishable from original work.
+
+081113 - HOLLOW METAL DOORS AND
+FRAMES
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+
+1.2 SUMMARY
+
+A. Section includes hollow-metal work.
+
+1.3 DEFINITIONS
+
+A. Minimum Thickness: Minimum thickness of base metal without coatings according to NAAMM-HMMA 803 or
+SDI A250.8.
+
+1.4 COORDINATION
+
+A. Coordinate anchorage installation for hollow-metal frames. Furnish setting drawings, templates, and directions
+for installing anchorages, including sleeves, concrete inserts, anchor bolts, and items with integral anchors. Deliver
+such items to Project site in time for installation.
+
+1.5 ACTION SUBMITTALS
+
+A. Product Data: For each type of product.
+
+1. Include construction details, material descriptions, core descriptions, fire-resistance ratings, temperature-
+rise ratings, and finishes.
+
+B. Shop Drawings: Include the following:
+
+1. Elevations of each door type.
+. Details of doors, including vertical- and horizontal-edge details and metal thicknesses.
+. Frame details for each frame type, including dimensioned profiles and metal thicknesses.
+. Locations of reinforcement and preparations for hardware.
+. Details of each different wall opening condition.
+. Details of anchorages, joints, field splices, and connections.
+. Details of accessories.
+. Details of moldings, removable stops, and glazing.
+. Details of conduit and preparations for power, signal, and control systems.
+
+C. Schedule: Provide a schedule of hollow-metal work prepared by or under the supervision of supplier, using
+same reference numbers for details and openings as those on Drawings. Coordinate with final Door Hardware
+Schedule.
+
+1.6 DELIVERY, STORAGE, AND HANDLING
+
+A. Deliver hollow-metal work palletized, packaged, or crated to provide protection during transit and Project-site
+storage. Do not use nonvented plastic. Provide additional protection to prevent damage to factory-finished units.
+
+B. Deliver welded frames with two removable spreader bars across bottom of frames, tack welded to jambs and
+mullions. Store hollow- metal work vertically under cover at Project site with head up. Place on minimum 4-inch-
+(102-mm-) high wood blocking. Provide minimum 1/4-inch (6-mm) space between each stacked door to permit
+air circulation.
+
+PART 2- PRODUCTS
+2.1 REGULATORY REQUIREMENTS
+
+A. Fire-Rated Assemblies: Complying with NFPA 80 and listed and labeled by a qualified testing agency
+acceptable to authorities having jurisdiction for fire-protection ratings and temperature-tise limits indicated, based on
+testing at positive pressure according to NFPA 252 or UL 10C.
+
+1. Smoke- and Draft-Control Assemblies: Provide an assembly with gaskets listed and labeled for smoke and
+draft control by a qualified testing agency acceptable to authorities having jurisdiction, based on testing according
+to UL 1784 and installed in compliance with NFPA 105.
+
+B. Fire-Rated, Borrowed-Lite Assemblies: Complying with NFPA 80 and listed and labeled by a testing and
+inspecting agency acceptable to authorities having jurisdiction for fire-protection ratings indicated, based on testing
+according to NFPA 257 or UL 9.
+
+2.2 FABRICATION
+
+A. Fabricate hollow-metal work to be rigid and free of defects, warp, or buckle. Accurately form metal to required
+sizes and profiles, with minimum radius for metal thickness. Where practical, fit and assemble units in manufacturer's
+plant. To ensure proper assembly at Project site, clearly identify work that cannot be permanently factory assembled
+before shipment.
+
+B. Hollow-Metal Frames: Where frames are fabricated in sections due to shipping or handling limitations, provide
+alignment plates or angles at each joint, fabricated of same thickness metal as frames.
+
+C. Hardware Preparation: Factory prepare hollow-metal work to receive templated mortised hardware; include
+cutouts, reinforcement, mortising, drilling, and tapping according to SDI A250.6, the Door Hardware Schedule, and
+templates.
+
+D. Stops and Moldings: Provide stops and moldings around glazed lites and louvers where indicated.
+
+2.3 STEEL FINISHES
+
+A. Prime Finish: Clean, pretreat, and apply manufacturer's standard primer. Manufacturer's standard, fast-curing,
+lead- and chromate-free primer complying with SDI A250.10; recommended by primer manufacturer for substrate;
+compatible with substrate and field-applied coatings despite prolonged exposure.
+
+B. Factory Finish: Clean, pretreat, and apply manufacturer's standard two-coat, baked-on finish consisting of prime
+coat and thermosetting topcoat, complying with SDI A250.3.
+
+PART 3- EXECUTION
+3.1 EXAMINATION
+
+A. Examine substrates, areas, and conditions, with Installer present, for compliance with requirements for
+installation tolerances and other conditions affecting performance of the Work. Proceed with installation only after
+unsatisfactory conditions have been corrected.
+
+3.2 PREPARATION
+
+A. Remove welded-in shipping spreaders installed at factory. Restore exposed finish by grinding, filling, and
+dressing, as required to make repaired area smooth, flush, and invisible on exposed faces. Drill and tap doors and
+frames to receive nontemplated, mortised, and surface-mounted door hardware.
+
+3.3 INSTALLATION
+
+A. General: Install hollow-metal work plumb, rigid, properly aligned, and securely fastened in place. Comply with
+Drawings and manufacturer's written instructions.
+
+B. Hollow-Metal Frames: Install hollow-metal frames for doors, transoms, sidelites, borrowed lites, and other
+openings, of size and profile indicated. Comply with SDI A250.11 or NAAMM-HMMA 840 as required by standards
+specified.
+
+1. Set frames accurately in position; plumbed, aligned, and braced securely until permanent anchors are set.
+After wall construction is complete, remove temporary braces, leaving surfaces smooth and undamaged.
+
+a. At fire-rated openings, install frames according to NFPA 80.
+
+b. Where frames are fabricated in sections because of shipping or handling limitations, field splice at
+approved locations by welding face joint continuously; grind, fill, dress, and make splice smooth, flush, and invisible
+on exposed faces.
+
+c. Install frames with removable stops located on secure side of opening.
+
+d. Install door silencers in frames before grouting.
+
+e. Remove temporary braces necessary for installation only after frames have been properly set and secured.
+
+f. Check plumb, square, and twist of frames as walls are constructed. Shim as necessary to comply with
+installation tolerances.
+
+g. Field apply bituminous coating to backs of frames that will be filled with grout containing antifreezing
+agents.
+
+2. Floor Anchors: Provide floor anchors for each jamb and mullion that extends to floor, and secure with
+postinstalled expansion anchors.
+
+a. Floor anchors may be set with power-actuated fasteners instead of postinstalled expansion anchors if so
+indicated and approved on Shop Drawings.
+
+3. Metal-Stud Partitions: Solidly pack mineral-fiber insulation inside frames.
+
+4. Masonry Walls: Coordinate installation of frames to allow for solidly filling space between frames and
+masonry with grout.
+
+5. Concrete Walls: Solidly fill space between frames and concrete with mineral-fiber insulation.
+
+6. In-Place Concrete or Masonry Construction: Secure frames in place with postinstalled expansion anchors.
+Countersink anchors, and fill and make smooth, flush, and invisible on exposed faces.
+
+7. In-Place Metal Stud Partitions: Secure slip-on drywall frames in place according to manufacturer's written
+instructions.
+
+8. Installation Tolerances: Adjust hollow-metal door frames for squareness, alignment, twist, and plumb to the
+following tolerances:
+
+a. Squareness: Plus or minus 1/16 inch (1.6 mm), measured at door rabbet on a line 90 degrees from jamb
+perpendicular to frame head.
+
+b. Alignment: Plus or minus 1/16 inch (1.6 mm), measured at jambs on a horizontal line parallel to plane of
+wall.
+
+c. Twist: Plus or minus 1/16 inch (1.6 mm), measured at opposite face corners of jambs on parallel lines,
+and perpendicular to plane of wall.
+
+d. Plumbness: Plus or minus 1/16 inch (1.6 mm), measured at jambs at floor.
+
+3.4. ADJUSTING AND CLEANING
+
+A. Final Adjustments: Check and readjust operating hardware items immediately before final inspection. Leave
+work in complete and proper operating condition. Remove and replace defective work, including hollow-metal work
+that is warped, bowed, or otherwise unacceptable. Remove grout and other bonding material from hollow-metal work
+immediately after installation.
+
+B. Prime-Coat Touchup: Immediately after erection, sand smooth rusted or damaged areas of prime coat and apply
+touchup of compatible air-drying, rust-inhibitive primer. Metallic-Coated Surface Touchup: Clean abraded areas and
+repair with galvanizing repair paint according to manufacturer's written instructions.
+
+C. Factory-Finish Touchup: Clean abraded areas and repair with same material used for factory finish according to
+manufacturer's written instructions. Touchup Painting: Cleaning and touchup painting of abraded areas of paint are
+specified in painting Sections.
+
+081216 - ALUMINUM FRAMES
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+
+A. Section includes interior aluminum frames for doors and glazing installed in gypsum board partitions.
+1.3 ACTION SUBMITTALS
+
+A. Product Data: For each type of product indicated. Include construction details, material descriptions,
+dimensions of individual components and profiles, fire-resistance rating, and finishes.
+
+B. Shop Drawings: Include the following:
+
+1. Frame details for each frame type, including dimensioned profiles and metal thicknesses.
+
+2. Locations of reinforcements and preparations for hardware.
+
+3. Details of each different wall-opening condition.
+
+4. Details of anchorages, joints, field splices, and connections.
+
+C. Samples for Verification: For interior aluminum frames, prepared on Samples of size indicated below:
+
+1. Framing Member: 12 inches (300 mm) long.
+
+2. Corner Fabrication: 12-by-12-inch- (300-by-300-mm-) long, full-size window corner, including full-size
+sections of extrusions with factory-applied color finish.
+
+D. Schedule: For interior aluminum frames. Use same designations indicated on Drawings. Coordinate with door
+hardware schedule and glazing.
+
+1.4 QUALITY ASSURANCE
+
+A. Fire-Rated Assemblies: Assemblies complying with NFPA 80 that are listed and labeled by a qualified testing
+agency, for fire- protection ratings indicated, based on testing at positive pressure according to
+NFPA 252 or UL 10.
+
+B. Smoke- and Draft-Control Assemblies: Where indicated, provide assemblies tested according to UL 1784 and
+installed in compliance with NFPA 105. Air leakage rate in subparagraph below is the most stringent
+requited by NFPA 105; retain rate or revise to suit Project. Verify requirements of authorities having jurisdiction.
+Air Leakage Rate: Maximum air leakage of 0.3 cfm/sq. ft. (3. cu. m per minute/sq. m) at the tested pressure
+differential of 0.3-inch wg (75 Pa) of water.
+
+1.5 DELIVERY, STORAGE, AND HANDLING
+
+A. Deliver interior aluminum frames palletized, wrapped, or crated to provide protection during transit and Project-
+
+site storage. Do not use nonvented plastic. Store interior aluminum frames under cover at Project site.
+
+PART 2- PRODUCTS
+2.1. COMPONENTS
+
+A. Aluminum Framing: ASTM B 221 (ASTM B 221M), Alloy 6063-T5 or alloy and temper required to suit
+structural and finish requirements, not less than 0.062 inch (1.6 mm) thick.
+
+B. Door Frames: Extruded aluminum, reinforced for hinges, strikes, and closers. 90-Minute Fire-Protection
+Rating: Fabricate aluminum frame assemblies with a cold-formed, primed, interior steel liner.Glazing
+Frames: Extruded aluminum, for glazing thickness indicated.
+
+2.2 ACCESSORIES
+
+A. Door Silencers: Manufacturer's standard. Smoke Seals: Intumescent strip or fire-rated gaskets
+2.3 FABRICATION
+
+A. Provide concealed corner reinforcements and alignment clips for accurately fitted hairline joints at butted
+or mitered connections. Factory prepare interior aluminum frames to receive templated mortised
+hardware; include cutouts, reinforcements, mortising, drilling, and tapping, according to the Door
+Hardware Schedule. Fabricate frames for glazing with removable stops to allow glazing replacement
+without dismantling frame. Fabricate components to allow secure installation without exposed fasteners.
+
+2.4 GENERAL FINISH REQUIREMENTS
+
+A. Comply with NAAMM's "Metal Finishes Manual for Architectural and Metal Products" for recommendations
+for applying and designating finishes. Noticeable variations in same piece are not acceptable.
+Variations in appearance of adjoining components are acceptable if they are within the range of
+approved Samples and are assembled or installed to minimize contrast.
+
+2.5 ALUMINUM FINISHES
+A. Clear Anodic Finish: AAMA 611, AA-M12C22A31, Class Il, 0.010 mm or thicker.
+
+PART 3- EXECUTION
+3.1 EXAMINATION
+
+A. Examine walls, floors, and ceilings, with Installer present, for conditions affecting performance of the Work.
+
+B. Verify that wall thickness does not exceed standard tolerances allowed by throat size indicated.
+
+C. Proceed with installation only after unsatisfactory conditions have been corrected.
+3.2 INSTALLATION
+
+A. General: Install interior aluminum frames plumb, rigid, properly aligned, and securely fastened in place;
+comply with manufacturer's written instructions. Set frames accurately in position and plumbed, aligned,
+and securely anchored to substrates. At fire-protection- rated openings, install interior aluminum frames
+according to NFPA 80
+
+B. Install frame components in the longest possible lengths; components up to 96 inches (2450 mm) long
+must be one piece. Fasten to suspended ceiling grid on maximum 48-inch (1220-mm) centers,
+using sheet metal screws or other fasteners approved by frame manufacturer. Use concealed
+installation clips to produce tightly fitted and aligned splices and connections. Secure clips to extruded
+main-frame components and not to snap-in or trim members. Do not leave screws or other fasteners
+
+exposed to view when installation is complete.
+3.3 CLEANING
+
+A. Clean exposed frame surfaces promptly after installation, using cleaning methods recommended by frame
+manufacturer and according to AAMA 609 & 610. Touch up marred frame surfaces so touchup is
+not visible from a distance of 48 inches
+
+(1220 mm). Remove and replace frames with damaged finish that cannot be satisfactorily repaired.
+
+convivat7
+Care Solutions
+GATEWAY
+
+JACKSONVILLE
+EXPANSION
+
+5238-16 Norwood Ave.,
+Suite 25,
+Jacksonville, FL 33208
+
+GEORGE W. DE LA HOZ
+FL LICENSE #AR0016664
+
+ISSUE FOR PERMIT
+90% CD PROGRESS SET
+
+04/02/2021
+02/19/2021
+
+Delta_Issue Description Date
+Nr.
+
+INTERIOR
+ARCHITECTS, Re.
+
+NM A M
+
+150 ALHAMBRA CIRCLE
+SUITE 800
+CORAL GABLES, FLORIDA 33134
+TEL 786-405-0230
+
+©2021 INTERIOR ARCHITECTS P.-C. LICENSE #AA26001062.
+ALL DRAWINGS AND WRITTEN MATERIAL HERE IN CONSTITUTE THE
+ORIGINAL AND UNPUBLISHED WORK OF THE ARCHITECT, AND THE
+SAME MAY NOT BE DUPLICATED, USED, OR DISCLOSED WITHOUT THE
+WRITTEN CONSENT OF THE ARCHITECT.
+
+Drawn: VM Check: Checker Owner Approval:
+
+Job No: 37HUMX.0331.000 Scale: 12" = 1'-0"
+
+mw SPECIFICATIONS
+
+.AN-2.10
+

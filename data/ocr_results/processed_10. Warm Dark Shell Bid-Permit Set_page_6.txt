@@ -1,0 +1,987 @@
+SECTION 08410 - ALUMINUM ENTRANCES AND
+STOREFRONTS - CONTINUED
+
+1.5 Submittals
+
+A. Product Data: Include construction details, material descriptions, dimensions of
+individual components and profiles, hardware, finishes, and _ installation
+instructions for each type of aluminum-framed storefront system indicated.
+
+B. Shop Drawings: Include plans, elevations, sections, details, hardware, and
+attachments to other work, operational clearances and installation details.
+
+C. Samples for Initial Selection: For units with factory-applied color finishes
+including samples of hardware and accessories involving color selection.
+
+D. Samples for Verification: For aluminum-framed storefront system and
+components required.
+
+E. Product Test Reports: Based on evaluation of comprehensive tests performed
+by a qualified testing agency for each type of aluminum-framed storefront.
+
+1.6 Quality Assurance
+
+A. Installer Qualifications: An installer which has had successful experience with
+installation of the same or similar units required for the project and other
+projects of similar size and scope.
+
+B. Manufacturer Qualifications: A manufacturer capable of providing
+aluminum-framed storefront system that meet or exceed performance
+requirements indicated and of documenting this performance by inclusion of
+test reports, and calculations.
+
+C. Source Limitations: Obtain aluminum-framed storefront system through one
+source from a single manufacturer.
+
+D. Product Options: Drawings indicate size, profiles, and dimensional
+requirements of aluminum-framed storefront system and are based on the
+specific system indicated. Do not modify size and dimensional requirements.
+
+1. Do not modify intended aesthetic effects, as judged solely by Architect,
+except with Architect's approval. If modifications are proposed, submit
+comprehensive explanatory data to Architect for review.
+
+E. Pre-installation Conference: Conduct conference at Project site.
+
+1.7 Project Conditions
+A. Field Measurements: Verify actual dimensions of aluminum-framed storefront
+
+openings by field measurements before fabrication and indicate field
+measurements on Shop Drawings.
+
+1.8 Warranty
+A. Manufacturer's Warranty: Submit, for Owners acceptance, manufacturer's
+standard material, workmanship and finish warranty.
+1. Warranty Period: Two (2) years from Date of Substantial Completion of the
+project provided however that the Limited Warranty shall begin in no event
+later than six months from date of shipment by manufacturer.
+
+PART2- PRODUCTS
+
+2.1 Manufacturers
+
+A. Basis-of-Design Product - Storefront:
+1. Kawneer Company Inc.
+2. Trifab™ 451T (Thermal) Framing System
+3. Trifab™ 451T (Thermal) Framing System with Impact Glazing
+4. System Dimensions: 2" x 4-1/2"
+5. Glass: Center
+
+B. Basis-of-Design Product = Doors:
+1. Kawneer Company Inc.
+2. 190 standard door with 1" insulated glazing.
+3. Swing Doors as indicated on drawings: 1 3/4" inches thick with 1" insulated
+
+glazing, 2-1/4 inch top rail, 2 1/8" inch vertical stiles, 10 inch bottom rail.
+
+2.2 Materials
+
+A. Aluminum Extrusions: Alloy and temper recommended by aluminum storefront
+manufacturer for strength, corrosion resistance, and application of required
+finish and not less than 0.070" wall thickness at any location for the main frame
+and complying with ASTM B 221: 6063-T6 alloy and temper.
+
+B. Fasteners: Aluminum, nonmagnetic stainless steel or other materials to be
+non-corrosive and compatible with aluminum framing members, trim hardware,
+anchors, and other components.
+
+C. Anchors, Clips, and Accessories: Aluminum, nonmagnetic stainless steel, or
+zinc-coated steel or iron complying with ASTM B 633 for SC 3 severe service
+conditions or other suitable zinc coating; provide sufficient strength to withstand
+design pressure indicated.
+
+D. Reinforcing Members: Aluminum, nonmagnetic stainless steel, or
+nickel/chrome-plated steel complying with ASTM B 456 for Type SC 3 severe
+service conditions, or zinc-coated steel or iron complying with ASTM B 633 for
+SC 3 severe service conditions or other suitable zinc coating; provide sufficient
+strength to withstand design pressure indicated.
+
+E. Sealant: For sealants required within fabricated storefront system, provide
+permanently elastic, non-shrinking, and non-migrating type recommended by
+sealant manufacturer for joint size and movement.
+
+F. Tolerances: Reference to tolerances for wall thickness and other cross-sectional
+dimensions of storefront members are nominal and in compliance with AA
+Aluminum Standards and Data.
+
+2.3 Storefront Framing System
+
+A. Thermal Barrier (Trifab™ VG 451T):
+
+1. Kawneer IsoLock™ Thermal Break with a 1/4" (6.4 mm) separation consisting
+of a two-part chemically curing, high-density polyurethane, which is
+mechanically and adhesively joined to aluminum storefront sections.
+
+a. Thermal Break shall be designed in accordance with AAMA TIR-A8 and
+tested in accordance with AAMA 505.
+
+B. Brackets and Reinforcements: Manufacturer's standard high-strength aluminum
+with nonstaining, nonferrous shims for aligning system components.
+
+C. Fasteners and Accessories: Manufacturer's standard corrosion-resistant,
+nonstaining, nonbleeding fasteners and accessories compatible with adjacent
+materials. Where exposes shall be stainless steel.
+
+D. Perimeter Anchors: When steel anchors are used, provide insulation between
+steel material and aluminum material to prevent galvanic action
+
+E. Packing, Shipping, Handling and Unloading: Deliver materials in manufacturer's
+original, unopened, undamaged containers with identification labels intact.
+
+F. Storage and Protection: Store materials protected from exposure to harmful
+weather conditions. Handle storefront material and components to avoid
+damage. Protect storefront material against damage from elements,
+construction activities, and other hazards before, during and after storefront
+installation.
+
+2.4 Glazing Systems
+A. Glazing: As specified in Section 08800 - Glazing.
+B. Glazing Gaskets: Manufacturer's standard compression types; replaceable,
+extruded EPDM rubber.
+C. Spacers and Setting Blocks: Manufacturer's standard elastomeric type.
+
+D. Bond-Breaker Tape: Manufacturer's standard TFE-fluorocarbon or polyethylene
+material to which sealants will not develop adhesion.
+
+E. Glazing Sealants: For structural-sealant-glazed systems, as recommended by
+manufacturer for joint type, and as follows:
+
+1. Structural Sealant: ASTM C 1184, single-component neutral-curing silicone
+formulation that is compatible with system components with which it comes in
+contact, specifically formulated and tested for use as structural sealant and
+approved by a structural-sealant manufacturer for use in aluminum-framed
+systems indicated.
+
+a. Color: Black
+
+2. Weatherseal Sealant: ASTM C 920 for Type S, Grade NS, Class 25,
+Uses NT, G, A, and O; single-component neutral-curing formulation that is
+compatible with structural sealant and other system components with which it
+comes in contact; recommended by structural-sealant, weatherseal-sealant,
+and aluminum-framed-system manufacturers for this use.
+
+a. Color: Matching structural sealant.
+
+2.5 Entrance Door Systems
+A. Sliding Entrance Doors: As indicated on drawings.
+B. Swing Entrance Doors: As indicated on drawings.
+
+2.6 Accessory Materials
+
+A. Joint Sealants: For installation at perimeter of aluminum-framed systems, as
+specitied in Section 07900 - Sealants and Culking.
+
+B. Bituminous Paint: Cold-applied, asphalt-mastic paint complying with
+SSPC-Paint 12 requirements except containing no asbestos; formulated for 30
+mil thickness per coat.
+
+2.7 Fabrication
+
+A. Framing Members, General: Fabricate components that, when assembled,
+
+have the following characteristics:
+
+1. Profiles that are sharp, straight, and free of defects or deformations.
+
+2. Accurately fit joints; make joints flush, hairline and weatherproof.
+
+3. Means to drain water passing joints, condensation within framing members,
+and moisture migrating within the system to exterior.
+
+4. Physical and thermal isolation of glazing from framing members.
+
+5. Accommodations for thermal and mechanical movements of glazing and
+framing to maintain required glazing edge clearances.
+
+6. Provisions for field replacement of glazing.
+
+7. Fasteners, anchors, and connection devices that are concealed from view to
+greatest extent possible.
+
+B. Mechanically Glazed Framing Members: Fabricate for flush glazing without
+projecting stops.
+
+C. Structural-Sealant-Glazed Framing Members: Include accommodations for
+using temporary support device to retain glazing in place while structural
+sealant cures.
+
+D. Storefront Framing: Fabricate components for assembly using manufacturer's
+standard installation instructions.
+
+E. After fabrication, clearly mark components to identify their locations in Project
+according to Shop Drawings.
+
+SECTION 08410 - ALUMINUM ENTRANCES AND
+STOREFRONTS - CONTINUED
+
+2.8
+
+Aluminum Finishes
+
+A. Finish designations prefixed by AA comply with the system established by the
+Aluminum Association for designating aluminum finishes.
+
+B. Factory Finishing:
+
+1
+
+. Kawneer Permanodic™ AA-M10C21A31, AAMA 611, Architectural Class Il
+
+Clear Anodic Coating (Color #17 Clear) (Standard).
+
+PART3- EXECUTION
+
+3.1
+
+Examination
+
+A. Examine openings, substrates, structural support, anchorage, and conditions,
+with Installer present, for compliance with requirements for installation
+tolerances and other conditions affecting performance of work. Verify rough
+opening dimensions, levelness of sill plate and operational clearances. Examine
+wall flashings, vapor retarders, water and weather barriers, and other built-in
+components to ensure a coordinated, weather tight framed aluminum storefront
+system installation.
+
+1.
+
+3.2
+
+Masonry Surfaces: Visibly dry and free of excess mortar, sand, and other
+construction debris.
+
+. Wood Frame Walls: Dry, clean, sound, well nailed, free of voids, and without
+
+offsets at joints. Ensure that nail heads are driven flush with surfaces in
+opening and within 3 inches of opening.
+
+. Metal Surfaces: Dry; clean; free of grease, oil, dirt, rust, corrosion, and
+
+welding slag; without sharp edges or offsets at joints.
+
+. Proceed with installation only after unsatisfactory conditions have been
+
+corrected.
+Installation
+
+A. Comply with Drawings, Shop Drawings, and manufacturer's written instructions
+for installing aluminum-framed storefront system, accessories, and other
+components.
+
+B. Install aluminum-framed storefront system level, plumb, square, true to line,
+without distortion or impeding thermal movement, anchored securely in place to
+structural support, and in proper relation to wall flashing and other adjacent
+construction.
+
+C. Set sill members in bed of sealant or with gaskets, as indicated, for weather tight
+construction.
+
+D. Install aluminum-framed storefront system and components to drain
+condensation, water penetrating joints, and moisture migrating within
+aluminum-framed storefront to the exterior.
+
+E. Separate aluminum and other corrodible surfaces from sources of corrosion or
+electrolytic action at points of contact with other materials.
+
+3.3
+
+A.
+
+Adjusting, Cleaning, and Protection
+
+Clean aluminum surfaces immediately after installing aluminum-framed
+
+storefronts. Avoid damaging protective coatings and finishes. Remove excess
+sealants, glazing materials, dirt, and other substances.
+
+B.
+
+Clean glass immediately after installation. Comply with glass manufacturer's
+
+written recommendations for final cleaning and maintenance. Remove nonpermanent
+labels, and clean surfaces.
+
+C.
+
+Remove and replace glass that has been broken, chipped, cracked, abraded,
+
+or damaged during construction period.
+
+End of Section 08410
+
+SECTION 08710 - FINISH HARDWARE
+
+PART 1 GENERAL
+
+1.01 SECTION INCLUDES
+A. Hardware for hollow steel, metal, and aluminum doors.
+B. Thresholds, weatherstripping, seals, and door gaskets.
+
+1.02 QUALITY ASSURANCE
+
+A. Perform Work in accordance with ANSI A117.1 - Specifications for Making
+Buildings and Facilities Accessible to and Usable by the Physically Challenged
+and the Americans with Disabilities Act of 1990.
+
+1.03 COORDINATION
+
+A. Coordinate work of this section with other directly affected sections requiring
+any integral reinforcement for door hardware.
+
+1.04 DELIVERY, STORAGE, AND HANDLING
+
+A. Package hardware items individually. Label and identify package with door
+opening code to match schedule.
+
+1.05 SUBMITTALS
+
+A. Provide 6 copies of schedule, organized into hardware sets with an index of
+doors and complete designations of every item required. include the following:
+
+Oabon>
+
+Type, style, function, size, quantity and finish of each item.
+Name, part number and manufacturer.
+
+Location of hardware set cross referenced to drawings.
+Mounting locations for hardware.
+
+Door and frame sizes and materials.
+
+Catalog cut sheets with selected items indicated.
+
+B. Templates: Where required, furnish hardware templates to each fabricator of
+doors, frames, and other factory prepared work.
+
+1.06 WARRANTY
+
+A. Provide the following written warranties:
+
+1.
+2.
+3.
+
+Closers: Minimum five years
+Exit Devices and Locksets: Minimum two years.
+All Other Hardware: Two years.
+
+PART 2 PRODUCTS
+
+2.01 Hardware
+
+A. The hardware supplier shall furnish a finish hardware schedule listing all
+materials by sets.
+
+B.
+
+The hardware supplier shall furnish hardware templates to the door and frame
+
+manufacturer, as required.
+
+C. When the hardware is delivered to the job, the Contractor shall receive it,
+check it against the hardware schedule, and store it in a safe place under lock
+and key. After installation, protect all items against damage until final inspection.
+D. Latching and locking doors that are hand activated and which are in a path
+of travel shall be operable with a single effort by lever type hardware, panic bars,
+push-pull activating bars, or other hardware designed to provide passage
+without requiring the ability to grasp the opening hardware. Locked exit doors
+shall operate as above in egress direction
+
+2.02 Hardware Schedule
+
+A. Refer to the Hardware Schedule located in drawings.
+
+PART 3 EXECUTION
+
+3.01 EXAMINATION AND PREPARATION
+
+A. Verify that doors and frames are ready to receive work as indicated.
+
+B.
+
+Verify that electric power is available to power operated devices and of the
+
+correct characteristics.
+
+3.02 INSTALLATION
+
+A. Install hardware in accordance with manufacturer's instructions.
+
+B.
+
+Use templates provided by hardware item manufacturer.
+
+END OF SECTION
+
+SECTION 08800 - GLAZING
+
+1.01 SUMMARY
+
+A. Glazing for the Following Products:
+1. Entrances and Storefronts.
+
+1.02 WARRANTY
+
+A. Warranty Period: Manufacturer's standard but not less than 10 years after
+date of Project completion.
+
+1.03 FLAT GLASS MATERIALS
+
+A. Float Glass (Type FG-A): ASTM C1036, Type 1 transparent flat, Class 1
+clear, Quality q3 glazing select; 1/4 inch (6 mm) minimum thick.
+
+B. Safety Glass (Type FG-B): ASTM C1048, fully tempered, Condition A
+uncoated, Type 1 transparent flat, Class 1 clear, Quality q3 glazing select;
+conforming to ANSI Z97.1; 1/4 inch (6 mm) minimum thick.
+
+C. Glass standards:
+
+1. Clear float glass: Type | (transparent glass, flat), Class 1 (clear) Quality
+G3 (Glazing select)
+2. Heat treated glass:
+a. Manufacture heat treated glass by horizontal (roller hearth) process
+with roll wave distortion parallel with bottom edge of glass as installed.
+b. Where indicated and required, provide fully tempered units.
+
+1.04 INSULATING GLASS PRODUCTS
+A. Sealed Insulating Glass Units: Pre-assembled units consisting of organically
+
+sealed lites of glass separated by dehydrated air spaces complying with
+
+ASTM E 774 and with other requirements indicated.
+
+2. For properties of individual glass lites making up units, refer to
+requirements specified elsewhere in this Section applicable to types,
+classes, kinds, and conditions of glass products comprising lites of
+insulating glass units.
+
+3. Provide heat-treated, where recommended by manufacturer to comply
+with system performance requirements specified and Kind FT (fully
+tempered) where safety glass is designated or required.
+
+4. Performance characteristics designated for insulating glass are nominal
+
+values based on manufacturer's published test data for units with lites 1/4
+
+inch thick and nominal 1/2 inch dehydrated space between lites, unless
+otherwise indicated.
+5. U-values are expressed as Btu/hour x sq. ft. x F.
+
+B. Insulated Glass Units: ASTM E774 and E773; double pane with glass
+elastomer edge seal; outer pane of 1/4 inch clear glass, inner pane of 1/4
+inch clear low-e glass, purge inter-pane space and fill with air; total unit
+thickness of 1 inch.
+
+c. Product: PPG SOLARBAN 60 [2] - U-Value = 0.38 - SHGC - 0.40 or as
+indicated on drawings.
+
+D. Edge Seal Material: Black color.
+
+1.05 ELASTOMERIC GLAZING SEALANTS
+
+A. General: Provide products of type indicated, complying with the following
+requirements:
+
+1. Compatibility: Select glazing sealants and tapes of proven compatibility
+with other materials they will contact, including glass products, seals of
+insulating glass units, and glazing channel substrates, under conditions
+of installation and service, as demonstrated by testing and field
+experience.
+
+2. Suitability: Comply with sealant and glass manufacturer's
+recommendations for selecting glazing sealants and tapes that are
+suitable for applications indicated and conditions existing at time of
+installation.
+
+3. Colors: Provide color of exposed joint sealants to comply with the
+following:
+
+a. Provide selections made by Construction Representative from
+manufacturer's full range of standard colors for products of type
+indicated.
+
+B. Elastomeric Glazing Sealant Standard: Provide manufacturer's standard
+chemically curing, elastomeric sealants.
+
+1.06 GLAZING TAPES
+
+A. Back-Bedding Mastic Glazing Tape: Preformed, butyl-based elastomeric
+tape with a solids content of 100 percent, non-staining and non-migrating in
+contact with nonporous surfaces, with or without spacer rod as
+recommended by tape and glass manufacturers for application indicated,
+packaged on rolls with a release paper backing, and complying with
+AAMA 800 for products indicated below:
+
+1. AAMA 804.1.
+
+1.07 MISCELLANEOUS GLAZING MATERIALS
+
+A. General: Provide products of material, size, and shape complying with
+referenced glazing standard, requirements of manufacturers of glass and
+other glazing materials involved for glazing application indicated, and with a
+proven record of compatibility with surfaces contacted in installation.
+
+B. Cleaners, Primers and Sealers: Type recommended by sealant or gasket
+manufacturer.
+
+C. Setting Blocks: Elastomeric material with a Shore A durometer hardness of
+85 plus or minus 5.
+
+D. Spacers: Elastomeric blocks or continuous extrusions with a Shore A
+
+durometer hardness required by glass manufacturer to maintain glass lites in
+
+place for installation indicated.
+
+E. Edge Blocks: Elastomeric material of hardness needed to limit glass lateral
+movement (side-walking).
+
+SECTION 08800 - GLAZING
+
+1.08 PREPARATION
+
+A. Clean glazing channels and other framing members receiving glass
+immediately before glazing. Remove coatings that are not firmly bonded to
+substrates.
+
+1.09 GLAZING, GENERAL
+
+A. Comply with combined recommendations of manufacturers of glass,
+sealants, gaskets, and other glazing materials, except where more stringent
+requirements are indicated, including those in referenced glazing
+publications.
+
+B. Protect glass from edge damage during handling and installation as follows:
+1. Use a rolling block in rotating glass units to prevent damage to glass
+
+comers. Do not impact glass with metal framing. Use suction cups to
+shift glass units within openings; do not raise or drift glass with a pry bar.
+Rotate glass lites with flares or bevels on bottom horizontal edges so
+edges are located at top of opening, unless otherwise indicated by
+manufacturer's label.
+
+2. Remove damaged glass from Project Site and legally dispose of off site.
+Damaged glass is glass with edge damage or other imperfections that,
+when installed, weaken glass and impair performance and appearance.
+
+c. Apply primers to joint surfaces where required for adhesion of sealants, as
+determined by pre-construction sealant-substrate testing.
+
+D. Install elastomeric setting blocks in sill rabbets, sized and located to comply
+with referenced glazing standard, unless otherwise required by glass
+manufacturer. Set blocks in thin course of compatible sealant suitable for
+heel bead.
+
+E. Do not exceed edge pressures stipulated by glass manufacturers for
+installing glass lites.
+
+F. Provide Spacers for Glass Sizes Larger than 50 United Inches (Length plus
+Height) as Follows:
+
+1. Locate spacers inside, outside, and directly opposite each other. Install
+correct size and spacing to preserve required face clearances, except
+where gaskets and glazing tapes are used that have demonstrated ability
+to maintain required face clearances and comply with system
+performance requirements.
+
+2. Provide 1/8 inch minimum bite of spacers on glass and use thickness
+equal to sealant width. With glazing tape, use thickness slightly less than
+final compressed thickness of tape.
+
+G. Provide edge blocking to comply with requirements of referenced glazing
+publications, unless otherwise required by glass manufacturer.
+
+H. Set glass lites in each series with uniform pattern, draw, bow, and similar
+characteristics.
+
+1.10 PROTECTION AND CLEANING
+
+A. Protect exterior glass from breakage immediately after installation by
+attaching crossed streamers to framing held away from glass. Do not apply
+markers to glass surface. Remove nonpermanent labels, and clean
+surfaces.
+
+B. Protect glass from contact with contaminating substances resulting from
+construction operations including weld splatter. If, despite such protection,
+contaminating substances do come into contact with glass, remove them
+immediately as recommended by glass manufacturer.
+
+c. Examine glass surfaces adjacent to or below exterior concrete and other
+masonry surfaces at frequent intervals during construction, but not less than
+once a month, for build-up of dirt, scum, alkali deposits, or stains, and
+remove as recommended by glass manufacturer.
+
+D. Remove and replace glass that is broken, chipped, cracked, abraded, or
+damaged in any way, including natural causes, accidents and vandalism,
+during construction period.
+
+E. Wash glass on both faces in each area of Project not more than 4 days prior
+to date scheduled for inspections that establish date of Project completion.
+Wash glass as recommended by glass manufacturer.
+
+END OF SECTION 08800
+
+SECTION 09900 - PAINTING
+
+PART 1 GENERAL
+
+1.01 SECTION INCLUDES
+A. Surface preparation and field application of paints and coatings.
+
+1.02 ENVIRONMENTAL REQUIREMENTS
+A. Store and apply materials in environmental conditions required by
+manufacturer's instructions.
+B. Use Low VOC paints in required states.
+
+PART 2 PRODUCTS
+
+2.01 MATERIALS
+
+A. Coatings: Ready mixed (except field catalyzed) coatings of good flow
+and brushing properties, capable of drying or curing free of streaks or sags.
+B. Accessory Materials: Linseed oil, shellac, turpentine, paint thinners and
+other materials required to achieve the finishes specified.
+
+2.02 FINISHES
+Refer to drawings.
+
+2.03 COLORS
+Refer to drawings.
+
+PART 3 EXECUTION
+3.01 EXAMINATION AND PREPARATION
+
+A. Verify that substrate conditions are ready to receive work according to
+manufacturer's instructions.
+
+B. Measure moisture content of porous surfaces using an electronic
+moisture meter. Do not apply finishes unless moisture content is less
+than 12 percent.
+
+C. Correct minor defects and clean surfaces which affect work of this
+Section.
+
+D. Remove or mask electrical plates, hardware, light fixture trim,
+escutcheons, and fittings prior to preparing surfaces or finishing.
+
+E. Galvanized Surfaces: Remove surface contamination and oils and wash
+with solvent. Apply coat of etching primer.
+
+F. Concrete Surfaces Scheduled to Receive Paint Finish: Remove foreign
+matter. Remove oil and grease with a solution of tri-sodium phosphate,
+rinse well and allow to dry.
+
+G. Uncoated Ferrous Surfaces: Remove scale by wire brushing,
+sandblasting, clean by washing with solvent. Apply treatment of
+phosphoric acid solution. Prime paint after repairs.
+
+H. Shop Primed Steel Surfaces: Sand and scrape to remove loose primer
+and rust, clean surfaces with solvent. Prime bare steel surfaces.
+
+3.02 APPLICATION
+A. Apply products in accordance with manufacturer's instructions.
+
+3.03 CLEANING
+A. As work proceeds, promptly remove finishes where spilled, splashed or
+spattered.
+
+3.04 SCHEDULE - EXTERIOR SURFACES
+
+A. Provide the following paint systems as specified by Sherwin Williams
+(Basis of Design) or architect approved equal
+
+1. Exterior ferrous metal
+A) Surface preparation: sspc-sp2 or sw-12
+B) Primer: all ferrous metal items shall be shop primed.
+Coordinate primer with paint coating system.
+C) Touch-up with alkyd primer.
+D) Paint: A-100 exterior acrylic latex semi-gloss, 2 coats, 1.3 mils dft.
+
+2. Exterior galvanized metal:
+
+A) Surface preparation: s-w 10 or 12
+
+B) Primer: dtm acrylic primer/finish, 1 coat, 2.5 mils dft.
+
+C) Paint: A-100 exterior acrylic latex semi-gloss, 2 coats, 1.3 mils dft.
+
+3. Pipe & tube railings:
+
+A) Surface preparation: s-w 10 or 12
+
+B) Primer: dtm acrylic primer/finish, 1 coat, 2.5 mils dft.
+
+C) Paint: A-100 exterior acrylic latex semi-gloss, 2 coats, 1.3 mils dft.
+
+D) Clean and prepare surfaces to be coated and apply the
+coatings according to manufacturers' Recommendations.
+
+E) After completing work, remove spattered paint without
+damaging adjacent finished surfaces.
+
+7. Masonry Paint System:
+
+A) Prime Coat: Block Filler, Latex, Exterior.
+
+B) | $-W_Loxon Block Surfacer, A24W200, at 50 to 100 sq. ft. per gal.
+
+C) Surface preparation & application: per manufacturer
+recommendations and written instructions.
+
+D) Provide Block Surfacer on all exterior masonry surfaces - CMU gray
+block walls as indicated on drawings.
+Do not paint brick or new split-faced block with integral color.
+
+E) Paint: A-100 exterior acrylic latex low-sheen, 2 coats, 1.3 mils dft.
+Provide colors indicated on drawings.
+
+END OF SECTION
+
+SECTION 09260 - GYPSUM WALLBOARD SYSTEMS
+
+PART 1 GENERAL
+1.01 SUMMARY
+
+A. Section Includes:
+1. Interior gypsum wallboard.
+2. Nonload-bearing steel framing.
+
+B. Related Sections:
+1. Section 06100 - Rough Carpentry.
+2. Section 07250 - Sound Attenuation Insulation.
+3. Section 07900 - Joint Sealants.
+
+1.02 REFERENCES
+
+A. American Society for Testing and Materials (ASTM):
+
+1. ASTMA525: General Requirements for Steel Sheet, Zinc-Coated
+(Galvanized) by the Hot-Dip Process.
+
+2. ASTM C 645: Specification for Nonstructural Steel Framing Members.
+
+3. ASTM C 754: Installation of Steel Framing Members to Receive
+Screw-Attached Gypsum Board.
+
+4. ASTM C 840: Specification for Application and Finishing of Gypsum
+Board.
+
+5. ASTME 119: Test Methods for Fire Tests of Building Construction and
+Materials.
+
+B. Gypsum Association (GA):
+1. GA-216: Application and Finishing of Gypsum Board: Specifications.
+
+C. Steel Stud Manufacturers Association (SSMA; formerly ML/SFA):
+1. Guide Specification for Metal Lathing and Furring.
+
+1.03 SUBMITTALS
+A. Product Data: For each type of product specified.
+
+B. Shop Drawings: Show locations, fabrication, and installation of control and
+expansion joints, including plans, elevations, sections, to other units of work.
+(See interior elevations for approximate layout @ 24'-0 - 30'-0" O.C.)
+
+1.04 DELIVERY, STORAGE, AND HANDLING
+
+A. Deliver materials in original packages, containers, or bundles bearing brand
+name and identification of manufacturer or supplier.
+
+B. Store materials inside under cover and keep them dry and protected against
+damage from weather, direct sunlight, surface contamination, corrosion,
+construction traffic, and other causes. Stack gypsum panels flat to prevent
+sagging.
+
+1.05 PROJECT CONDITIONS
+
+A. Environmental Limitations: Comply with ASTM C 840 requirements or
+gypsum board manufacturer's written recommendations, whichever are more
+stringent.
+
+1.06 SEQUENCING
+
+A. Coordinate work with Section 08110 - Steel Doors and Frames for the
+location and installation of steel door frames to be erected in conjunction with
+gypsum board assemblies.
+
+B. Coordinate work with Division 15 - Mechanical for proper location and
+installation of plumbing work where indicated on Drawings. Do not close
+both faces of partitions until plumbing work is complete, inspected, and
+approved.
+
+C. Coordinate work with Division 16 - Electrical for proper location and
+installation of electrical conduit, switch, and outlet boxes and wiring. Do not
+close both faces of partition until electrical installations have been completed,
+inspected, and approved.
+
+PART 2 PRODUCTS
+
+2.01 MANUFACTURERS
+
+A. United States Gypsum Company.
+
+B. Other acceptable manufacturers offering equivalent products:
+
+FlintKote Products, Genstar Building Materials Co.
+
+Georgia Pacific Corporation.
+
+Gold Bond Building Products Division.
+United States Gypsum Company.
+
+BONS
+
+C. Substitutions: Under provisions of the General Conditions, Section 01300.
+2.02 STEEL PARTITION AND SOFFIT FRAMING
+
+A. Components, General:
+1. Comply with ASTM C 754 for conditions indicated.
+2. Steel Sheet Components: Complying with ASTM C 645 requirements for
+metal and with manufacturer's standard corrosion-resistant zinc coating.
+
+B. Steel Studs and Runners: ASTM C 645.
+1. Minimum Base Metal Thickness: 0.0312 inch unless otherwise indicated.
+2. Depth: 3-5/8 inches unless otherwise indicated.
+
+E. Flat Strap and Backing Plate: Steel sheet for blocking and bracing in length
+and width indicated.
+1. Minimum Base Metal Thickness: 0.0179 inch.
+
+F. Hat-Shaped, Rigid Furring Channels: ASTM C 645.
+1. Minimum Base Metal Thickness: 0.0312 inch uncoated metal unless
+otherwise indicated.
+2. Depth: 7/8 inch unless otherwise indicated.
+
+G. Cold-Rolled Furring Channels: 0.0538-inch bare steel thickness with
+minimum 1/2-inch-wide flange.
+1. Depth: As indicated.
+2. Furring Brackets: Adjustable, corrugated-edge type of steel sheet with
+minimum bare steel thickness of 0.0312 inch.
+3. Tie Wire: ASTM A 641, Class 1 zinc coating, soft temper,
+0.0625-inch-diameter wire, or double strand of .0475-inch-diameter wire.
+
+H. Fasteners for Metal Framing: Of type, material, size, corrosion resistance,
+holding power, and other properties required to fasten steel members to
+substrates.
+
+2.03 AUXILIARY MATERIALS
+
+A. General: Provide auxiliary materials for gypsum board construction that
+comply with referenced standards and recommendations of gypsum board
+manufacturer.
+
+B. Steel Drill Screws: ASTM C 1002, unless otherwise indicated.
+C. Acoustical sealant is specified in Section 07920.
+
+PART 3 EXECUTION
+
+3.01 EXAMINATION
+
+A. Examine areas and substrates, with Installer present, and including welded
+hollow-metal frames, and structural framing, for compliance with
+requirements and other conditions affecting performance. Proceed with
+installation only after unsatisfactory conditions have been corrected.
+
+3.02 INSTALLING STEEL FRAMING, GENERAL
+
+A. Installation Standards: ASTM C 754 and ASTM C 840 requirements that
+apply to framing installation.
+
+B. Install supplementary framing, blocking, and bracing at terminations in
+gypsum board assemblies to support fixtures, equipment services, heavy
+trim, or similar construction. Comply with details indicated and with gypsum
+board manufacturer's written recommendations or, if none available, with
+USG's Gypsum Construction Handbook.
+
+C. Do not bridge building control and expansion joints with steel framing or
+furring members. Independently frame both sides of joints with framing or
+furring members as indicated.
+
+3.07 INSTALLING TRIM ACCESSORIES
+
+A. General: For trim with back flanges intended for fasteners, attach to framing
+with same fasteners used for panels. Otherwise, attach trim according to
+accessory manufacturer's written instructions.
+
+B. Install cornerbead at external corners.
+
+C. Install edge trim where edge of gypsum panels would otherwise be exposed.
+Provide edge trim type with face flange formed to receive joint compound
+except where other types are indicated.
+
+D. Install control joints according to ASTM C 840 in locations indicated on
+Drawings.
+
+SECTION 09260 - CONTINUED
+
+3.08 FINISHING GYPSUM BOARD ASSEMBLIES
+
+A. General: Treat gypsum board joints, interior angles, edge trim, control joints,
+penetrations, fastener heads, surface defects, and elsewhere as required to
+prepare gypsum board surfaces for decoration. Promptly remove residual joint
+compound from adjacent surfaces.
+
+B. Prefill open joints, rounded or beveled edges, and damaged surface areas.
+
+C. Apply joint tape over gypsum board joints, except those with trim having flanges
+not intended for tape.
+
+D. Gypsum Board Finish Levels: Finish panels to levels indicated below, according
+to ASTM C 840, for locations indicated:
+
+1. Level 1: Embed tape at joints in ceiling plenum areas, concealed areas, and
+where indicated, unless a higher level of finish is required for
+fire-resistance-rated assemblies and sound-rated assemblies.
+
+2. Level 2: Embed tape and apply separate first coat of joint compound to tape,
+fasteners, and trim flanges where indicated.
+
+3. Level 4: Embed tape and apply separate first, fill, and finish coats of joint
+compound to tape, fasteners, and trim flanges at panel surfaces that will be
+exposed to view unless otherwise indicated.
+
+4. Level 5: Embed tape and apply separate first, fill, and finish coats of joint
+compound to tape, fasteners, and trim flanges, and apply skim coat of joint
+compound over entire surface where scheduled to receive paint unless
+otherwise indicated.
+
+END OF SECTION
+
+mcgarchitecture.com
+
+i—J
+e 2
+=
+re
+Lut
+akaes
+Seal:
+A Project for:
+
+WARM DARK SHELL
+CASSELBERRY COMMONS
+1455 FL-436 SUITE 251
+CASSELBERRY, FL 32707
+
+Client:
+SITE CENTERS
+3300 ENTERPRISE PARKWAY
+
+BEACHWOOD, OH 44122
+Revisions:
+Issued for Bid-Permit 10-15-2021
+No. Description Date
+Project No.: 20.379.20
+Drawn By: M.BRR
+Reviewed By: TRG
+Scale: AS NOTED
+Date: 10-15-21
+Filename:
+Sheet Title:
+
+SPECIFICATIONS
+Sheet #:
+
+A003
+
+© MCG ARCHITECTURE 2021 ALL RIGHTS RESERVED

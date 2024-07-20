@@ -1,0 +1,571 @@
+4/2/2021 10:58:10 AM
+
+002213 - SUPPLEMENTARY CONDITIONS 012100 - AALOWANCES
+
+1.1. SUPPLEMENTS, GENERAL
+A.The General Conditions of the Contract is the IA version of American Institute of Architects’ AIA Document
+A201, "General Conditions of the Contract for Construction", 1997 Edition Articles 1 through 14 inclusive is
+made a part of the Contract Documents with the same force and effect as though set forth in full.
+B.The Contractor shall, as a condition of the Contract, obtain the IA version of AIA Document A201, shall be
+versed with the Articles contained therein, and shall notify and apprise all subcontractors and any other
+appropriate parties to the Contract or individuals or agencies engaged on the work as to its contents.
+C.No contractual adjustments shall be due contractors or subcontractors, or both become exigent as a result of
+failure on the part of the Contractor or subcontractors or both to fully acquaint themselves with the conditions of
+the IA version of AIA Document A201.
+REFERENCE TO DIVISION 01
+A.Where provisions of General Conditions relate to project administrative or work-related requirements of the
+Contract, those paragraphs are expanded in Division 01, General Requirements of the Specifications.
+B.Bidding documents, General Conditions, Supplementary Conditions and Division 01 - General Requirements
+contain information necessary for completion of every part of project.
+C.Every item of work performed under a subcontract is subject to the above conditions and requirements.
+1.3 DEFINITIONS
+A The term "product" includes materials, systems and equipment.
+B.The terms "approved," "directed," "required," "ordered," "designated," "acceptable" and "satisfactory" shall mean
+written action onthe —_ part of the Architect.
+C.The Term “Owner” is defined as IA’s client whose name appears in the IA Title block on each Architectural
+Drawing.
+D.The term "Substantially Complete" as used in this document shall be understood to include completion of
+each phase of the entire project in accordance with requirements of Contract Documents except minor items
+which will not interfere with complete and intended use of the premises.
+SUBCONTRACTUAL RELATIONS
+A Contractor agrees to bind in writing all subcontractors and materials suppliers in terms of General and
+Supplementary Conditions of the Contract for Construction and to terms of entire agreement between Owner and
+Contractor.
+BUILDING MANAGEMENT REQUIREMENTS
+A.All work performed in connection with this project shall be coordinated and carried out in compliance with the
+requirements of the Building Management. Such requirements include, but are not limited to:
+1. Building access, delivery, use of loading dock.
+. Work affecting other tenants.
+. Protection and cleaning.
+. Working hours and required after-hours work.
+. Security requirements.
+. Garbage removal.
+. Site work.
+8.Modifications to building services including HVAC, Plumbing, Fire Protection, Electrical, Building
+Management System and Life Safety System, and commissioning, testing and inspection thereof.
+9.Miscellaneous building standard details, products, means and methods.
+1.6 HAZARDOUS MATERIALS
+A.Owner acknowledges Architect shall have no responsibility for the discovery, removal, presence, handling,
+disposal of, or exposure of persons to hazardous substances materials and wastes in any form at the Project Site,
+including but not limited to asbestos, asbestos products, PCB, Mold, or other toxic substances.
+B.The Owner shall retain an independent consultant who is trained and experienced in identification and survey of
+existing sites prior to start of work.
+REVIEW OF CONTRACT DOCUMENTS AND FIELD CONDITIONS BY CONTRACTOR
+A.Since the Contract Documents are complementary, before starting each portion of the Work, the Contractor
+shall carefully study and compare the various Drawings and other Contract Documents relative to that portion of
+the Work, as well as the information furnished by the Owner, shall take field measurements of any existing
+conditions related to that portion of the Work and shall observe any conditions at the site affecting it. These
+obligations are for the purpose of facilitating construction by the Contractor and are not for the purpose of
+discovering errors, omissions, or inconsistencies in the Contract Documents; however, any errors,
+inconsistencies or omissions discovered by the Contractor shall be reported promptly to the Architect as a
+request for information in such form as the Architect may require.
+B.Any design errors, conflicts or omissions noted by the Contractor during this review shall be reported promptly
+to the Architect prior to start of work, but it is recognized that the Contractor's review is made in the Contractor's
+capacity as a contractor and not as a licensed design professional unless otherwise specifically provided in the
+Contract Documents. The Contractor is not required to ascertain that the Contract Documents are in accordance
+with applicable laws, statutes, ordinances, building codes, and rules and regulations, but any nonconformity
+discovered by or made known to the Contractor shall be reported promptly to the Architect.
+DOCUMENTS AT THE SITE
+A.The Contractor shall maintain at the site for the Owner one record copy of the Drawings, Specifications,
+Addenda, Change Orders and other Modifications, in good order and marked currently to record field changes
+and selections made during construction, and one record copy of Architect reviewed Shop Drawings, Product
+Data, Samples and similar required submittals. These shall be available to the Architect and shall be delivered to
+the Architect for submittal to the Owner upon completion of the Work.
+MATERIAL SAFETY DATA SHEETS
+A.ln addition to the Material Safety and Data Sheets listed in junction with LEED credits, provide MSDS’s for
+traditional purposes including but not limited to materials, finishes and products that contain hazardous
+substances, separate from LEED.
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and other
+
+Division 01 Specification Sections, apply to this Section.
+
+SUMMARY
+
+. Section includes administrative and procedural requirements governing allowances.
+
+1. Certain items are specified in the Contract Documents by allowances. Allowances have been established in
+lieu of additional requirements and to defer selection of actual materials and equipment to a later date when
+direction will be provided to Contractor. If necessary, additional requirements will be issued by Change Order.
+
+. Types of allowances include the following:
+
+1. Lump-sum allowances.
+
+2. Unit-cost allowances.
+
+3. Contingency allowances.
+
+. Related Requirements:
+
+1. Section 012200 "Unit Prices" for procedures for using unit prices.
+
+SELECTION AND PURCHASE
+
+. At the earliest practical date after award of the Contract, advise Architect of the date when final selection and
+purchase of each product or system described by an allowance must be completed to avoid delaying the Work.
+
+. At Architect's request, obtain proposals for each allowance for use in making final selections. Include
+recommendations that are relevant to performing the Work. Purchase products and systems selected by Architect
+from the designated supplier.
+
+ACTION SUBMITTALS
+
+A. Submit proposals for purchase of products or systems included in allowances, in the form specified for Change
+
+Orders.
+
+1.5 INFORMATIONAL SUBMITTALS.
+B. Submit invoices or delivery slips to show actual quantities of materials delivered to the site for use in fulfillment
+of each allowance. Submit time sheets and other documentation to show labor time and cost for installation of
+allowance items that include installation as part of the allowance. Coordinate and process submittals for allowance
+items in same manner as for other portions of the Work.
+
+1.6 COORDINATION
+A. Coordinate allowance items with other portions of the Work. Furnish templates as required to coordinate
+
+installation.
+
+1.7 LUMP-SUM AND UNIT-COST ALLOWANCES
+
+. Allowance shall include cost to Contractor of specific products and materials ordered by Owner or selected by
+Architect under allowance and shall include taxes, freight and delivery to Project site.
+
+. Unless otherwise indicated, Contractor's costs for receiving and handling at Project site, labor, installation,
+overhead and profit, and similar costs related to products and materials ordered by Owner under allowance shall
+be included as part of the Contract Sum and not part of the allowance.
+
+. Unused Materials: Return unused materials purchased under an allowance to manufacturer or supplier for credit
+to Owner, after installation has been completed and accepted.
+
+1. If requested by Architect, retain and prepare unused material for storage by Owner. Deliver unused material to
+Owner's storage space as directed.
+
+CONTINGENCY ALLOWANCES
+
+. Use the contingency allowance only as directed by Architect for Owner's purposes and only by Change Orders
+that indicate amounts to be charged to the allowance.
+
+. Contractor's overhead, profit, and related costs for products and equipment ordered by Owner under the
+contingency allowance are included in the allowance and are not part of the Contract Sum. These costs include
+delivery, installation, taxes, insurance, equipment rental, and similar costs.
+
+. Change Orders authorizing use of funds from the contingency allowance will include Contractor's related costs
+and reasonable overhead and profit margins. At Project closeout, credit unused amounts remaining in the
+contingency allowance to Owner by Change Order.
+
+TESTING AND INSPECTING ALLOWANCES
+
+. Testing and inspecting allowances include the cost of engaging testing agencies, actual tests and inspections,
+and reporting results.
+
+. The allowance does not include incidental labor required to assist the testing agency or costs for retesting if
+previous tests and inspections result in failure. The cost for incidental labor to assist the testing agency shall be
+included in the Contract Sum.
+
+. Costs of services not required by the Contract Documents are not included in the allowance. At Project closeout,
+credit unused amounts remaining in the testing and inspecting allowance to Owner by Change Order.
+ADJUSTMENT OF ALLOWANCES
+
+. Allowance Adjustment: To adjust allowance amounts, prepare a Change Order proposal based on the difference
+between purchase amount and the allowance, multiplied by final measurement of work-in-place where
+applicable. If applicable, include reasonable allowances for cutting losses, tolerances, mixing wastes, normal
+product imperfections, and similar margins.
+
+. Submit claims for increased costs because of a change in scope or nature of the allowance described in the
+Contract Documents, whether for the purchase order amount or Contractor's handling, labor, installation,
+overhead, and profit.
+
+PART 2- PRODUCTS (Not Used)
+
+PART3- EXECUTION
+
+3.1 EXAMINATION
+A. Examine products covered by an allowance promptly on delivery for damage or defects. Return damaged or
+
+defective products to manufacturer for replacement.
+
+3.2 PREPARATION
+B. Coordinate materials and their installation for each allowance with related materials and installations to ensure
+that each allowance item is completely integrated and interfaced with related work.
+
+012300 - ALTERNATES
+
+PART 1- GENERAL
+1.1. RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and other
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section includes administrative and procedural requirements for alternates.
+1.3. DEFINITIONS
+A. Alternate: An amount proposed by bidders and stated on the Bid Form for certain work defined in the bidding
+requirements that may be added to or deducted from the base bid amount if Owner decides to accept a
+corresponding change either in the amount of construction to be completed or in the products, materials,
+equipment, systems, or installation methods described in the Contract Documents.
+1. Alternates described in this Section are part of the Work only if enumerated in the Agreement.
+2. The cost or credit for each alternate is the net addition to or deduction from the Contract Sum to incorporate
+alternate into the Work. No other adjustments are made to the Contract Sum.
+PROCEDURES
+. Coordination: Revise or adjust affected adjacent work as necessary to completely integrate work of the alternate
+into Project.
+1. Include as part of each alternate, miscellaneous devices, accessory objects, and similar items incidental to
+or required for a complete installation whether or not indicated as part of alternate.
+
+. Notification: Immediately following award of the Contract, notify each party involved, in writing, of the status of
+each alternate. Indicate if alternates have been accepted, rejected, or deferred for later consideration. Include a
+complete description of negotiated revisions to alternates.
+
+C. Execute accepted alternates under the same conditions as other work of the Contract.
+D. Schedule: A schedule of alternates is included at the end of this Section. Specification Sections referenced in
+schedule contain requirements for materials necessary to achieve the work described under each alternate.
+
+PART 2- PRODUCTS (Not Used)
+
+PART 3- EXECUTION (Not Used
+
+e. Requested substitution has received necessary approvals of authorities having jurisdiction.
+
+f. Requested substitution is compatible with other portions of the Work.
+
+g. Requested substitution has been coordinated with other portions of the Work.
+
+h. Requested substitution provides specified warranty.
+
+i. If requested substitution involves more than one contractor, requested substitution has been
+coordinated with other portions of the Work, is uniform and consistent, is compatible with other products, and is
+acceptable to all contractors involved.
+
+B. Substitutions for Convenience: Not allowed.
+
+PART 3- EXECUTION (Not Used)
+
+013300 - SUBMITTAL PROCEDURES
+
+012200 - UNIT PRICES
+
+PART 1- GENERAL
+1.1 RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and other
+
+Division 01 Specification Sections, apply to this Section.
+SUMMARY
+
+. Section includes administrative and procedural requirements for unit prices.
+
+. Related Requirements:
+1. Section 012600 "Contract Modification Procedures" for procedures for submitting and handling Change
+
+Orders.
+
+2. Section 014000 "Quality Requirements' for general testing and inspecting requirements.
+DEFINITIONS
+
+. Unit price is an amount incorporated in the Agreement, applicable during the duration of the Work as a price per
+unit of measurement for materials, equipment, or services, or a portion of the Work, added to or deducted from
+the Contract Sum by appropriate modification, if the scope of Work or estimated quantities of Work required by
+the Contract Documents are increased or decreased.
+PROCEDURES
+
+. Unit prices include all necessary material, plus cost for delivery, installation, insurance, applicable
+taxes, overhead, and profit.
+
+. Measurement and Payment: See individual Specification Sections for work that requires establishment of unit
+prices. Methods of measurement and payment for unit prices are specified in those Sections.
+
+. Owner reserves the right to reject Contractor's measurement of work-in-place that involves use of established unit
+prices and to have this work measured, at Owner's expense, by an independent surveyor acceptable to Contractor.
+
+. List of Unit Prices: A schedule of unit prices is included in Part 3. Specification Sections referenced in the
+schedule contain requirements for materials described under each unit price.
+
+PART 2- PRODUCTS (Not Used)
+
+PART 3- EXECUTION (Not Used)
+
+012500 - SUBSTITUTION PROCEDURES
+
+PART 1- GENERAL
+1.1. RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and other
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section includes administrative and procedural requirements for substitutions.
+B. Related Requirements:
+
+1. Section 012100 "Allowances" for products selected under an allowance.
+
+2. Section 012300 "Alternates" for products selected under an alternate.
+
+3. Section 016000 "Product Requirements' for requirements for submitting comparable product submittals for
+products by listed manufacturers.
+
+1.3. DEFINITIONS
+A. Substitutions: Changes in products, materials, equipment, and methods of construction from those required by
+the Contract Documents —_and proposed by Contractor.
+
+1. Substitutions for Cause: Changes proposed by Contractor that are required due to changed Project
+conditions, such as unavailability of product, regulatory changes, or unavailability of required warranty terms.
+
+2. Substitutions for Convenience: Changes proposed by Contractor or Owner that are not required in order to
+meet other Project requirements but may offer advantage to Contractor or Owner.
+
+1.4 ACTION SUBMITTALS
+
+A. Substitution Requests: Submit three copies of each request for consideration. Identify product or fabrication or
+installation method to be replaced. Include Specification Section number and title and Drawing numbers and
+titles.
+
+1. Substitution Request Form: Use facsimile of form provided by Architect.
+
+2. Documentation: Show compliance with requirements for substitutions and the following, as applicable:
+
+a. Statement indicating why specified product or fabrication or installation cannot be provided, if applicable.
+
+b. Coordination information, including a list of changes or revisions needed to other parts of the Work and to
+construction performed by Owner and separate contractors, that will be necessary to
+accommodate proposed substitution.
+
+c. Detailed comparison of significant qualities of proposed substitution with those of the Work specified.
+Include annotated copy of applicable Specification Section. Significant qualities may include attributes
+such as performance, weight, size, durability, visual effect, sustainable design characteristics, warranties,
+and specific features and requirements indicated. Indicate deviations, if any, from the Work specified.
+
+d. Product Data, including drawings and descriptions of products and fabrication and installation procedures.
+
+e. Samples, where applicable or requested.
+
+f. Certificates and qualification data, where applicable or requested.
+
+g. List of similar installations for completed projects with project names and addresses and names and
+addresses of architects and owners.
+
+h. Material test reports from a qualified testing agency indicating and interpreting test results for compliance
+with requirements indicated.
+
+i. Research reports evidencing compliance with building code in effect for Project.
+
+j. Detailed comparison of Contractor's construction schedule using proposed substitution with products
+specified for the Work, including effect on the overall Contract Time. If specified product or method of
+construction cannot be provided within the Contract Time, include letter from manufacturer, on
+manufacturer's letterhead, stating date of receipt of purchase order, lack of availability, or delays in delivery.
+
+k. Cost information, including a proposal of change, if any, in the Contract Sum.
+
+|. Contractor's certification that proposed substitution complies with requirements in the Contract
+Documents except as indicated in substitution request, is compatible with related materials, and is
+appropriate for applications indicated.
+
+m. Contractor's waiver of rights to additional payment or time that may subsequently become necessary
+because of failure of proposed substitution to produce indicated results.
+
+3. Architect's Action: If necessary, Architect will request additional information or documentation for evaluation
+within 5 days of receipt of a request for substitution. Architect will notify Contractor of acceptance or rejection
+of proposed substitution within 10 days of eceipt of request, or five days of receipt of additional information
+or documentation, whichever is later.
+
+a. Forms of Acceptance: Change Order, Construction Change Directive, or Architect's Supplemental
+Instructions for minor changes in the Work.
+
+b. Use product specified if Architect does not issue a decision on use of a proposed substitution within time
+allocated.
+
+1.5 QUALITY ASSURANCE
+
+A. Compatibility of Substitutions: Investigate and document compatibility of proposed substitution with related
+products and materials. Engage a qualified testing agency to perform compatibility tests recommended by
+manufacturers.
+1.6 PROCEDURES
+
+A. Coordination: Revise or adjust affected work as necessary to integrate work of the approved substitutions.
+
+PART 2- PRODUCTS
+2.1 SUBSTITUTIONS
+
+A. Substitutions for Cause: Submit requests for substitution immediately on discovery of need for change, but not
+later than 15 days prior to time required for preparation and review of related submittals.
+
+1. Conditions: Architect will consider Contractor's request for substitution when the following conditions are
+satisfied. If the following conditions are not satisfied, Architect will return requests without action, except to
+record noncompliance with these requirements:
+
+a. Requested substitution is consistent with the Contract Documents and will produce indicated results.
+b. Requested substitution provides sustainable design characteristics that specified product provided.
+c. Substitution request is fully documented and properly submitted.
+
+d. Requested substitution will not adversely affect Contractor's construction schedule.
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and other
+Division 01 Specification Sections, apply to this Section.
+
+1.2 SUMMARY
+
+A. Section includes requirements for the submittal schedule and administrative and procedural requirements for
+submitting Shop Drawings, Product Data, Samples, and other submittals.
+1.3 DEFINITIONS
+
+A. Action Submittals: Written and graphic information and physical samples that require Architect's responsive
+action. Action submittals are those submittals indicated in individual Specification Sections as "action submittals."
+
+B. Informational Submittals: Written and graphic information and physical samples that do not require
+Architect's responsive action. Submittals may be rejected for not complying with requirements. Informational
+submittals are those submittals indicated in individual Specification Sections as "informational submittals."
+
+C. Portable Document Format (PDF): An open standard file format licensed by Adobe Systems used for
+representing documents in a device-independent and display resolution-independent fixed-layout document
+format.
+
+1.4 ACTION SUBMITTALS
+
+A. Submittal Schedule: Submit a schedule of submittals, arranged in chronological order by dates required by
+construction schedule. Include time required for review, ordering, manufacturing, fabrication, and delivery when
+establishing dates. Include additional time required for making corrections or revisions to submittals noted by
+Architect and additional time for handling and reviewing submittals required by those corrections.
+
+1.5 SUBMITTAL ADMINISTRATIVE REQUIREMENTS
+
+A. Architect's Digital Data Files: Electronic digital data files of the Contract Drawings will be provided by
+
+Architect for Contractor's use in preparing submittals.
+1. Architect will furnish Contractor one set of digital data drawing files of the Contract Drawings for use in
+preparing Shop Drawings and Project record drawings.
+a. Architect makes no representations as to the accuracy or completeness of digital data drawing files as
+they relate to the Contract Drawings.
+b. Digital Drawing Software Program: The Contract Drawings are available in Revit.
+c. Contractor shall execute a data licensing agreement in the form of IA’s Electronic Media Agreement.
+d. The following digital data files will by furnished for each appropriate discipline:
+1) Floor plans.
+2) Reflected ceiling plans.
+
+B. Coordination: Coordinate preparation and processing of submittals with performance of construction
+activities.
+
+1. Architect reserves the right to withhold action on a submittal requiring coordination with other submittals
+until related submittals are received.
+
+C. Paper Submittals: Place a permanent label or title block on each submittal item for identification.
+
+D. Electronic Submittals: Identify and incorporate information in each electronic submittal file as follows:
+
+1. Assemble complete submittal package into a single indexed file incorporating submittal requirements of
+a single Specification Section and transmittal form with links enabling navigation to each item.
+2. Name file with submittal number or other unique identifier, including revision identifier.
+a. File name shall use project identifier and Specification Section number.
+
+E. Distribution: Furnish copies of final submittals to manufacturers, subcontractors, suppliers, fabricators,
+installers, authorities having jurisdiction, and others as necessary for performance of construction activities. Show
+distribution on transmittal forms.
+
+F. Use for Construction: Retain complete copies of submittals on Project site. Use only final action submittals
+that are marked with approval notation from Architect's action stamp.
+
+PART 2- PRODUCTS
+2.1. SUBMITTAL PROCEDURES
+
+A. General Submittal Procedure Requirements for Project Data and Shop Drawings: Prepare and submit
+submittals required by individual Specification Sections. Types of submittals are indicated in individual
+Specification Sections.
+
+1. Submit electronic submittals via email as PDF electronic files.
+a. Architect will return annotated file. Annotate and retain one copy of file as an electronic Project record
+document file.
+
+B. Samples: Submit Samples for review of kind, color, pattern, and texture for a check of these characteristics
+with other elements and for a comparison of these characteristics between submittal and actual component as
+delivered and installed.
+
+2.2 DELEGATED-DESIGN SERVICES
+
+A. Performance and Design Criteria: Where professional design services or certifications by a design
+professional are specifically required of Contractor by the Contract Documents, provide products and systems
+complying with specific performance and design criteria indicated.
+
+B. Delegated-Design Services Certification: In addition to Shop Drawings, Product Data, and other required
+submittals, submit digitally signed PDF electronic file paper copies of certificate, signed and sealed by the
+responsible design professional, for each product and system specifically assigned to Contractor to be designed or
+certified by a design professional.
+
+C. BIM File Incorporation: Incorporate delegated-design drawing and data files into Building Information Model
+established for Project.
+
+PART3- EXECUTION
+3.1. CONTRACTOR'S REVIEW
+
+A. Action and Informational Submittals: Review each submittal and check for coordination with other Work of
+the Contract and for compliance with the Contract Documents. Note corrections and field dimensions. Mark with
+approval stamp before submitting to Architect.
+
+B. Project Closeout and Maintenance Material Submittals: See requirements in Section 017700 "Closeout
+Procedures."
+
+C. Approval Stamp: Stamp each submittal with a uniform, approval stamp. Include Project name and location,
+submittal number, Specification Section title and number, name of reviewer, date of Contractor's approval, and
+statement certifying that submittal has been reviewed, checked, and approved for compliance with the Contract
+Documents.
+
+3.2 ARCHITECT'S ACTION
+
+A. Action Submittals: Architect will review each submittal, make marks to indicate corrections or revisions
+required, and return it. Architect will stamp each submittal with an action stamp and will mark stamp appropriately
+to indicate action.
+
+B. Informational Submittals: Architect will review each submittal and will not return it, or will return it if it does
+not comply with requirements. Architect will forward each submittal to appropriate party. Partial submittals
+prepared for a portion of the Work will be reviewed when use of partial submittals has received prior approval from
+Architect.
+
+C. Incomplete submittals are unacceptable, will be considered nonresponsive, and will be returned for
+resubmittal without review. Submittals not required by the Contract Documents may be returned by the Architect
+without action.
+
+convivat7
+Care Solutions
+GATEWAY
+
+JACKSONVILLE
+EXPANSION
+
+5238-16 Norwood Ave.,
+Suite 25,
+Jacksonville, FL 33208
+
+GEORGE W. DE LA HOZ
+FL LICENSE #AR0016664
+
+ISSUE FOR PERMIT
+90% CD PROGRESS SET
+
+04/02/2021
+02/19/2021
+
+Delta_Issue Description Date
+Nr.
+
+INTERIOR
+ARCHITECTS, RE.
+
+NM A M
+
+150 ALHAMBRA CIRCLE
+SUITE 800
+CORAL GABLES, FLORIDA 33134
+TEL 786-405-0230
+
+©2021 INTERIOR ARCHITECTS P.-C. LICENSE #AA26001062.
+ALL DRAWINGS AND WRITTEN MATERIAL HERE IN CONSTITUTE THE
+ORIGINAL AND UNPUBLISHED WORK OF THE ARCHITECT, AND THE
+SAME MAY NOT BE DUPLICATED, USED, OR DISCLOSED WITHOUT THE
+WRITTEN CONSENT OF THE ARCHITECT.
+
+Drawn: VM Check: Owner Approval:
+
+Job No: 37HUMX.0331.000 Scale: 12" = 1'-0"
+
+mw SPECIFICATIONS
+
+uAN-2.4
+

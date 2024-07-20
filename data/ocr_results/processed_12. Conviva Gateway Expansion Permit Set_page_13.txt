@@ -1,0 +1,631 @@
+4{2/2021 10:58:14 AM
+
+088000 - GLAZING
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+
+1.2 SUMMARY
+
+A. Section includes:
+
+1. Glass for interior windows, interior doors, interior borrowed lites, interior storefront framing
+
+2. Glazing sealants and accessories.
+
+1.3 COORDINATION
+
+A. Coordinate glazing channel dimensions to provide necessary bite on glass, minimum edge and face
+clearances, and adequate sealant thicknesses, with reasonable tolerances.
+1.4 ACTION SUBMITTALS
+
+A. Product Data: For each type of product.
+
+B. Glass Samples: For each type of glass product other than clear monolithic vision glass, the following
+products; 12 inches (300 mm) square.
+
+1. Coated glass.
+
+2. Laminated glass.
+
+C. Glazing Schedule: List glass types and thicknesses for each size opening and location. Use same
+designations indicated on Drawings.
+
+1.5 DELIVERY, STORAGE, AND HANDLING
+
+A. Protect glazing materials according to manufacturer's written instructions. Prevent damage to glass and
+glazing materials from condensation, temperature changes, direct exposure to sun, or other causes.
+
+B. Comply with insulating-glass manufacturer's written instructions for venting and sealing units to avoid
+hermetic seal ruptures due to altitude change.
+
+1.6 FIELD CONDITIONS
+
+A. Environmental Limitations: Do not proceed with glazing when ambient and substrate temperature conditions
+are outside limits permitted by glazing material manufacturers and when glazing channel substrates are wet from
+rain, frost, condensation, or other causes.
+
+1.7 WARRANTY
+
+A. Manufacturer's Special Warranty for Coated-Glass Products: Manufacturer agrees to replace coated-glass
+units that deteriorate within specified warranty period. Deterioration of coated glass is defined as defects developed
+from normal use that are not attributed to glass breakage or to maintaining and cleaning coated glass contrary to
+manufacturer's written instructions. Defects include peeling, cracking, and other indications of deterioration in
+coating.
+
+1. Warranty Period: 10 years from date of Substantial Completion.
+
+B. Manufacturer's Special Warranty for Laminated Glass: Manufacturer agrees to replace laminated-glass units
+that deteriorate within specified warranty period. Deterioration of laminated glass is defined as defects
+developed from normal use that are not attributed to glass breakage or to maintaining and cleaning laminated
+glass contrary to manufacturer's written instructions. Defects include edge separation, delamination
+materially obstructing vision through glass, and blemishes exceeding those allowed by referenced
+
+laminated-glass standard.
+
+1. Warranty Period: 10 years from date of Substantial Completion.
+
+C. Safety Glazing Labeling: Where safety glazing is indicated, permanently mark glazing with certification label of
+manufacturer. Label shall indicate manufacturer's name, type of glass, thickness, and safety glazing standard with
+which glass complies.
+
+D. Thickness: Glass thickness shall be determined by the manufacturer.
+
+1.8 GLASS PRODUCTS
+
+A. Clear Annealed Float Glass: ASTM C 1036, Type |, Class 1 (clear), Quality-Q3.
+
+B. Fully Tempered Float Glass: ASTM C 1048, Kind FT (fully tempered), Condition A (uncoated) unless
+otherwise indicated, Type |, Class 1 (clear) or Class 2 (tinted) as indicated, Quality-Q3.
+
+C. Heat-Strengthened Float Glass: ASTM C 1048, Kind HS (heat strengthened), Type |, Condition A (uncoated)
+unless otherwise indicated, Type |, Class 1 (clear) or Class 2 (tinted) as indicated, Quality-Q3.
+
+1.9 LAMINATED GLASS
+
+A. Laminated Glass: ASTM C 1172. Use materials that have a proven record of no tendency to bubble, discolor,
+or lose physical and mechanical properties after fabrication and installation.
+1.10 GLAZING SEALANTS
+
+A. General:
+
+1. Compatibility: Compatible with one another and with other materials they contact, including glass
+products, seals of insulating-glass units, and glazing channel substrates, under conditions of service and
+application, as demonstrated by sealant manufacturer based on testing and field experience.
+
+2. Suitability: Comply with sealant and glass manufacturers’ written instructions for selecting glazing sealants
+suitable for applications indicated and for conditions existing at time of installation.
+
+3. Colors of Exposed Glazing Sealants: As selected by Architect from manufacturer's full range.
+
+1.11 MISCELLANEOUS GLAZING MATERIALS
+
+A. General: Provide products of material, size, and shape complying with referenced glazing standard, with
+requirements of manufacturers of glass and other glazing materials for application indicated, and with a proven
+record of compatibility with surfaces contacted in installation.
+
+1.2 FABRICATION OF GLAZING UNITS
+
+A. Fabricate glazing units in sizes required to fit openings indicated for Project, with edge and face clearances,
+edge and surface conditions, and bite complying with written instructions of product manufacturer and referenced
+glazing publications, to comply with system performance requirements
+
+PART 2- EXECUTION
+2.1 EXAMINATION
+
+A. Examine framing, glazing channels, and stops, with Installer present. Proceed with installation only after
+unsatisfactory conditions have been corrected.
+2.2 PREPARATION
+
+A. Clean glazing channels and other framing members receiving glass immediately before glazing. Remove
+coatings not firmly bonded to substrates. Examine glazing units to locate exterior and interior surfaces. Label or
+mark units as needed so that exterior and interior surfaces are readily identifiable. Do not use materials that leave
+visible marks in the completed Work.
+
+2.3 GLAZING, GENERAL
+
+A. Comply with combined written instructions of manufacturers of glass, sealants, gaskets, and other glazing
+materials, unless more stringent requirements are indicated, including those in referenced glazing publications.
+
+B. Protect glass edges from damage during handling and installation. Remove damaged glass from Project site
+and legally dispose of off Project site. Damaged glass includes glass with edge damage or other imperfections that,
+when installed, could weaken glass, impair performance, or impair appearance.
+
+C. Install setting blocks in sill rabbets, sized and located to comply with referenced glazing publications, unless
+otherwise required by glass manufacturer. Set blocks in thin course of compatible sealant suitable for heel bead.
+
+D. Provide spacers for glass lites where length plus width is larger than 50 inches (1270 mm).
+
+1. Locate spacers directly opposite each other on both inside and outside faces of glass. Install correct size
+and spacing to preserve required face clearances, unless gaskets and glazing tapes are used that have demonstrated
+ability to maintain required face clearances and to comply with system performance requirements.
+
+2. Provide 1/8-inch (3-mm) minimum bite of spacers on glass and use thickness equal to sealant width.
+With glazing tape, use thickness slightly less than final compressed thickness of tape.
+
+E. Provide edge blocking where indicated or needed to prevent glass lites from moving sideways in glazing
+channel, as recommended in writing by glass manufacturer and according to requirements in referenced glazing
+publications.
+
+F. Set glass lites in each series with uniform pattern, draw, bow, and similar characteristics.
+
+G. Where wedge-shaped gaskets are driven into one side of channel to pressurize sealant or gasket on opposite
+side, provide adequate anchorage so gasket cannot walk out when installation is subjected to movement.
+
+H. Square cut wedge-shaped gaskets at corners and install gaskets in a manner recommended by gasket
+manufacturer to prevent corners from pulling away; seal corner joints and butt joints with sealant recommended by
+gasket manufacturer.
+
+2.4 GASKET GLAZING (DRY)
+
+A. Cut compression gaskets to lengths recommended by gasket manufacturer to fit openings exactly, with
+allowance for stretch during installation.
+
+B. Insert soft compression gasket between glass and frame or fixed stop so it is securely in place with joints miter
+cut and bonded together at corners.
+
+C. Installation with Drive-in Wedge Gaskets: Center glass lites in openings on setting blocks, and press firmly
+against soft compression gasket by inserting dense compression gaskets formed and installed to lock in place against
+faces of removable stops. Start gasket applications at corners and work toward centers of openings. Compress gaskets
+to produce a weathertight seal without developing bending stresses in glass. Seal gasket joints with sealant
+recommended by gasket manufacturer.
+
+D. Installation with Pressure-Glazing Stops: Center glass lites in openings on setting blocks, and press firmly
+against soft compression gasket. Install dense compression gaskets and pressure-glazing stops, applying pressure
+uniformly to compression gaskets. Compress gaskets to produce a weathertight seal without developing bending
+stresses in glass. Seal gasket joints with sealant recommended by gasket manufacturer.
+
+E. Install gaskets so they protrude past face of glazing stops.
+
+2.5 SEALANT GLAZING (WET)
+
+A. Install continuous spacers, or spacers combined with cylindrical sealant backing, between glass lites and glazing
+stops to maintain glass face clearances and to prevent sealant from extruding into glass channel and blocking weep
+systems until sealants cure. Secure spacers or spacers and backings in place and in position to control depth of
+installed sealant relative to edge clearance for optimum sealant performance. Force sealants into glazing channels to
+eliminate voids and to ensure complete wetting or bond of sealant to glass and channel surfaces. Tool exposed
+surfaces of sealants to provide a substantial wash away from glass.
+
+2.6 CLEANING AND PROTECTION
+
+A. Immediately after installation remove nonpermanent labels and clean surfaces. Protect glass from contact with
+contaminating substances resulting from construction operations. Examine glass surfaces adjacent to or below exterior
+concrete and other masonry surfaces at frequent intervals during construction, but not less than once a month, for
+buildup of dirt, scum, alkaline deposits, or stains. Remove and replace glass that is damaged during construction
+period.” Wash glass on both exposed surfaces not more than four days before date scheduled for inspections that
+establish date of Substantial Completion. Wash glass as recommended in writing by glass manufacturer.
+
+092216 - NON-STRUCTURAL METAL
+FRAMING
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+1. Non-load-bearing steel framing systems for interior gypsum board assemblies.
+2. Suspension systems for interior gypsum ceilings, soffits, and grid systems.
+
+PART 2- PRODUCTS
+2.1. PERFORMANCE REQUIREMENTS
+
+A. Fire-Test-Response Characteristics: For fire-resistance-rated assemblies that incorporate non-load-bearing
+steel framing, provide materials and construction identical to those tested in assembly indicated, according to
+ASTM E 119 by an independent testing agency.
+
+B. STC-Rated Assemblies: For STC-rated assemblies, provide materials and construction identical to those tested
+in assembly indicated, according to ASTM E 90 and classified according to ASTM E 413 by an independent testing
+agency.
+
+2.2 FRAMING SYSTEMS
+
+A. Framing Members, General: Comply with ASTM C 754 for conditions indicated.
+
+1. Steel Sheet Components: Comply with ASTM C 645 requirements for metal unless otherwise indicated.
+
+2. Protective Coating: [ASTM A 653/A 653M, G40 (2120)] [ASTM A 653/A 653M, G60 (Z180)] [Coating with
+equivalent corrosion resistance of ASTM A 653/A 653M, G40 (Z120)], hot-dip galvanized unless otherwise indicated.
+
+B. Studs and Runners: ASTM C 645.Use either steel studs and runners or dimpled steel studs and runners.
+Deflection Track: Steel sheet top runner manufactured to prevent cracking of finishes applied to interior partition
+framing resulting from deflection of structure above; in thickness not less than indicated for studs and in width to
+accommodate depth of studs.
+
+C. Firestop Tracks: Top runner manufactured to allow partition heads to expand and contract with movement of the
+structure while maintaining continuity of fire-resistance-rated assembly indicated; in thickness not less than indicated
+for studs and in width to accommodate depth of studs.
+
+2.3 SUSPENSION SYSTEMS
+
+A. Tie Wire: ASTM A 641/A 641M, Class 1 zinc coating, soft temper, 0.062-inch- (1.59-mm-) diameter wire, or
+double strand of 0.048-inch-(1.21-mm-) diameter wire.
+
+B. Hanger Attachments to Concrete:
+
+1. Anchors: Fabricated from corrosion-resistant materials with holes or loops for attaching wire hangers and
+capable of sustaining, without failure, a load equal to 5 times that imposed by construction as determined by testing
+according to ASTM E 488 by an independent testing agency.
+
+2. Powder-Actuated Fasteners: Suitable for application indicated, fabricated from corrosion-resistant materials
+with clips or other devices for attaching hangers of type indicated, and capable of sustaining, without failure, a load
+equal to [10] <Insert number> times that imposed by construction as determined by testing according to
+ASTM E 1190 by an independent testing agency.
+
+A. Wire Hangers: ASTM A 641/A 641M, Class 1 zinc coating, soft temper, 0.16 inch (4.12 mm) in diameter.
+
+2.4 AUXILIARY MATERIALS
+
+A. General: Provide auxiliary materials that comply with referenced installation standards. Fasteners for Metal
+Framing: Of type, material, size, corrosion resistance, holding power, and other properties required to fasten steel
+members to substrate.
+
+PART3- EXECUTION
+3.1. EXAMINATION
+
+A. Examine areas and substrates, with Installer present, and including welded hollow-metal frames, cast-in
+anchors, and structural framing, for compliance with requirements and other conditions affecting performance of the
+Work. Proceed with installation only after unsatisfactory conditions have been corrected.
+
+3.2 PREPARATION
+
+A. Suspended Assemblies: Coordinate installation of suspension systems with installation of overhead structure to
+ensure that inserts and other provisions for anchorages to building structure have been installed to receive hangers at
+spacing required to support the Work and that hangers will develop their full strength.
+
+1. Furnish concrete inserts and other devices indicated to other trades for installation in advance of time
+needed for coordination and construction.
+
+B. Coordination with Sprayed Fire-Resistive Materials: Before sprayed fire-resistive materials are applied, attach
+offset anchor plates or ceiling runners (tracks) to surfaces indicated to receive sprayed fire-resistive materials. Where
+offset anchor plates are required, provide continuous plates fastened to building structure not more than 24 inches
+(610 mm) 0.c. After sprayed fire-resistive materials are applied, remove them only to extent necessary for installation
+of non-load-bearing steel framing. Do not reduce thickness of fire-resistive materials below that required for fire-
+resistance ratings indicated. Protect adjacent fire-resistive materials from damage.
+
+3.3 INSTALLATION, GENERAL
+
+A. Installation Standard: ASTM C 754. Gypsum Board Assemblies: Also comply with requirements in ASTM C 840
+that apply to framing installation. Install supplementary framing, and blocking to support fixtures, equipment
+services, heavy trim, grab bars, toilet accessories, furnishings, or similar construction. Install bracing at terminations
+in assemblies. Do not bridge building control and expansion joints with non-load-bearing steel framing members.
+Frame both sides of joints independently.
+
+3.4 INSTALLING FRAMED ASSEMBLIES
+
+A. Install framing system components according to spacings indicated, but not greater than spacings required
+by referenced installation standards for assembly types.
+
+B. Install tracks (runners) at floors and overhead supports. Extend framing full height to structural supports or
+substrates above suspended ceilings except where partitions are indicated to terminate at suspended ceilings.
+Continue framing around ducts penetrating partitions above ceiling.
+
+C. Direct Furring:
+
+1. Screw to wood framing.
+
+2. Attach to concrete or masonry with stub nails, screws designed for masonry attachment, or powder-driven
+
+fasteners spaced 24 inches (610 mm) o.c.
+D. Z-Furring Members:
+
+1. Erect insulation, specified in Section 072100 "Thermal Insulation," vertically and hold in place with Z-
+furring members spaced [24 inches (610 mm)] [600 mm] 0.c.
+
+2. Except at exterior corners, securely attach narrow flanges of furring members to wall with concrete stub
+nails, screws designed for masonry attachment, or powder-driven fasteners spaced 24 inches (610 mm) o.c.
+
+3. At exterior corners, attach wide flange of furring members to wall with short flange extending beyond
+corner; on adjacent wall surface, screw-attach short flange of furring channel to web of attached channel. At
+interior corners, space second member no more than 12 inches (305 mm) from corner and cut insulation to fit.
+
+E. Installation Tolerance: Install each framing member so fastening surfaces vary not more than 1/8 inch (3
+mm) from the plane formed by faces of adjacent framing.
+3.5 INSTALLING SUSPENSION SYSTEMS
+
+A. Install suspension system components according to spacings indicated, but not greater than spacings
+required by referenced installation standards for assembly types.
+
+B. Isolate suspension systems from building structure where they abut or are penetrated by building structure to
+
+prevent transfer of loading imposed by structural movement.
+C. Suspend hangers from building structure as follows: Install hangers plumb and free from contact with
+insulation or other objects within ceiling plenum that are not part of supporting structural or suspension system.
+D. Fire-Resistance-Rated Assemblies: Wire tie furring channels to supports.
+E. Seismic Bracing: Sway-brace suspension systems with hangers used for support.
+F. Grid Suspension Systems: Attach perimeter wall track or angle where grid suspension systems meet vertical
+surfaces. Mechanically join main beam and cross-furring members to each other and butt-cut to fit into wall track.
+G. Installation Tolerances: Install suspension systems that are level to within 1/8 inch in 12 feet (3 mm in
+
+3.6 m) measured lengthwise on each member that will receive finishes and transversely between parallel members
+
+that will receive finishes.
+
+A. General: For trim with back flanges intended for fasteners, attach to framing with same fasteners used for
+panels. Otherwise, attach trim according to manufacturer's written instructions.
+
+B. Control Joints: Install control joints according to ASTM C 840 and in specific locations approved by
+Architect for visual effect.
+
+C. Interior Trim: Install in the following locations: Cornerbead: Use at outside corners unless otherwise
+indicated. U-Bead: Use at exposed panel edges.
+
+3.4. FINISHING GYPSUM BOARD
+
+A. General: Treat gypsum board joints, interior angles, edge trim, control joints, penetrations, fastener heads,
+surface defects, and elsewhere as required to prepare gypsum board surfaces for decoration. Promptly remove
+residual joint compound from adjacent surfaces.
+
+B. Glass-Mat Gypsum Sheathing Board: Finish according to manufacturer's written instructions for use as
+exposed soffit board. Glass-Mat Faced Panels: Finish according to manufacturer's written instructions.
+Cementitious Backer Units: Finish according to manufacturer's written instructions.
+
+3.5 PROTECTION
+
+A. Protect adjacent surfaces from drywall compound and promptly remove from floors and other non-drywall
+surfaces. Repair surfaces stained, marred, or otherwise damaged during drywall application.
+
+B. Protect installed products from damage from weather, condensation, direct sunlight, construction, and
+other causes during remainder of the construction period.
+
+C. Remove and replace panels that are wet, moisture damaged, and mold damaged. Indications that panels
+are wet or moisture damaged include, but are not limited to, discoloration, sagging, or irregular shape.
+Indications that panels are mold damaged include, but are not limited to, fuzzy or splotchy surface
+contamination and discoloration.
+
+078100-APPLIED FIREPROOFING
+
+092900 - GYPSUM BOARD
+
+PART 1- GENERAL
+1.1 RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+1. Interior gypsum board.
+2. Tile backing panels.
+1.3 ACTION SUBMITTALS
+A. Product Data: For each type of product.
+1.4 DELIVERY, STORAGE AND HANDLING
+A. Store materials inside under cover and keep them dry and protected against weather, condensation, direct
+sunlight, construction traffic, and other potential causes of damage. Stack panels flat and supported on risers on a
+flat platform to prevent sagging.
+1.5 FIELD CONDITIONS
+A. Environmental Limitations: Comply with ASTM C 840 requirements or gypsum board manufacturer's written
+recommendations, whichever are more stringent.
+B. Do not install paper-faced gypsum panels until installation areas are enclosed and conditioned.
+C. Do not install panels that are wet, those that are moisture damaged, and those that are mold damaged.
+1. Indications that panels are wet or moisture damaged include, but are not limited to, discoloration,
+sagging, or irregular shape.
+2. Indications that panels are mold damaged include, but are not limited to, fuzzy or splotchy surface
+contamination and discoloration.
+
+PART 2- PRODUCTS
+2.1 PERFORMANCE REQUIREMENTS
+
+A. Fire-Resistance-Rated Assemblies: For fire-resistance-rated assemblies, provide materials and construction
+identical to those tested in assembly indicated according to ASTM E 119 by an independent testing agency.
+
+B. STC-Rated Assemblies: For STC-rated assemblies, provide materials and construction identical to those
+tested in assembly indicated according to ASTM E 90 and classified according to ASTM E 413 by an independent
+testing agency.
+
+C. Low-Emitting Materials: For ceiling and wall assemblies, provide materials and construction identical to
+those tested in assembly and complying with the testing and product requirements of the California Department of
+Health Services’ "Standard Practice for the Testing of Volatile Organic Emissions from Various Sources Using
+Small-Scale Environmental Chambers."
+
+2.2 TILE BACKING PANELS
+
+A. Glass-Mat, Water-Resistant Backing Board: ASTM C 1178/C 1178M, with manufacturer's standard edges.
+Core: 5/8 inch (15.9 mm), Type X, Mold Resistance: ASTM D 3273, score of 10 as rated according to
+ASTM D 3274.
+
+B. Cementitious Backer Units: ANS! A118.9 and ASTM C 1288 or 1325, with manufacturer's standard
+edges. Thickness: 5/8 inch (15.9 mm). Mold Resistance: ASTM D 3273, score of 10 as rated according to
+ASTM D 3274.
+
+C. Water-Resistant Gypsum Backing Board: ASTM C 1396/C 1396M, with manufacturer's standard edges.Core:
+5/8 inch (15.9 mm), Type X.
+
+2.3. AUXILIARY MATERIALS
+
+A. General: Provide auxiliary materials that comply with referenced installation standards and manufacturer's
+written recommendations.
+
+B. Laminating Adhesive: Adhesive or joint compound recommended for directly adhering gypsum panels to
+continuous substrate.
+
+C. Sound Attenuation Blankets: ASTM C 665, Type | (blankets without membrane facing) produced by
+combining thermosetting resins with mineral fibers manufactured from glass, slag wool, or rock wool.
+
+D. Acoustical Joint Sealant: Manufacturer's standard nonsag, paintable, nonstaining latex sealant complying with
+
+ASTM C 834. Product effectively reduces airbome sound transmission through perimeter joints and openings in
+building construction as demonstrated by testing representative assemblies according to ASTM E 90.
+
+PART3- EXECUTION
+3.1 EXAMINATION
+
+A. Examine areas and substrates including welded hollow-metal frames and framing, with Installer present, for
+compliance with requirements and other conditions affecting performance. Examine panels before installation.
+Reject panels that are wet, moisture damaged, and mold damaged. Proceed with installation only after
+unsatisfactory conditions have been corrected.
+3.2 APPLYING AND FINISHING PANELS, GENERAL
+
+A. STC-Rated Assemblies: Seal construction at perimeters, behind control joints, and at openings and
+penetrations with a continuous bead of acoustical sealant. Install acoustical sealant at both faces of partitions at
+perimeters and through penetrations. Comply with ASTM C 919 and with manufacturer's written recommendations
+for locating edge trim and closing off sound-flanking paths around or through assemblies, including sealing
+partitions above acoustical ceilings.
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+
+1.2 ACTION SUBMITTALS
+
+1. Product Data: For each type of product. Shop Drawings: Framing plans, schedules, or both, indicating the
+following: Extent of fireproofing for each construction and fireresistance rating. Applicable fire-resistance design
+designations of a qualified testing and inspecting agency acceptable to authorities having jurisdiction. Minimum
+fireproofing thicknesses needed to achieve required fire-resistance rating of each structural component and
+assembly. Treatment of fireproofing after application.
+
+1.3 FIELD CONDITIONS
+
+A. Environmental Limitations: Do not apply fireproofing when ambient or substrate temperature is 44 deg F (7
+deg C) or lower unless temporary protection and heat are provided to maintain temperature at or above this level
+for 24 hours before, during, and for 24 hours after product application. Ventilation: Ventilate building spaces
+during and after application of fireprooting, providing complete air exchanges according to manufacturer's written
+instructions. Use natural means or, if they are inadequate, forced-air circulation until fireproofing dries
+thoroughly.
+
+PART 2- PRODUCTS
+2.1 MATERIALS, GENERAL
+
+A. Assemblies: Provide fireproofing, including auxiliary materials, according to requirements of each fire-
+resistance design and manufacturer's written instructions. Source Limitations: Obtain fireproofing from single
+source.
+
+B. Low-Emitting Materials: Fireproofing used within the weatherproofing system shall comply with the testing
+and product requirements of the California Department of Health Services' "Standard Practice for the Testing of
+Volatile Organic Emissions from Various Sources Using Small-Scale Environmental Chambers."
+
+C. Asbestos: Provide products containing no detectable asbestos.
+
+2.2 SPRAYED FIRE-RESISTIVE MATERIALS
+
+A. Manufacturer's standard, factory-mixed, lightweight, dry formulation, complying with indicated fire-
+resistance design, and mixed with water at Project site to form a slurry or mortar before conveyance and
+application or conveyed in a dry state and mixed with atomized water at place of application.
+
+1. Finish: As selected by Architect from manufacturer's standard finishes. Color of Topcoat: As selected by
+Architect from manufacturer's full range
+2.3 AUXILIARY MATERIALS
+
+A. General: Provide auxiliary materials that are compatible with fireproofing and substrates and are approved
+by UL or another testing and inspecting agency acceptable to authorities having jurisdiction for use in fire-
+resistance designs indicated.
+
+B. Substrate Primers: Primer's bond strength in required fire-resistance design complies with specified bond
+strength for fireproofing and with requirements in UL's "Fire Resistance Directory" or in the listings of another
+qualified testing agency acceptable to authorities having jurisdiction, based on a series of bond tests according
+to ASTM E 736.
+
+C. Bonding Agent: Product approved by fireproofing manufacturer and complying with requirements in UL's
+"Fire Resistance Directory" or in the listings of another qualified testing agency acceptable to authorities having
+jurisdiction.
+
+D. Metal Lath: Expanded metal lath fabricated from material of weight, configuration, and finish required,
+according to fire-resistance designs indicated and fireproofing manufacturer's written recommendations. Include
+Clips, lathing accessories, corner beads, and other anchorage devices required to attach lath to substrates and to
+receive fireproofing.
+
+E. Reinforcing Fabric: Glass- or carbon-fiber fabric of type, weight, and form required to comply with fire-
+resistance designs indicated; approved and provided by fireproofing manufacturer.
+
+F. Reinforcing Mesh: Metallic mesh reinforcement of type, weight, and form required to comply with fire-
+resistance design indicated;approved and provided by fireproofing manufacturer. Include pins and attachment.
+
+G. Sealer: Transparent-drying, water-dispersible, tinted protective coating recommended in writing by
+fireproofing manufacturer for each fire-resistance design.
+
+H. Topcoat: Suitable for application over applied fireproofing; of type recommended in writing by fireproofing
+manufacturer for each fire-resistance design.
+
+1. Cement-Based Topcoat: Factory-mixed, cementitious hard-coat formulation for trowel or spray
+application over SFRM.
+PART3- EXECUTION
+3.1 EXAMINATION
+
+A. Examine substrates, areas, and conditions, with Installer present, for compliance with requirements for
+substrates and other conditions affecting performance of the Work and according to each fire-resistance design.
+Verify compliance with the following:
+
+B. Conduct tests according to fireproofing manufacturer's written recommendations to verify that substrates
+are free of substances capable of interfering with bond. Prepare written report, endorsed by Installer, listing
+conditions detrimental to performance of the Work. Proceed with installation only after unsatisfactory conditions
+have been corrected.
+
+3.2 PREPARATION
+
+A. Cover other work subject to damage from fallout or overspray of fireproofing materials during application.
+Clean substrates of substances that could impair bond of fireproofing. Prime substrates where included in fire-
+resistance design and where recommended in writing by fireproofing manufacturer unless compatible shop
+primer has been applied and is in satisfactory condition to receive fireproofing.
+
+B. For applications visible on completion of Project, repair substrates to remove surface imperfections that
+could affect uniformity of texture and thickness in finished surface of fireproofing. Remove minor projections and
+fill voids that would telegraph through __fireresistive products after application.
+
+3.3 APPLICATION
+
+A. Construct fireproofing assemblies that are identical to fire-resistance design indicated and products as
+specified, tested, and substantiated by test reports; for thickness, primers, sealers, topcoats, finishing, and other
+materials and procedures affecting fireproofing work.
+
+B. Comply with fireproofing manufacturer's written instructions for mixing materials, application procedures,
+and types of equipment used to mix, convey, and apply fireproofing; as applicable to particular conditions of
+installation and as required to achieve fire-resistance ratings indicated.
+
+C. Install auxiliary materials as required, as detailed, and according to fire-resistance design and fireproofing
+manufacturer's written recommendations for conditions of exposure and intended use. For auxiliary materials, use
+attachment and anchorage devices of type recommended in writing by fireproofing manufacturer.
+
+D. Spray apply fireproofing to maximum extent possible. Following the spraying operation in each area,
+complete the coverage by trowel application or other placement method recommended in writing by fireproofing
+manufacturer. Extend fireproofing in full thickness over entire area of each substrate to be protected.
+
+convivat7
+Care Solutions
+GATEWAY
+
+JACKSONVILLE
+EXPANSION
+
+5238-16 Norwood Ave.,
+Suite 25,
+Jacksonville, FL 33208
+
+GEORGE W. DE LA HOZ
+FL LICENSE #AR0016664
+
+ISSUE FOR PERMIT
+90% CD PROGRESS SET
+
+04/02/2021
+02/19/2021
+
+Delta_Issue Description Date
+Nr.
+
+INTERIOR
+ARCHITECTS, Be.
+
+NM A M
+
+150 ALHAMBRA CIRCLE
+SUITE 800
+CORAL GABLES, FLORIDA 33134
+TEL 786-405-0230
+
+©2021 INTERIOR ARCHITECTS P.-C. LICENSE #AA26001062.
+ALL DRAWINGS AND WRITTEN MATERIAL HERE IN CONSTITUTE THE
+ORIGINAL AND UNPUBLISHED WORK OF THE ARCHITECT, AND THE
+SAME MAY NOT BE DUPLICATED, USED, OR DISCLOSED WITHOUT THE
+WRITTEN CONSENT OF THE ARCHITECT.
+
+Drawn: VM Check: Checker Owner Approval:
+
+Job No: 37HUMX.0331.000 Scale: 12" = 1'-0"
+
+mw SPECIFICATIONS
+
+uAN-2.12
+

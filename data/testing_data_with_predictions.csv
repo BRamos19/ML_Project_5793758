@@ -1,0 +1,75 @@
+ImageFile,Actual Label,Predicted Label
+processed_1. MCM Canopy SOW_page_1.png,Construction Sheet,Construction Sheet
+processed_1. MCM Canopy SOW_page_2.png,Construction Sheet,Construction Sheet
+processed_1. MCM Canopy SOW_page_3.png,MEP Sheet,MEP Sheet
+processed_1. MCM Canopy SOW_page_4.png,MEP Sheet,MEP Sheet
+processed_2. MCM Canopy Construction Set_page_1.png,MEP Sheet,MEP Sheet
+processed_2. MCM Canopy Construction Set_page_2.png,MEP Sheet,MEP Sheet
+processed_2. MCM Canopy Construction Set_page_3.png,Code/Spec Sheet,Code/Spec Sheet
+processed_2. MCM Canopy Construction Set_page_4.png,MEP Sheet,MEP Sheet
+processed_2. MCM Canopy Construction Set_page_5.png,Construction Sheet,Construction Sheet
+processed_2. MCM Canopy Construction Set_page_6.png,MEP Sheet,MEP Sheet
+processed_3. AMLI A220_page_1.png,MEP Sheet,Code/Spec Sheet
+processed_3. AMLI A220_page_2.png,Construction Sheet,Construction Sheet
+processed_4. AMLI A204_page_1.png,MEP Sheet,MEP Sheet
+processed_5. AMLI A203_page_1.png,MEP Sheet,MEP Sheet
+processed_6. AMLI A201_page_1.png,Code/Spec Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_1.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_2.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_3.png,Code/Spec Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_4.png,Code/Spec Sheet,Code/Spec Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_5.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_6.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_7.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_8.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_9.png,Code/Spec Sheet,Code/Spec Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_10.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_11.png,MEP Sheet,MEP Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_12.png,Code/Spec Sheet,Code/Spec Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_13.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_14.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_15.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_16.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_17.png,MEP Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_18.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_19.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_20.png,MEP Sheet,MEP Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_21.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_22.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_23.png,Code/Spec Sheet,Code/Spec Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_24.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_25.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_26.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_27.png,MEP Sheet,MEP Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_28.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_29.png,MEP Sheet,MEP Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_30.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_31.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_32.png,Code/Spec Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_33.png,MEP Sheet,MEP Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_34.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_35.png,MEP Sheet,MEP Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_36.png,MEP Sheet,MEP Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_37.png,MEP Sheet,MEP Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_38.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_39.png,Code/Spec Sheet,Code/Spec Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_40.png,MEP Sheet,MEP Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_41.png,Construction Sheet,Code/Spec Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_42.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_43.png,MEP Sheet,MEP Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_44.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_45.png,Construction Sheet,Construction Sheet
+processed_7. Barellan Levee Design (Google Dataset)_page_46.png,Construction Sheet,MEP Sheet
+processed_8. Golf Galaxy Civil Set_page_1.png,Construction Sheet,Construction Sheet
+processed_8. Golf Galaxy Civil Set_page_2.png,Construction Sheet,Construction Sheet
+processed_8. Golf Galaxy Civil Set_page_3.png,Code/Spec Sheet,Code/Spec Sheet
+processed_8. Golf Galaxy Civil Set_page_4.png,Construction Sheet,Construction Sheet
+processed_8. Golf Galaxy Civil Set_page_5.png,Code/Spec Sheet,Code/Spec Sheet
+processed_8. Golf Galaxy Civil Set_page_6.png,Construction Sheet,Construction Sheet
+processed_8. Golf Galaxy Civil Set_page_7.png,Construction Sheet,Construction Sheet
+processed_8. Golf Galaxy Civil Set_page_8.png,Construction Sheet,Construction Sheet
+processed_8. Golf Galaxy Civil Set_page_9.png,Code/Spec Sheet,Code/Spec Sheet
+processed_8. Golf Galaxy Civil Set_page_10.png,MEP Sheet,MEP Sheet
+processed_9. Dick's Sporting Goods Construction Set_page_1.png,Construction Sheet,Construction Sheet
+processed_9. Dick's Sporting Goods Construction Set_page_2.png,Construction Sheet,Construction Sheet
+processed_9. Dick's Sporting Goods Construction Set_page_3.png,Construction Sheet,Construction Sheet

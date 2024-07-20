@@ -1,0 +1,141 @@
+\tbs-projects05\2021\2021-0155\Cad-Revit - TBA\Structural\2021-0155 $6.1.dwg, 3/26/2021 12:11:28 PM
+
+DENNIS P. MAILLE, PE:82625,
+EB:0007857; EXPIRES: 02-28-2023
+
+All design materials prepared by Fox Design
+Group, LLC shall remain the property of Fax
+Design Group, LLC, which shall also retain all
+
+SEE PLAN common law, statutory and other rights, including
+‘the copyright thereto
+a
+a | &
+Oo 2
+HSS6x6, SEE ELEVATION HSS6x6, SEE ELEVATION aw 2
+HSS6x6x1/4 HSS6x6x1/4 a
+O +99
+Fs AS ws
+ae i=
+Zeus
+\ <r T/ STEEL EL. = a T/ STEEL EL. = HSS6x6 CANT'L rT) 3 fase
+Ld |COEY (+44'-0") (44-07) = gjzele
+. | M 25208
+Huads sg
+| Wl sacs
+1 | o RG pay
+4718 QO 28583:
+|
+|
+HSS6x6x3/8 | \
+| C)
+|
+|
+|
+MH
+Ht
+|
+| |
+Ht
+i |
+DIAGONAL HSS WEB 1
+SEE SECTION 2/S6.1 x<
+|
+L4x4x3/8 DIAGONAL |
+BRACE, SEE PLAN |
+| _I
+HSS6x6x1/4 | HSS8x6x1/4
+HSS8x6, SEE ELEVATION HSS8x6, SEE ELEVATION | <
+rs T/ HSS8x6 EL. = ou STEEL EL. = HSS8x6 CANT'L
+(+33'-0") | (+33'-0") (9
+
+HSS8x6, SEE ELEVATION HSS8x6, SEE ELEVATION
+
+CONT. 16GA. SEE TYPICAL TUBE TO TUBE
+TRACK, TYP. CONNECTION DETAIL ON
+$5.0, TYP.
+T/ FRAMING EL. =
+T [ [ SEE ARCH.
+MM
+|
+HSS6x6x3/8 MM
+L4x4x3/8 HORIZ. BRACE, | | |
+SEE PLAN in
+DIAGONAL HSS WEB NH |
+\ SEE SECTION 2/S6.1
+\ 6"x16GA. METAL STUDS | T/ CMU (BEYOND) EL. = .
+"x .
+CONT. MC8x12 @ 16" 0.C. TYP. (UNO) L4x4x3/8 DIAGONAL | SEE ARCH.
+BELOW STUD BRACE, SEE PLAN |
+| 8"
+hy HSS COLUMN / FRAME HSS8x6x1/4
+LS ity NS \ |
+a6 |/ \ Le" ax l/ | | HSS8x6, SEE ELEVATION HSSGx6x1/4 |
+HSS8x6, SEE ELEVATION f M |
+\ Ry, |
+JIB EL.= Bo NEN homme } | THSS EL yy JB EL.=
+‘O sce PLAN Wi (422-2 1/2") (22-2 1/2") 9 cE PLAN |
+| HANGER ROD / TURNBUCKLE >
+| SEE SECT 2/S8.2
+(8) 3/4"@ BOLTS WA | 7!
+W16, SEE PLAN |
+W16, SEE PLAN ] Lu
+| O
+TYP. - PLTOHSS
+316 | 3-12 PROVIDE L6x6x3/8 x0'-6"LG. 114A FRAME 1 >
+TOP & BOT. @W16TO | oO 7
+COLUMN, TYP. | > .
+CONT. L3x3x5/16 MEMBERS PL3/8"x8"x1'-2° i” HSS10x6x1/4 =
+@ GUSSET TRIM EDGE OF PLATE SO IT | | | _ “
+METAL ROOF DECK PLATES DOES NOT EXTEND PAST DIAGONAL HSS WEB | | LL. ck
+HSS6x6 (FRONT MEMBER) SEE SECTION 2/S6.1 C12, SEE PLAN 5 ©
+—_
+C12, SEE PLAN O
+HSS10x6, SEE PLAN ; C12, SEE PLAN | Y
+— |
+Tf HSS10x6 EL. = ® 3/16 Tf HSS10x6 EL. = e HSS8x8, SEE PLAN
+(+14'-4") (+14'-4") | «5
+| DOVETAIL SLOT ANCHORS
+B/ STEEL EL = e B/ STEEL EL = o @ 1-4" 0.0.
+(+13'-0") (+13'-0")
+|
+HSS8x8, SEE PLAN 6"x16GA. METAL STUDS CONT. L3x3x5/16 END PL3/8"x6"x1'-6" Wi/(2) |
+@ 16"0.C. HSS8x8, SEE PLAN 3/4"@ BOLTS, N.S. &F.S. HSS6x6x1/4 |
+CONT. TRACK EACH xe, (4 TOTAL) |
+END, TYP. |
+14GA. CLIP EA. STUD Wi{2) 0.157" |
+HILTI X-U PAF TO HSS & (4) #12-14 |
+TEKS TO STUD |
+HSS6x6, SEE PLAN |
+HSS6x6, SEE PLAN HSS6x6, SEE PLAN |
+Ls |
+1 _| B/ HSS6x6 EL. = |
+(+7'-8 3/4") |
+|
+STOREFRONT
+Oy OPENING
+3/16 |/ |
+
+PROJECT NUMBER: 01168
+
+1/2" = 1'-0" 1/2" = 1'-0" 1/2" = 1'-0"
+
+. | ISSUE
+BID-PERMIT
+
+DRAWING:
+SECTIONS AND
+DETAILS
+
+SHEET NUMBER:
+
+96.1
+
+TBA
+
+Thorson Baker + Associates
+CONSULTING ENGINEERS
+
+3030 West Streetsboro Road (330) 659-6688 Ph.
+Richfield, Ohio 44286 (330) 659-6675 Fax
+

@@ -1,0 +1,507 @@
+4{2/2021 10:58:10 AM
+
+014200 - REFERENCES
+
+PART1- GENERAL
+1.1. RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and other
+Division 01 Specification Sections, apply to this Section.
+
+1.2 DEFINITIONS
+
+A. General: Basic Contract definitions are included in the Conditions of the Contract.
+
+B. "Approved": When used to convey Architect's action on Contractor's submittals, applications, and requests,
+"approved" is limited to Architect's duties and responsibilities as stated in the Conditions of the Contract.
+
+C. "Directed": A command or instruction by Architect. Other terms including "requested," "authorized," "selected,"
+"required," and "permitted" have the same meaning as "directed."
+
+D. "Indicated": Requirements expressed by graphic representations or in written form on Drawings, in
+Specifications, and in other Contract © Documents. Other terms including "shown," "noted," "scheduled," and
+"specified" have the same meaning as "indicated."
+
+E. "Regulations": Laws, ordinances, statutes, and lawful orders issued by authorities having jurisdiction, and
+rules, conventions, and agreements within the construction industry that control performance of the
+Work.
+
+F. "Furnish": Supply and deliver to Project site, ready for unloading, unpacking, assembly, installation, and
+similar operations.
+
+G. "Install": Unload, temporarily store, unpack, assemble, erect, place, anchor, apply, work to dimension, finish,
+cure, protect, clean, and —_ similar operations at Project site.
+
+H. "Provide": Furnish and install, complete and ready for the intended use.
+
+|. "Project Site": Space available for performing construction activities. The extent of Project site is shown on
+Drawings and may or may not be identical with the description of the land on which Project is to be built.
+1.3 INDUSTRY STANDARDS
+
+A. Applicability of Standards: Unless the Contract Documents include more stringent requirements, applicable
+construction industry standards have the same force and effect as if bound or copied directly into the
+Contract Documents to the extent referenced. Such standards are made a part of the Contract Documents by
+reference.
+
+B. Publication Dates: Comply with standards in effect as of date of the Contract Documents unless otherwise
+indicated.
+
+C. Copies of Standards: Each entity engaged in construction on Project should be familiar with industry
+standards applicable to its construction activity. Copies of applicable standards are not bound with the
+Contract Documents.
+
+1. Where copies of standards are needed to perform a required construction activity, obtain copies directly
+from publication source.
+1.4 ABBREVIATIONS AND ACRONYMS
+
+A. Industry Organizations: Where abbreviations and acronyms are used in Specifications or other Contract
+Documents, they shall mean the recognized name of the entities indicated in Gale's "Encyclopedia of
+Associations: National Organizations of the U.S." or in Columbia Books' "National Trade & Professional
+Associations of the United States."
+
+B. Industry Organizations: Where abbreviations and acronyms are used in Specifications or other Contract
+Documents, they shall mean the recognized name of the entities in the following list. This information is
+subject to change and is believed to be accurate as of the date —_of the Contract Documents.
+
+AABC - Associated Air Balance Council; www.aabc.com.
+AAMA - American Architectural Manufacturers Association; www.aamanet.org.
+ACI - American Concrete Institute; (Formerly: ACI International); www.concrete.org.
+AEIC - Association of Edison Illuminating Companies, Inc. (The); www.aeic.org.
+AIA - American Institute of Architects (The); www.aia.org.
+AISC - American Institute of Steel Construction; www.aisc.org.
+AITC - American Institute of Timber Construction; www.aitc-glulam.org.
+ANSI - American National Standards Institute; www.ansi.org.
+APA - Architectural Precast Association; www.archprecast.org.
+ARI - Air-Conditioning & Refrigeration Institute; (See AHRI).
+ARI - American Refrigeration Institute; (See AHRI).
+ARMA - Asphalt Roofing Manufacturers Association; www.asphaltroofing.org.
+ASCE/SEI - American Society of Civil Engineers/Structural Engineering Institute; (See ASCE).
+ASHRAE - American Society of Heating, Refrigerating and Air-Conditioning Engineers; www.ashrae.org.
+ASSE - American Society of Sanitary Engineering; www.asse-plumbing.org.
+ASTM - ASTM International; (American Society for Testing and Materials International); www.astm.org.
+AWEA - American Wind Energy Association; www.awea.org.
+AWI - Architectural Woodwork Institute; www.awinet.org.
+AWMAC - Architectural Woodwork Manufacturers Association of Canada; www.awmac.com.
+AWPA - American Wood Protection Association; (Formerly: American Wood-Preservers' Association);
+WwWw.awpa.com.
+21. AWS - American Welding Society; www.aws.org.
+BHMA - Builders Hardware Manufacturers Association; www.buildershardware.com.
+BIA - Brick Industry Association (The); www.gobrick.com.
+CISCA - Ceilings & Interior Systems Construction Association; www.cisca.org.
+CRI - Carpet and Rug Institute (The); www.carpet-rug.org.
+CRRC - Cool Roof Rating Council; www.coolroofs.org.
+CRSI - Concrete Reinforcing Steel Institute; www.crsi.org.
+CSA - Canadian Standards Association; www.csa.ca.
+CSI - Construction Specifications Institute (The); www.csinet.org.
+CSSB - Cedar Shake & Shingle Bureau; www.cedarbureau.org.
+DASMA - Door and Access Systems Manufacturers Association; www.dasma.com.
+DHI - Door and Hardware Institute; www.dhi.org.
+ECA - Electronic Components Association; (See ECIA).
+ECAMA - Electronic Components Assemblies & Materials Association; (See ECIA).
+EIMA - EIFS Industry Members Association; www.eima.com.
+EJMA - Expansion Joint Manufacturers Association, Inc.; www.ejma.org.
+ESD - ESD Association; (Electrostatic Discharge Association); www.esda.org.
+FSA - Fluid Sealing Association; www. fluidsealing.com.
+FSC - Forest Stewardship Council U.S.; www.fscus.org.
+GA - Gypsum Association; www.gypsum.org.
+GANA - Glass Association of North America; www.glasswebsite.com.
+GS - Green Seal; www.greenseal.org.
+HMMA - Hollow Metal Manufacturers Association; (See NAAMM).
+HPVA - Hardwood Plywood & Veneer Association; www.hpva.org.
+ICBO - International Conference of Building Officials; (See ICC).
+ICC - International Code Council; www.iccsafe.org.
+IES - Illuminating Engineering Society; (Formerly: Illuminating Engineering Society of North America);
+www.ies.org.
+IESNA - Illuminating Engineering Society of North America; (See IES).
+IGMA - Insulating Glass Manufacturers Alliance; www.igmaonline.org.
+IGSHPA - International Ground Source Heat Pump Association; www.igshpa.okstate.edu.
+LMA - Laminating Materials Association; (See CPA).
+LPI - Lightning Protection Institute; www.lightning.org.
+MFMA - Maple Flooring Manufacturers Association, Inc.; www.maplefloor.org.
+MFMA - Metal Framing Manufacturers Association, Inc.; www.metalframingmfg.org.
+MHIA - Material Handling Industry of America; www.mhia.org.
+MIA - Marble Institute of America; www.marble-institute.com.
+. MMPA - Moulding & Millwork Producers Association; (Formerly: Wood Moulding & Millwork
+Producers Association); www.wmmpa.com.
+58. MPI - Master Painters Institute; www.paintinfo.com.
+59. MSS - Manufacturers Standardization Society of The Valve and Fittings Industry Inc.; www.mss-hq.org.
+60. NAAMM - National Association of Architectural Metal Manufacturers; www.naamm.org.
+61. NACE - NACE International; (National Association of Corrosion Engineers International); www.nace.org.
+
+NAIMA - North American Insulation Manufacturers Association; www.naima.org.
+NBGQA - National Building Granite Quarries Association, Inc.; www.nbgga.com.
+NCMA - National Concrete Masonry Association; www.ncma.org.
+NEBB - National Environmental Balancing Bureau; www.nebb.org.
+NECA - National Electrical Contractors Association; www.necanet.org.
+NeLMA - Northeastern Lumber Manufacturers Association; www.nelma.org.
+NEMA - National Electrical Manufacturers Association; www.nema.org.
+NFPA - NFPA; (National Fire Protection Association); www.nfpa.org.
+NFPA - NFPA International; (See NFPA).
+NFRC - National Fenestration Rating Council; www.nfrc.org.
+NHLA - National Hardwood Lumber Association; www.nhla.com.
+NLGA - National Lumber Grades Authority; www.nlga.org.
+NOFMA - National Oak Flooring Manufacturers Association; (See NWFA).
+NOMMA - National Ornamental & Miscellaneous Metals Association; www.nomma.org.
+NRCA - National Roofing Contractors Association; www.nrca.net.
+NTMA - National Terrazzo & Mosaic Association, Inc. (The); www.ntma.com.
+NWFA - National Wood Flooring Association; www.nwfa.org.
+PCI - Precast/Prestressed Concrete Institute; www.pci-org.
+PDI - Plumbing & Drainage Institute; www.pdionline.org.
+RFCI - Resilient Floor Covering Institute; www.rici.com.
+SAE - SAE International; (Society of Automotive Engineers); www.sae.org.
+SCTE - Society of Cable Telecommunications Engineers; www.scte.org.
+SDI - Steel Deck Institute; www.sdi.org.
+SDI - Steel Door Institute; www.steeldoor.org.
+SEFA - Scientific Equipment and Furniture Association; www.sefalabs.com.
+SEI/ASCE - Structural Engineering Institute/American Society of Civil Engineers; (See ASCE).
+SIA - Security Industry Association; www.siaonline.org.
+SJl - Steel Joist Institute; www.steeljoist.org.
+SMA - Screen Manufacturers Association; www.smainfo.org.
+SMACNA - Sheet Metal and Air Conditioning Contractors' National Association; www.smacna.org.
+SPIB - Southern Pine Inspection Bureau; www.spib.org.
+SPRI - Single Ply Roofing Industry; www.spri.org.
+SSINA - Specialty Steel Industry of North America; www.ssina.com.
+SSPC - SSPC: The Society for Protective Coatings; www.sspc.org.
+SWI - Steel Window Institute; www.steelwindows.com.
+TCNA - Tile Council of North America, Inc.; (Formerly: Tile Council of America); www.tileusa.com.
+TMS - The Masonry Society; www.masonrysociety.org.
+TRI - Tile Roofing Institute; (Formerly: National Tile Roofing Manufacturing
+Association); www.tileroofing.org.
+100. UL - Underwriters Laboratories Inc.; www.ul.com.
+101. USGBC - U.S. Green Building Council; www.usgbc.org.
+102. WCLIB - West Coast Lumber Inspection Bureau; www.wclib.org.
+103. WCMA - Window Covering Manufacturers Association; www.wemanet.org.
+104. WDMA - Window & Door Manufacturers Association; www.wdma.com.
+105. WI - Woodwork Institute; (Formerly: WIC - Woodwork Institute of California); www.wicnet.org.
+106. WMMPA - Wood Moulding & Millwork Producers Association; (See MMPA).
+107. WSRCA - Western States Roofing Contractors Association; www.wsrca.com.
+108. WPA - Western Wood Products Association; www.wwpa.org.
+
+C. Code Agencies: Where abbreviations and acronyms are used in Specifications or other Contract Documents,
+they shall mean the recognized name of the entities in the following list. This information is believed to be accurate as
+of the date of the Contract Documents.
+
+1. IAPMO - International Association of Plumbing and Mechanical Officials; www.iapmo.org.
+2. ICC - International Code Council; www.iccsafe.org.
+3. ICC-ES - ICC Evaluation Service, LLC; www.icc-es.org.
+
+D. Federal Government Agencies: Where abbreviations and acronyms are used in Specifications or other Contract
+Documents, they shall mean the recognized name of the entities in the following list. Information is subject to change
+and is up-to-date as of the date of the Contract Documents.
+
+1. DOE - Department of Energy; www.energy.gov.
+
+2. EPA - Environmental Protection Agency; www.epa.gov.
+
+3. FG - Federal Government Publications; www.gpo.gov.
+
+4. GSA - General Services Administration; www.gsa.gov.
+
+5. OSHA - Occupational Safety & Health Administration; www.osha.gov.
+
+E. Standards and Regulations: Where abbreviations and acronyms are used in Specifications or other Contract
+Documents, they shall mean the recognized name of the standards and regulations in the following list. This
+information is subject to change and is believed to be accurate as of the date of the Contract Documents.
+
+1. CFR - Code of Federal Regulations; Available from Government Printing Office; www.gpo.gov/fdsys.
+
+2. FED-STD - Federal Standard; (See FS).
+
+3. FS - Federal Specification; Available from Department of Defense Single Stock Point;
+http://dodssp.daps.dla.mil.
+
+4. USAB - United States Access Board; www.access-board.gov.
+
+5. USATBCB - U.S. Architectural & Transportation Barriers Compliance Board; (See USAB).
+
+F. State Government Agencies: Where abbreviations and acronyms are used in Specifications or other Contract
+Documents, they shall mean the recognized name of the entities in the following list. This information is subject to
+change and is believed to be accurate as of |_ the date of the Contract Documents.
+
+1. CBHF; State of California; Department of Consumer Affairs; Bureau of Electronic Appliance and Repair, Home
+Furnishings and Thermal Insulation; www.bearhfti.ca.gov.
+
+2. CCR; California Code of Regulations; Office of Administrative Law; California Title 24 Energy Code;
+www.calregs.com.
+
+3. CDHS; California Department of Health Services; (See CDPH).
+
+4. CDPH; California Department of Public Health; Indoor Air Quality Program; www.cal-iag.org.
+
+5. CPUC; Califomia Public Utilities Commission; www.cpuc.ca.gov.
+
+6. SCAQMD; South Coast Air Quality Management District; www.aqmd.gov.
+
+7. TFS; Texas Forest Service; Forest Resource Development and Sustainable Forestry;
+http://wxforestservice.tamu.edu.
+
+PART 2- PRODUCTS (Not Used)
+
+PART 3- EXECUTION (Not Used)
+
+016000 - PRODUCT REQUIREMENTS
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and other
+Division 01 Specification Sections, apply to this Section.
+
+1.2 SUMMARY
+
+A. Section includes administrative and procedural requirements for selection of products for use in Project;
+product delivery, storage, and handling; manufacturers’ standard warranties on products; special warranties; and
+comparable products.
+
+B. Related Requirements:
+
+1. Section 012100 "Allowances" for products selected under an allowance.
+
+2. Section 012300 "Alternates" for products selected under an alternate.
+
+3. Section 012500 "Substitution Procedures" for requests for substitutions.
+
+4. Section 014200 "References" for applicable industry standards for products specified.
+
+1.3 DEFINITIONS
+
+A. Products: Items obtained for incorporating into the Work, whether purchased for Project or taken from
+previously purchased stock. The term "product" includes the terms "material," "equipment," "system," and terms of
+similar intent.
+
+1. Named Products: Items identified by manufacturer's product name, including make or model number or
+other designation shown or listed in manufacturer's published product literature, that is current as of date of the
+Contract Documents.
+
+2. New Products: Items that have not previously been incorporated into another project or facility. Products
+salvaged or recycled from other projects are not considered new products.
+
+3. Comparable Product: Product that is demonstrated and approved through submittal process to have the
+indicated qualities related to type, function, dimension, in-service performance, physical properties, appearance, and
+other characteristics that equal or exceed those of specified product.
+
+B. Basis-of-Design Product Specification: A specification in which a specific manufacturer's product is named and
+accompanied by the words "basis-of-design product," including make or model number or other designation, to
+establish the significant qualities related to type, function, dimension, in-service performance, physical properties,
+appearance, and other characteristics for purposes of evaluating comparable products of additional manufacturers
+named in the specification.
+
+1.4 ACTION SUBMITTALS
+
+A. Comparable Product Requests: Submit request for consideration of each comparable product. Identify product
+or fabrication or installation method to be replaced. Include Specification Section number and title and Drawing
+numbers and titles.
+
+1. Include data to indicate compliance with the requirements specified in "Comparable Products" Article.
+
+2. Architect's Action: If necessary, Architect will request additional information or documentation for evaluation
+within one week of receipt of a comparable product request. Architect will notify Contractor of approval or rejection of
+proposed comparable product request within 15 days of receipt of request, or seven days of receipt of additional
+information or documentation, whichever is later.
+
+a. Form of Approval: As specified in Section 013300 "Submittal Procedures."
+b. Use product specified if Architect does not issue a decision on use of a comparable product request
+within time allocated.
+
+B. Basis-of-Design Product Specification Submittal: Comply with requirements in Section 013300 "Submittal
+Procedures." Show compliance with requirements.
+
+1.5 QUALITY ASSURANCE
+
+A. Compatibility of Options: If Contractor is given option of selecting between two or more products for use on
+Project, select product compatible with products previously selected, even if previously selected products were also
+options.
+
+1. Each contractor is responsible for providing products and construction methods compatible with products
+and construction methods of other contractors.
+
+2. If a dispute arises between contractors over concurrently selectable but incompatible products, Architect will
+determine which products shall be used.
+
+1.6 PRODUCT DELIVERY, STORAGE, AND HANDLING
+
+A. Deliver, store, and handle products using means and methods that will prevent damage, deterioration, and loss,
+including theft and vandalism. Comply with manufacturer's written instructions.
+
+B. Delivery and Handling:
+
+1. Schedule delivery to minimize long-term storage at Project site and to prevent overcrowding of construction
+spaces.
+
+2. Coordinate delivery with installation time to ensure minimum holding time for items that are flammable,
+hazardous, easily damaged, or sensitive to deterioration, theft, and other losses.
+
+3. Deliver products to Project site in an undamaged condition in manufacturer's original sealed container or
+other packaging system, complete with labels and instructions for handling, storing, unpacking, protecting, and
+installing.
+
+4. Inspect products on delivery to determine compliance with the Contract Documents and to determine that
+products are undamaged and properly protected.
+
+C. Storage:
+
+1. Store products to allow for inspection and measurement of quantity or counting of units.
+
+2. Store materials in a manner that will not endanger Project structure.
+
+3. Store products that are subject to damage by the elements, under cover in a weathertight enclosure above
+ground, with ventilation adequate to prevent condensation.
+
+4. Protect foam plastic from exposure to sunlight, except to extent necessary for period of installation and
+concealment.
+
+5. Comply with product manufacturer's written instructions for temperature, humidity, ventilation, and weather-
+protection requirements for storage.
+
+6. Protect stored products from damage and liquids from freezing.
+
+7. Provide a secure location and enclosure at Project site for storage of materials and equipment by Owner's
+construction forces. Coordinate location with Owner.
+
+1.7 PRODUCT WARRANTIES
+
+A. Warranties specified in other Sections shall be in addition to, and run concurrent with, other warranties required
+by the Contract Documents. Manufacturer's disclaimers and limitations on product warranties do not relieve
+Contractor of obligations under requirements of the Contract Documents.
+
+1. Manufacturer's Warranty: Written warranty furnished by individual manufacturer for a particular product and
+specifically endorsed by manufacturer to Owner.
+
+2. Special Warranty: Written warranty required by the Contract Documents to provide specific rights for Owner.
+
+B. Special Warranties: Prepare a written document that contains appropriate terms and identification, ready for
+execution.
+
+1. Manufacturer's Standard Form: Modified to include Project-specific information and properly executed.
+
+2. Specified Form: When specified forms are included with the Specifications, prepare a written document
+using indicated form properly executed.
+
+3. See other Sections for specific content requirements and particular requirements for submitting special
+warranties.
+
+C. Submittal Time: Comply with requirements in Section 017700 "Closeout Procedures."
+
+PART2- PRODUCTS
+2.1. PRODUCT SELECTION PROCEDURES
+A. General Product Requirements: Provide products that comply with the Contract Documents, are undamaged
+
+and, unless otherwise indicated, are new at time of installation.
+
+1. Provide products complete with accessories, trim, finish, fasteners, and other items needed for a complete
+installation and indicated use and effect.
+
+2. Standard Products: If available, and unless custom products or nonstandard options are specified, provide
+standard products of types that have been produced and used successfully in similar situations on other projects.
+
+3. Owner reserves the right to limit selection to products with warranties not in conflict with requirements of
+the Contract Documents.
+
+4. Where products are accompanied by the term "as selected," Architect will make selection.
+
+5. Descriptive, performance, and reference standard requirements in the Specifications establish salient
+characteristics of products.
+
+6. Or Equal: For products specified by name and accompanied by the term "or equal," or "or approved
+equal," or "or approved," comply with requirements in "Comparable Products" Article to obtain approval for use
+of an unnamed product.
+
+B. Product Selection Procedures:
+
+1. Product: Where Specifications name a single manufacturer and product, provide the named product
+that complies with requirements. Comparable products or substitutions for Contractor's convenience will not be
+considered.
+
+2. Manufacturer/Source: Where Specifications name a single manufacturer or source, provide a product
+by the named manufacturer or source that complies with requirements. Comparable products or substitutions
+for Contractor's convenience will not be considered.
+
+3. Basis-of-Design Product: Where Specifications name a product, or refer to a product indicated on
+Drawings, and include a list of manufacturers, provide the specified or indicated product or a comparable
+product by one of the other named manufacturers. Drawings and Specifications indicate sizes, profiles,
+dimensions, and other characteristics that are based on the product named. Comply with requirements in
+"Comparable Products" Article for consideration of an unnamed product by one of the other named
+manufacturers.
+
+C. Visual Matching Specification: Where Specifications require "match Architect's sample", provide a
+product that complies with requirements and matches Architect's sample. Architect's decision will be final on
+whether a proposed product matches.
+
+1. If no product available within specified category matches and complies with other specified
+requirements, comply with requirements in Section 012500 "Substitution Procedures" for proposal of product.
+
+D. Visual Selection Specification: Where Specifications include the phrase "as selected by Architect from
+manufacturer's full range" or similar phrase, select a product that complies with requirements. Architect will
+select color, gloss, pattern, density, or texture from manufacturer's product line that includes both standard and
+premium items.
+
+2.2 COMPARABLE PRODUCTS
+
+A. Conditions for Consideration: Architect will consider Contractor's request for comparable product when
+the following conditions are satisfied. If the following conditions are not satisfied, Architect may return requests
+without action, except to record noncompliance with these requirements:
+
+1. Evidence that the proposed product does not require revisions to the Contract Documents, that it is
+consistent with the Contract Documents and will produce the indicated results, and that it is compatible with
+other portions of the Work.
+
+2. Detailed comparison of significant qualities of proposed product with those named in the
+Specifications. Significant qualities include attributes such as performance, weight, size, durability, visual
+effect, and specific features and requirements indicated.
+
+3. Evidence that proposed product provides specified warranty.
+
+4. List of similar installations for completed projects with project names and addresses and names and
+addresses of architects and owners, if requested.
+
+5. Samples, if requested.
+
+PART 3- EXECUTION (Not Used)
+
+convivat7
+Care Solutions
+GATEWAY
+
+JACKSONVILLE
+EXPANSION
+
+5238-16 Norwood Ave.,
+Suite 25,
+Jacksonville, FL 33208
+
+GEORGE W. DE LA HOZ
+FL LICENSE #AR0016664
+
+ISSUE FOR PERMIT
+90% CD PROGRESS SET
+
+04/02/2021
+02/19/2021
+
+Delta_Issue Description Date
+Nr.
+
+INTERIOR
+ARCHITECTS, RE.
+
+NM A M
+
+150 ALHAMBRA CIRCLE
+SUITE 800
+CORAL GABLES, FLORIDA 33134
+TEL 786-405-0230
+
+©2021 INTERIOR ARCHITECTS P.-C. LICENSE #AA26001062.
+ALL DRAWINGS AND WRITTEN MATERIAL HERE IN CONSTITUTE THE
+ORIGINAL AND UNPUBLISHED WORK OF THE ARCHITECT, AND THE
+SAME MAY NOT BE DUPLICATED, USED, OR DISCLOSED WITHOUT THE
+WRITTEN CONSENT OF THE ARCHITECT.
+
+Drawn: VM Check: Checker Owner Approval:
+
+Job No: 37HUMX.0331.000 Scale: 12" = 1'-0"
+
+mw SPECIFICATIONS
+
+uAN-2.5
+

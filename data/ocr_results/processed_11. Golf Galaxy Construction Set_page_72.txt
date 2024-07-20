@@ -1,0 +1,385 @@
+Mar 24, 202! - 16:33:54 DWG Name: C:\lobs\Fox\GGxyY FL Port St Lucle\l2833_EMOl.0.dng Updated By: mdavis
+
+Novar Building Automation System
+Onsite Installation Scope of Work for
+
+Dick's Sporting Goods 2019 New Prototype Store
+Construction
+
+Dick's Sporting Goods General Contractor's scope of work:
+
+e Notify Novar when Dick's Sporting Goods Ethernet is active and operational. This is
+required prior to the second visit as Novar commissioning cannot be completed
+without it.
+
+e Notified Novar when Dick's Sporting Goods T1 or temporary 4G is active and
+operational. This is required prior to the second visit as Novar commissioning cannot
+be completed without it.
+
+e Provide the Lennox 94L60 zone temperature and Lennox CO2 sensors to Novar's
+contractor during the second trip that occurs two weeks prior to the construction
+completion date located on Dick's Sporting Goods construction schedule.
+
+e Provide the Lennox Relative Humidity sensors (on Humiditrol units) sensors to
+Novar's contractor during the second trip that occurs two weeks prior to the
+construction completion date located on Dick's Sporting Goods construction
+schedule.
+
+Lennox's scope of work:
+
+e Lennox will provide a factory startup of all RTU's and will set each RTU to run based
+on its return air sensor to the default setpoints to 74F cooling and 68F heating. This
+is required prior to Novar’s second trip. During the Novar startup, we will
+communicate to these RTU's and take over control.
+
+e Provide Lennox 94L60 zone temperature sensors and CO2 sensors for each RTU.
+Also, provide Lennox Relative Humidity sensors for all Humiditrol units.
+
+Square D's scope of work:
+
+e Square D to install Novar provided panel components inside a dedicated section of
+the Square D powerwall switchgear.
+
+e Square D to request material from Novar 15 business days in advance.
+Dick's Sporting Goods Ethernet cabling provider scope of work:
+
+e Provide and install (1) Ethernet cable to the Novar XCMZ20 located in the Square D
+powerwall switchgear. Provide connectors on both ends and test the cable. This is
+required prior to Novar's second trip.
+
+e Provide and install (1) Ethernet cable to the Square D NF3500G4 Master controller in
+the Square D powerwall. Provide connectors on both ends and test the cable. This
+is required prior to Novar's second trip.
+
+Dick's Sporting Goods Electrical Contractor's scope of work
+
+e Provide (2) 120VAC line voltage circuits to the Novar panel located inside the Square
+D powerwall. Terminate line voltage complete.
+
+e Provide single gang boxes and conduit for Lennox zone temperature sensors, CO2
+
+NOVAR ACCOUNT SPECIFICATION
+
+sensor, and Relative Humidity sensor. Refer to the Dick's Sporting Goods plans for
+sensor locations. The EC to also provide a pull string.
+
+If Exhaust Fans are to be controlled based on a time of day, the power should come
+from a Square D Powerlink breaker. Novar will program this breaker to operate
+based on a time of day (Employee schedule).
+
+If Exhaust Fans are to be interlocked with a Lennox RTU supply air fan, it is the EC's
+responsibility to perform this work complete and/or coordinate with the Mechanical
+Contractor.
+
+Provide single gang conduit and boxes for each global temperature sensor shown on
+the Novar plans. Refer to the mechanical drawings for locations. Refer to Novar
+drawings for sensors needed (i.e. show window sensors, data room sensor, unit
+heater receiving area sensor, etc.).
+
+Provide single gang conduit and box for thermostat for the unit heater in the receiving
+area, MC to provide the thermostat for the unit heater.
+
+Provide conduit stub ups for the Square D communication cable between panels in
+the main switch gear (panels A, C and F) to the remote panel BB.
+
+EC to wire programmable breakers for Novar control according to the E5.1 drawings.
+
+Metering: Dick's Sporting Goods wishes to meter the entire buildings energy
+consumption. The Electrical Contractor (EC) is responsible for installing the NOVAR
+PROVIDED Class 5000 meter complete. Novar will install the low voltage
+communication wiring inside the conduit provided by the EC and make the low
+voltage communication terminations.
+
+© Novar provided Meter installation: The Novar provided standalone meter is the
+main kWh meter that captures the entire buildings energy consumption. The
+EC must install the Novar provided meter complete. The meter will be mounted
+at the Square D factory inside the powerwall, EC to mount the current
+transformers (CT) on the main electrical feeds in the main distribution panel in a
+fashion as to capture the entire buildings energy consumption. Identify and
+ensure proper phasing and CT direction. Terminate CT wiring to the Novar
+provided meter as required. If the CT wiring is not long enough to reach the
+meter, the wire can be extended with THHN wiring up to 2000' per CT in
+conduit.
+
+NOTE: A box must be added between the electrical panel and the NOVAR
+
+PROVIDED meter. The EC is to install a Novar provided fuse kit for protection of the
+NOVAR PROVIDED meter.
+
+e The EC must be onsite at the time of Novar's startup (second trip that occurs two
+
+weeks prior to the construction completion date located on Dick's Sporting Goods
+construction schedule) to verify all Metering and CT installation work.
+
+Dick's Sporting Goods Mechanical Contractor's scope of work
+e Provide a 24 volt thermostat for control of the unit heater in receiving area.
+
+e If temporary heating and cooling is required, MC is responsible to set up RTUs for
+
+temporary heating/cooling, including providing temporary thermostats, if needed.
+
+General Scope of Work Notes for Novar Installers:
+
+e Dick's Sporting Goods New Construction stores are construction sites. The
+
+jobsite working hours are 7:00 AM - 3:30 PM only. Any requested
+
+deviation by the GC to this schedule must come to the Novar Project
+Manager to be submitted for approval by the Dick's Sporting Goods
+Construction Manager.
+
+Novar Installer to check in with Dick's Sporting Goods GC one week prior to
+each visit.
+
+Novar installers must provide their own lifts and ladders.
+
+QAT including Deficiency List must be complete prior to requesting
+telephone checkout from Novar Programmer. Submit completed QAT via
+email to Novar Project Manager, Project Coordinator and Programmer at
+the time of TCO request.
+
+Novar's scope of work for the Phase One (rough-in trip):
+
+e Novar will arrive onsite (5) weeks prior to construction completion to install the low
+
+secure this date.
+
+Novar to install the cables (homerun) from the Novar panel inside the Square D
+switchgear to the Outdoor Sensor Assembly (OSA) and leave them coiled up inside
+an RTU in order to facilitate the installation of the OSA on the RTU. The OSA has
+the Outdoor Temperature Sensor, Outdoor Humidity Sensor, and Outdoor Light
+Sensor. Both ends of the cables will be left coiled up near their final location. The
+cables will be terminated by Novar upon Novar's Termination/QAT trip. Roof
+penetration (if required) is by others.
+
+Novar to install the cable (homerun) from the Novar panel in the Square D switchgear
+global sensors to the show window sensors, data room sensor, unit heater receiving
+area sensor, etc. The EC must provide all required conduit and all single gang boxes.
+All cables will be left coiled up near their final location. The cables will be terminated
+by Novar upon Novar's Termination/QAT trip.
+
+Novar to install the low voltage communication cable (homerun) inside the conduit
+provided by the EC from the Novar panel to the Novar provided kWh main meter.
+Novar will make all low voltage terminations on the low voltage terminal strip in the
+Square D switchgear as well as low voltage communication wiring terminations on
+the meter.
+
+Novar to install the communication cable (daisy chain) for each Lennox RTU. The EC
+must provide 3/4” conduit if required. Both ends of the communication cables will be
+left coiled up near their final location. The cables will be terminated by Novar upon
+Novar's Termination/QAT trip.
+
+Novar to install the zone temperature sensor cable for each Lennox RTU. The EC
+must provide the 3/4” conduit and single gang box, and coordinate with the
+Mechanical Contractor on the proper location and mounting heights. Both ends of the
+communication cables will be left coiled up near their final location. The cables will be
+terminated by Novar upon Novar's Termination/QAT trip.
+
+Novar to install zone CO2 sensor cable for all RTUs. The EC must provide
+the 3/4” conduit and single gang box, and coordinate with the Mechanical Contractor
+on the proper location and mounting heights. Both ends of the communication cables
+will be left coiled up near their final location. The cables will be terminated by Novar
+upon Novar's Termination/QAT trip.
+
+Novar to install one cable (homerun) from the Tyco Security Panel to the Novar panel.
+
+Both ends of the cables will be left coiled up near their final location. Cable is for the
+Site Emergency contact.
+
+Novar to install the communication cable between panels in the main switch
+gear (panels A, C and F) to the remote panel BB. The EC must provide
+the 3/4” conduit stub ups at both panel locations. Both ends of the cables will be left
+coiled up near their final location. The cables will be terminated by Novar upon
+Novar's Termination/QAT trip.
+
+Novar's scope of work for Phase Two (Terminate/Startup & Remote
+Commissioning, QAT)
+
+e Novar is scheduled to arrive two weeks prior to the Construction Completion date.
+
+Novar Project Manager to coordinate with General Contractor to secure this date.
+The Ethernet (T1) must be active at this time; otherwise, Novar will not be able to
+complete our work and will have to return.
+
+The EC must be available onsite at this time in order to correct any potential wiring
+issues that may have occurred.
+
+Novar to terminate both ends of the OSA and mount the mast and sensors per the
+Novar EMS drawings.
+
+Novar to terminate both ends of the global sensors to the show window sensors, data
+room sensor, unit heater receiving area sensor, etc. and mount to the single gang box
+provided by the EC.
+
+Novar to terminate both ends of the low voltage communication cable for each
+Lennox RTU at the Prodigy Board and the XCM20, set ECTO parameters, and take
+over control of the RTU's.
+
+Test and Balance Contractor to call Novar during their T&B testing to set minimum
+outdoor damper percentage.
+
+Novar to terminate the low voltage communication cable from the Novar provided
+Meter to the XCM20. Meter will be addressed, setup, and the CT installation will be
+verified at this time. The EC must be available at this time in order to make any
+corrections necessary.
+
+Novar to terminate both ends of the communication cable for the Square D Master
+Lighting Controller and the remote BB panel and program the NF3500G4 controller
+per the site specific lighting zone schedule located on the Electrical drawings E5.1.
+
+Novar to terminate the wiring to the Tyco Security Panel to the XCM20. Tyco to
+make the connection from the Novar panel to the Tyco Site Emergency contact in the
+Tyco panel.
+
+Novar to commission the Novar system, Novar provided Meter, Square D Lighting
+Controllers (per the schedule listed on Electrical drawings), Lennox RTU, ensure all
+sensors are reading properly, and test the Security Panel interface (in conjunction
+with the Store Manager or Security company).
+
+Novar to “color-dot” the controlled breakers by zone, and leave a legend affixed to the
+panel door of the Novar panel in the Square D switchgear. (Legend to match legend
+shown on Novar QAT)
+
+Training of the store manager on the Novar system is not included. This is to be
+done by the Dick's Sporting Goods Construction Project Manager typically one week
+after staples date.
+
+FOR QUESTIONS REGARDING THE INSTALLATION
+
+DRANINGS, CALL THE PROJECT MANAGER,
+CODY HATCH AT 800-348-|235.
+
+nova’
+
+6060 Rockside Woods
+Blvd.
+
+Cleveland, OH 44131
+216.682.1600
+
+www.novar.com
+LEGEND
+
+(> NoTE-THIS SHEET
+(1) DEVICE CATEGORY
+
+DETAIL: DEVICE ID NUMBER OVER
+DEVICE CATEGORY NUMBER
+
+@® WIRE ID
+* DESIGNATED WIRE SPLICE
+
+SECURED SPARE
+CONDUCTOR FOR
+FUTURE USE
+
+WIRE/CABLE TYPES
+ALL TYPES MAY NOT APPLY.
+
+22/2 AWG SHIELDED GROUND
+* BELDON 8761
+
+(B) 22/3 AWG SHIELDED GROUND
+* WINDY CITY 004330
+
+18/2 AWG SHIELDED GROUND
+* HONEYWELL 3322
+
+18/9 AWG STRANDED CABLE
+PLENUM RATED
+
+C) LINE VOLTAGE WIRING IN CONDUIT
+
+20/2 AWG SHIELDED AND 18/2
+AWG, * BELDEN 9155
+
+G) 12 TO 18 AWG STRANDED WIRE
+* THHN.
+
+* OR EQUIVALENT.
+LOW VOLTAGE CABLING REQUIREMENTS:
+
+1. WIRE SPLICES ARE UNACCEPTABLE.
+2. THE COMMUNICATIONS BUSS WILL
+BE TERMINATED AT THE CONTROLLER.
+3. INSTALLED NEATLY AND CONCEALED
+WITHIN THE BUILDING STRUCTURE.
+
+4. SLEEVED IN CONDUIT UP TO
+CEILING OR BAR JOIST.
+
+McHenry & Associates Incorporated
+
+McaA
+
+Consulting Engineers est. 1960
+
+25001 Emery Road, Suite #200
+Warrensville Heights, Ohio 44128
+Phone: 216-292-4696
+
+Fax: 216-292-5874
+
+Email: mail@mchenryassociates.com
+Florida Business #0005282
+
+WIND DATA
+
+DESIGN OF MECHANICAL, ELECTRICAL
+AND PLUMBING EQUIPMENT RESTRAINT
+SYSTEMS FOR WIND FORCES SPECIFIC
+FOR THIS PROJECT LOCATION SHALL BE
+BY MASON INDUSTRIES, INC. OR EQUAL
+MANUFACTURER AND AS REQUIRED FOR
+ALL APPLICABLE CODES. REFER TO
+STRUCTURAL PLANS FOR ALL WIND
+COEFFICIENTS.
+
+EXPOSURE C
+WIND SPEED = 158 MPH
+
+ALL CLEA
+DIMENSIONS IN FIELD
+
+CONTRACTOR MUST VERIFY
+RANCES AND
+
+All design materials prepared by Fox Design
+Group, LLC shall remain the property of Fox
+Design Group, LLC, which shall also retain all
+common law, statutory and other rights, including
+the copyright thereto
+
+33730 BAINBRIDGE ROAD, 2ND FLOOR
+
+SOLON, OH 44139
+
+DESIGN GROUP
+FL LICENSE: AA26003844
+
+FOX DESIGN GROUP, LLC
+www.foxdesigngroup.net
+
+E
+
+a
+
+GALAXY
+
+GATLIN PLAZA
+PORT ST. LUCIE, FL
+
+GOLF GALAXY
+
+PROJECT NUMBER: 01168
+
+ho)
+| | BIDPERMIT———__—| 03-26-21 |
+2
+
+DRAWING:
+EMS NOTES
+
+SHEET NUMBER:
+
+EM1.0

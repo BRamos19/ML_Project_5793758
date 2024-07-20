@@ -1,0 +1,139 @@
+XREF's: P-RSO9-XS-01; P-RS09-XS-02; P-RS09-XS-03
+
+DATE PLOTTED: 12 March 2024 9:57 AM BY : AARON WARD
+
+CAD File: C:\Users\garon\Dryside Engineering Dropbox\Dryside\1. Jobs\2023\DSE23011_Barellan_Levee\4. ENGINEERING\2.Drawings\DSE2301 1-1220.dwg
+
+12/03/2024
+
+CONSTRUCTION ISSUE
+
+DATE
+
+DESCRIPTION
+
+Centreline Data
+X = 462834.71
+
+Y = 6205503.88
+
+Z= 159.34
+
+DATUM RL 157.00
+DESIGN SURFACE
+
+WESTBOUND -
+
+EASTBOUND
+F +
+
+EXISTING SURFACE
+
+OFFSET
+
+Centreline Data
+X = 462822.45
+
+Y = 6205508.02
+
+Z= 159.47
+
+DATUM RL 157.00
+
+DESIGN SURFACE
+EXISTING SURFACE
+OFFSET
+
+Centreline Data
+X = 462784.55
+
+Y = 6205520.81
+
+Z= 159.76
+
+DATUM RL 157.50
+
+DESIGN SURFACE
+EXISTING SURFACE
+
+CHAINAGE 332.935
+
+CHAINAGE 320.000
+
+2 ~ ©
+CHAINAGE 280.000
+~ LEVEE ~| Le LEVEE
+era a a
+Y = 6205532.66 1%AEP WL 158.96mAHD
+Z= 159.84 _ TC 7, COL
+DATUM RL 158.00
+
+DESIGN SURFACE
+
+EXISTING SURFACE
+
+OFFSET
+
+0 1 2
+
+SCALE 1:100
+
+CHAINAGE 242.930 (CREST)
+
+RS09 CROSS SECTIONS
+
+SCALE H 1:100m V 1:100m
+
+© Dryside Engineering (Aust) Pty Ltd.
+This plan and the design here within is produced by
+Dryside Engineering solely for the use and benefit of the
+client in accordance with the terms and conditions of the
+signed contract. Dryside Engineering does not and shall
+not assume any responsibility or liability whatsoever to
+any third party arising out of any use or reliance by third
+party on the content of this document.
+
+DRYSIDE
+ENGINEERING
+
+www.dryside.com.au
+ABN:45639039839
+
+ED HENTY
+APPROVED
+
+ED HENTY
+
+BARELLAN LEVEE DESIGN
+
+KURRAJONG ST AND BARELLAN CEMETERY RD
+BARELLAN, NSW 2665
+
+DETAILED DESIGN
+
+RSO9 BURLEY GRIFFIN WAY CROSS SECTIONS
+SHEET 2 OF 3
+
+LEGEND - CROSS AND LONG SECTIONS
+FINISHED SURFACE PROFILE
+
+—— ——| EXISTING SURFACE PROFILE
+
+——_ — — ——|_ 1% AEP FLOOD PROFILE
+
+FOR CONSTRUCTION
+
+DRAWN
+A.WARD
+
+DESIGNED
+A.WARD
+
+NARRANDERA SHIRE COUNCIL
+
+DATE] SCALE DATUM
+DATE] PROJECTION SHEET SIZE
+
+DSE23011-1221
+
+>|

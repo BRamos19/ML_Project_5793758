@@ -1,0 +1,246 @@
+processed_10. Warm Dark Shell Bid-Permit Set_page_15.png	2288	519	36	966644	472
+processed_10. Warm Dark Shell Bid-Permit Set_page_9.png	2748	506	53	1492495	467
+processed_11. Golf Galaxy Construction Set_page_61.png	1927	141	7	1310426	128
+processed_12. Conviva Gateway Expansion Permit Set_page_24.png	2211	1	0	865902	1
+processed_8. Golf Galaxy Civil Set_page_7.png	3710	2	1	1891838	2
+processed_12. Conviva Gateway Expansion Permit Set_page_30.png	1685	1	0	918157	1
+processed_12. Conviva Gateway Expansion Permit Set_page_18.png	3165	1	0	1364411	1
+processed_11. Golf Galaxy Construction Set_page_49.png	1304	4379	1171	745575	3075
+processed_7. Barellan Levee Design (Google Dataset)_page_42.png	1027	180	35	556835	169
+processed_7. Barellan Levee Design (Google Dataset)_page_43.png	3032	177	37	1054232	166
+processed_11. Golf Galaxy Construction Set_page_48.png	683	400	79	521400	306
+processed_12. Conviva Gateway Expansion Permit Set_page_19.png	2877	1	0	1371960	1
+processed_12. Conviva Gateway Expansion Permit Set_page_31.png	1638	1	0	928349	1
+processed_8. Golf Galaxy Civil Set_page_6.png	1789	146	21	1142559	133
+processed_11. Golf Galaxy Construction Set_page_60.png	1620	228	15	1803924	213
+processed_12. Conviva Gateway Expansion Permit Set_page_25.png	2407	1	0	830226	1
+processed_10. Warm Dark Shell Bid-Permit Set_page_8.png	1572	533	25	394718	494
+processed_10. Warm Dark Shell Bid-Permit Set_page_14.png	1358	527	41	1189045	478
+processed_10. Warm Dark Shell Bid-Permit Set_page_16.png	897	526	39	434025	479
+processed_12. Conviva Gateway Expansion Permit Set_page_33.png	1039	1	0	911407	1
+processed_8. Golf Galaxy Civil Set_page_4.png	1677	1	1	1050942	1
+processed_12. Conviva Gateway Expansion Permit Set_page_27.png	479	1	0	294563	1
+processed_11. Golf Galaxy Construction Set_page_62.png	1713	5344	676	1735228	4343
+processed_7. Barellan Levee Design (Google Dataset)_page_41.png	962	260	49	797428	250
+processed_7. Barellan Levee Design (Google Dataset)_page_40.png	747	254	50	471608	244
+processed_12. Conviva Gateway Expansion Permit Set_page_26.png	704	1	0	303822	1
+processed_11. Golf Galaxy Construction Set_page_63.png	1894	4732	638	1589221	3809
+processed_8. Golf Galaxy Civil Set_page_5.png	1062	1	1	122623	1
+processed_12. Conviva Gateway Expansion Permit Set_page_32.png	912	1	0	650064	1
+processed_10. Warm Dark Shell Bid-Permit Set_page_17.png	1213	637	70	1523749	580
+processed_10. Warm Dark Shell Bid-Permit Set_page_13.png	1743	516	28	533776	471
+processed_12. Conviva Gateway Expansion Permit Set_page_36.png	1771	1	0	1051501	1
+processed_8. Golf Galaxy Civil Set_page_1.png	1116	1	1	784906	1
+processed_11. Golf Galaxy Construction Set_page_73.png	3638	121	7	2595423	108
+processed_11. Golf Galaxy Construction Set_page_67.png	843	130	7	872617	118
+processed_12. Conviva Gateway Expansion Permit Set_page_22.png	1476	1	0	768997	1
+processed_7. Barellan Levee Design (Google Dataset)_page_44.png	2132	173	36	905009	162
+processed_7. Barellan Levee Design (Google Dataset)_page_45.png	343	164	32	1605954	154
+processed_11. Golf Galaxy Construction Set_page_66.png	1266	3545	660	885729	2584
+processed_12. Conviva Gateway Expansion Permit Set_page_23.png	3034	1	0	1073123	1
+processed_12. Conviva Gateway Expansion Permit Set_page_37.png	2454	5	1	882893	1
+processed_11. Golf Galaxy Construction Set_page_72.png	8582	92	4	5136968	78
+processed_10. Warm Dark Shell Bid-Permit Set_page_12.png	1659	517	46	2382979	468
+processed_10. Warm Dark Shell Bid-Permit Set_page_10.png	690	517	28	290973	478
+processed_7. Barellan Levee Design (Google Dataset)_page_8.png	1290	489	115	738472	478
+processed_11. Golf Galaxy Construction Set_page_58.png	1776	133	6	1134258	124
+processed_12. Conviva Gateway Expansion Permit Set_page_21.png	1952	1	0	617644	1
+processed_11. Golf Galaxy Construction Set_page_64.png	2065	138	8	1469370	126
+processed_11. Golf Galaxy Construction Set_page_70.png	1710	18200	2573	1530813	15744
+processed_8. Golf Galaxy Civil Set_page_2.png	1638	1	1	846176	1
+processed_12. Conviva Gateway Expansion Permit Set_page_35.png	1010	1	0	871000	1
+processed_9. Dick's Sporting Goods Construction Set_page_8.png	1592	10864	844	707747	10033
+processed_7. Barellan Levee Design (Google Dataset)_page_46.png	612	165	33	947797	155
+processed_9. Dick's Sporting Goods Construction Set_page_9.png	1423	11359	1288	1223900	9538
+processed_11. Golf Galaxy Construction Set_page_71.png	3788	14078	1405	1931469	11619
+processed_12. Conviva Gateway Expansion Permit Set_page_34.png	863	1	0	615297	1
+processed_8. Golf Galaxy Civil Set_page_3.png	1873	1	1	1123263	1
+processed_12. Conviva Gateway Expansion Permit Set_page_20.png	2390	1	0	1735762	1
+processed_11. Golf Galaxy Construction Set_page_65.png	1073	132	6	717786	123
+processed_11. Golf Galaxy Construction Set_page_59.png	4327	142	11	2217252	128
+processed_8. Golf Galaxy Civil Set_page_10.png	2433	2	1	2774332	2
+processed_7. Barellan Levee Design (Google Dataset)_page_9.png	1683	488	118	1021635	477
+processed_10. Warm Dark Shell Bid-Permit Set_page_11.png	966	516	36	328546	479
+processed_12. Conviva Gateway Expansion Permit Set_page_47.png	4752	1	1	2375181	1
+processed_11. Golf Galaxy Construction Set_page_16.png	1991	10054	1062	935782	9357
+processed_12. Conviva Gateway Expansion Permit Set_page_53.png	2279	1	1	1243146	1
+processed_7. Barellan Levee Design (Google Dataset)_page_21.png	2027	172	37	872903	161
+processed_7. Barellan Levee Design (Google Dataset)_page_35.png	886	200	38	803264	190
+processed_1. MCM Canopy SOW_page_1.png	419	1230	89	206125	1140
+processed_12. Conviva Gateway Expansion Permit Set_page_1.png	3048	1	0	1671328	1
+processed_7. Barellan Levee Design (Google Dataset)_page_34.png	848	332	71	633246	322
+processed_7. Barellan Levee Design (Google Dataset)_page_20.png	1350	173	36	881518	162
+processed_11. Golf Galaxy Construction Set_page_17.png	1654	19009	2138	1308012	16086
+processed_12. Conviva Gateway Expansion Permit Set_page_52.png	2659	1	1	1170494	1
+processed_12. Conviva Gateway Expansion Permit Set_page_46.png	1870	1	1	899533	1
+processed_11. Golf Galaxy Construction Set_page_8.png	1472	13471	1668	969031	12622
+processed_12. Conviva Gateway Expansion Permit Set_page_50.png	3497	1	1	2476122	1
+processed_11. Golf Galaxy Construction Set_page_15.png	1038	11062	1205	742302	10464
+processed_12. Conviva Gateway Expansion Permit Set_page_44.png	505	1	1	452370	1
+processed_11. Golf Galaxy Construction Set_page_29.png	366	517	19	190343	484
+processed_7. Barellan Levee Design (Google Dataset)_page_36.png	714	204	40	486745	194
+processed_7. Barellan Levee Design (Google Dataset)_page_22.png	1899	178	36	951059	167
+processed_1. MCM Canopy SOW_page_2.png	362	1068	100	185065	970
+processed_12. Conviva Gateway Expansion Permit Set_page_3.png	3654	1	0	1666927	1
+processed_12. Conviva Gateway Expansion Permit Set_page_2.png	8568	1	0	3903148	1
+processed_1. MCM Canopy SOW_page_3.png	441	1426	124	220770	1291
+processed_7. Barellan Levee Design (Google Dataset)_page_23.png	1711	179	39	818577	168
+processed_7. Barellan Levee Design (Google Dataset)_page_37.png	652	209	39	482454	199
+processed_11. Golf Galaxy Construction Set_page_28.png	874	3820	581	444887	3312
+processed_12. Conviva Gateway Expansion Permit Set_page_45.png	2330	1	1	1518619	1
+processed_12. Conviva Gateway Expansion Permit Set_page_51.png	2822	1	1	1203102	1
+processed_11. Golf Galaxy Construction Set_page_14.png	2169	19543	1803	1935661	18310
+processed_11. Golf Galaxy Construction Set_page_9.png	991	13119	2058	668587	12233
+processed_11. Golf Galaxy Construction Set_page_38.png	1741	12296	1986	1397152	11489
+processed_11. Golf Galaxy Construction Set_page_10.png	600	1848	189	293949	1409
+processed_12. Conviva Gateway Expansion Permit Set_page_55.png	2993	1	1	1525642	1
+processed_12. Conviva Gateway Expansion Permit Set_page_41.png	2911	1	1	1611856	1
+processed_7. Barellan Levee Design (Google Dataset)_page_33.png	1192	324	68	853006	314
+processed_7. Barellan Levee Design (Google Dataset)_page_27.png	1321	326	75	1052155	316
+processed_12. Conviva Gateway Expansion Permit Set_page_6.png	4384	1	0	3434008	1
+processed_12. Conviva Gateway Expansion Permit Set_page_7.png	5900	1	0	3840465	1
+processed_7. Barellan Levee Design (Google Dataset)_page_26.png	1160	322	73	1075500	312
+processed_7. Barellan Levee Design (Google Dataset)_page_32.png	1293	318	68	841393	308
+processed_12. Conviva Gateway Expansion Permit Set_page_40.png	9169	1	1	4324734	1
+processed_11. Golf Galaxy Construction Set_page_11.png	2438	9812	1119	1270587	8591
+processed_12. Conviva Gateway Expansion Permit Set_page_54.png	2187	1	1	1011172	1
+processed_11. Golf Galaxy Construction Set_page_39.png	1537	5971	755	931738	5489
+processed_6. AMLI A201_page_1.png	5078	27887	2793	3585517	25985
+processed_4. AMLI A204_page_1.png	2886	17737	2566	1672548	15962
+processed_12. Conviva Gateway Expansion Permit Set_page_42.png	2916	1	1	1124409	1
+processed_12. Conviva Gateway Expansion Permit Set_page_56.png	5906	1	1	2515257	1
+processed_11. Golf Galaxy Construction Set_page_13.png	1595	9188	1177	1102251	8442
+processed_7. Barellan Levee Design (Google Dataset)_page_18.png	981	292	57	548714	282
+processed_1. MCM Canopy SOW_page_4.png	134	415	36	59472	389
+processed_7. Barellan Levee Design (Google Dataset)_page_24.png	1378	177	37	628563	166
+processed_7. Barellan Levee Design (Google Dataset)_page_30.png	1346	318	68	860652	308
+processed_12. Conviva Gateway Expansion Permit Set_page_5.png	6744	1	0	3880452	1
+processed_12. Conviva Gateway Expansion Permit Set_page_4.png	1838	1	0	1021973	1
+processed_7. Barellan Levee Design (Google Dataset)_page_31.png	1299	334	67	772786	324
+processed_7. Barellan Levee Design (Google Dataset)_page_25.png	1088	328	71	884834	318
+processed_7. Barellan Levee Design (Google Dataset)_page_19.png	1773	176	39	1087520	165
+processed_12. Conviva Gateway Expansion Permit Set_page_57.png	973	1	1	633120	1
+processed_11. Golf Galaxy Construction Set_page_12.png	4602	10744	846	1666758	9948
+processed_12. Conviva Gateway Expansion Permit Set_page_43.png	2753	1	1	1269789	1
+processed_11. Golf Galaxy Construction Set_page_2.png	1689	18696	2436	1575943	17145
+processed_11. Golf Galaxy Construction Set_page_23.png	1346	20286	2861	1371110	18052
+processed_11. Golf Galaxy Construction Set_page_37.png	1732	10321	933	1173867	9674
+processed_7. Barellan Levee Design (Google Dataset)_page_14.png	1492	485	118	922310	474
+processed_7. Barellan Levee Design (Google Dataset)_page_28.png	1400	327	70	1093900	317
+processed_2. MCM Canopy Construction Set_page_2.png	536	57	9	356284	55
+processed_12. Conviva Gateway Expansion Permit Set_page_9.png	5107	1	0	3693054	1
+processed_12. Conviva Gateway Expansion Permit Set_page_8.png	5120	1	0	3339738	1
+processed_2. MCM Canopy Construction Set_page_3.png	671	59	8	326464	57
+processed_7. Barellan Levee Design (Google Dataset)_page_29.png	1312	323	75	1062880	313
+processed_7. Barellan Levee Design (Google Dataset)_page_15.png	1778	491	118	1097993	480
+processed_11. Golf Galaxy Construction Set_page_36.png	1542	19296	3741	948548	17397
+processed_11. Golf Galaxy Construction Set_page_22.png	936	4189	308	553444	3779
+processed_11. Golf Galaxy Construction Set_page_3.png	3981	5934	717	1951662	5242
+processed_11. Golf Galaxy Construction Set_page_1.png	2829	919	88	1481052	882
+processed_11. Golf Galaxy Construction Set_page_34.png	1414	9806	3242	994500	9322
+processed_11. Golf Galaxy Construction Set_page_20.png	1231	22597	2243	1145094	21421
+processed_12. Conviva Gateway Expansion Permit Set_page_59.png	2156	1	1	1006561	1
+processed_7. Barellan Levee Design (Google Dataset)_page_17.png	955	289	59	612280	279
+processed_2. MCM Canopy Construction Set_page_1.png	870	1713	184	574702	1578
+processed_5. AMLI A203_page_1.png	2431	13559	1625	1405215	12094
+processed_7. Barellan Levee Design (Google Dataset)_page_16.png	1490	493	118	817192	482
+processed_12. Conviva Gateway Expansion Permit Set_page_58.png	1646	1	1	1117424	1
+processed_11. Golf Galaxy Construction Set_page_21.png	1669	21098	1943	1397045	20000
+processed_11. Golf Galaxy Construction Set_page_35.png	1575	7122	1050	1032234	6247
+processed_11. Golf Galaxy Construction Set_page_4.png	1819	12874	1589	960809	11976
+processed_12. Conviva Gateway Expansion Permit Set_page_48.png	3052	1	1	2797800	1
+processed_11. Golf Galaxy Construction Set_page_19.png	1992	20266	1891	1369383	18207
+processed_11. Golf Galaxy Construction Set_page_31.png	9971	35269	6538	5343964	34215
+processed_12. Conviva Gateway Expansion Permit Set_page_60.png	2246	1	1	1445995	1
+processed_11. Golf Galaxy Construction Set_page_25.png	1307	6758	913	711375	5292
+processed_2. MCM Canopy Construction Set_page_4.png	476	2823	285	354208	2287
+processed_7. Barellan Levee Design (Google Dataset)_page_12.png	1139	490	115	698936	479
+processed_7. Barellan Levee Design (Google Dataset)_page_13.png	1371	489	118	1055374	478
+processed_2. MCM Canopy Construction Set_page_5.png	242	56	8	162727	55
+processed_12. Conviva Gateway Expansion Permit Set_page_61.png	2086	1	1	1385366	1
+processed_11. Golf Galaxy Construction Set_page_24.png	1821	6724	1078	917200	6045
+processed_11. Golf Galaxy Construction Set_page_30.png	1992	4953	1025	955809	4362
+processed_11. Golf Galaxy Construction Set_page_18.png	1561	22897	1972	1308874	20837
+processed_12. Conviva Gateway Expansion Permit Set_page_49.png	6362	1	1	4086995	1
+processed_11. Golf Galaxy Construction Set_page_5.png	1533	9699	1603	1071182	7558
+processed_11. Golf Galaxy Construction Set_page_7.png	1391	12093	1327	925235	11309
+processed_11. Golf Galaxy Construction Set_page_26.png	491	1528	227	190419	1215
+processed_11. Golf Galaxy Construction Set_page_32.png	4131	11769	1582	2136806	11365
+processed_7. Barellan Levee Design (Google Dataset)_page_39.png	989	257	52	647874	247
+processed_7. Barellan Levee Design (Google Dataset)_page_11.png	1299	487	115	749866	476
+processed_7. Barellan Levee Design (Google Dataset)_page_10.png	1414	487	118	786484	476
+processed_2. MCM Canopy Construction Set_page_6.png	132	570	53	115985	552
+processed_7. Barellan Levee Design (Google Dataset)_page_38.png	952	258	49	755532	248
+processed_11. Golf Galaxy Construction Set_page_33.png	2199	2898	296	926551	2797
+processed_11. Golf Galaxy Construction Set_page_27.png	2179	8791	1087	713795	7289
+processed_12. Conviva Gateway Expansion Permit Set_page_62.png	549	1	1	522935	1
+processed_11. Golf Galaxy Construction Set_page_6.png	1528	13825	2099	1131750	13081
+processed_10. Warm Dark Shell Bid-Permit Set_page_20.png	1082	666	64	550897	607
+processed_7. Barellan Levee Design (Google Dataset)_page_4.png	1861	486	118	1137767	475
+processed_11. Golf Galaxy Construction Set_page_40.png	870	2998	272	594913	2791
+processed_12. Conviva Gateway Expansion Permit Set_page_11.png	4758	1	0	3321572	1
+processed_11. Golf Galaxy Construction Set_page_54.png	1027	2098	561	440983	1340
+processed_12. Conviva Gateway Expansion Permit Set_page_39.png	4225	1	1	2364403	1
+processed_11. Golf Galaxy Construction Set_page_68.png	3396	23001	2512	3344834	20286
+processed_9. Dick's Sporting Goods Construction Set_page_4.png	1356	7761	956	998610	6530
+processed_9. Dick's Sporting Goods Construction Set_page_11.png	538	3456	637	384771	2796
+processed_3. AMLI A220_page_1.png	4031	6068	862	1380322	5558
+processed_9. Dick's Sporting Goods Construction Set_page_10.png	997	2721	438	910333	2224
+processed_9. Dick's Sporting Goods Construction Set_page_5.png	2888	5877	725	1335845	4731
+processed_11. Golf Galaxy Construction Set_page_69.png	5291	12602	1153	2286450	11515
+processed_12. Conviva Gateway Expansion Permit Set_page_38.png	3623	5	1	1372620	1
+processed_12. Conviva Gateway Expansion Permit Set_page_10.png	4763	1	0	3522445	1
+processed_11. Golf Galaxy Construction Set_page_55.png	2376	5155	625	2154314	4071
+processed_11. Golf Galaxy Construction Set_page_41.png	801	3163	342	507964	2910
+processed_10. Warm Dark Shell Bid-Permit Set_page_1.png	2580	489	62	1636764	451
+processed_7. Barellan Levee Design (Google Dataset)_page_5.png	1408	490	118	936310	479
+processed_10. Warm Dark Shell Bid-Permit Set_page_21.png	3737	654	64	2389804	596
+processed_10. Warm Dark Shell Bid-Permit Set_page_23.png	2738	606	67	4739523	551
+processed_7. Barellan Levee Design (Google Dataset)_page_7.png	1291	489	115	722959	478
+processed_10. Warm Dark Shell Bid-Permit Set_page_3.png	1716	494	62	1032716	454
+processed_11. Golf Galaxy Construction Set_page_57.png	1680	114	6	1073924	106
+processed_12. Conviva Gateway Expansion Permit Set_page_12.png	4067	1	0	3258736	1
+processed_11. Golf Galaxy Construction Set_page_43.png	885	5558	695	611819	4925
+processed_9. Dick's Sporting Goods Construction Set_page_7.png	799	1880	237	339873	1389
+processed_9. Dick's Sporting Goods Construction Set_page_12.png	800	3714	511	418906	3207
+processed_3. AMLI A220_page_2.png	2109	6434	1120	845969	5257
+processed_9. Dick's Sporting Goods Construction Set_page_13.png	736	16972	1291	1897347	15362
+processed_9. Dick's Sporting Goods Construction Set_page_6.png	2058	5924	597	904834	5013
+processed_11. Golf Galaxy Construction Set_page_42.png	1148	4190	738	629032	3326
+processed_11. Golf Galaxy Construction Set_page_56.png	752	280	50	422460	192
+processed_12. Conviva Gateway Expansion Permit Set_page_13.png	5874	1	0	4364256	1
+processed_10. Warm Dark Shell Bid-Permit Set_page_2.png	1307	516	53	1070335	476
+processed_7. Barellan Levee Design (Google Dataset)_page_6.png	1538	489	118	924447	478
+processed_10. Warm Dark Shell Bid-Permit Set_page_22.png	1634	639	54	772258	580
+processed_10. Warm Dark Shell Bid-Permit Set_page_6.png	4519	498	58	4568210	457
+processed_7. Barellan Levee Design (Google Dataset)_page_2.png	1127	541	117	486985	530
+processed_8. Golf Galaxy Civil Set_page_8.png	784	2	1	474244	2
+processed_12. Conviva Gateway Expansion Permit Set_page_17.png	3389	1	0	1101612	1
+processed_11. Golf Galaxy Construction Set_page_52.png	985	2888	619	1094987	2117
+processed_11. Golf Galaxy Construction Set_page_46.png	2657	90	2	1520846	79
+processed_9. Dick's Sporting Goods Construction Set_page_17.png	859	6374	708	737871	5809
+processed_9. Dick's Sporting Goods Construction Set_page_2.png	1525	9349	1602	1102801	7752
+processed_9. Dick's Sporting Goods Construction Set_page_3.png	3846	9718	1378	2012354	8706
+processed_9. Dick's Sporting Goods Construction Set_page_16.png	1801	4722	256	1351351	4419
+processed_11. Golf Galaxy Construction Set_page_47.png	1154	93	4	2154012	81
+processed_12. Conviva Gateway Expansion Permit Set_page_16.png	4185	1	0	3069837	1
+processed_11. Golf Galaxy Construction Set_page_53.png	1142	2634	620	548423	1833
+processed_8. Golf Galaxy Civil Set_page_9.png	3852	149	27	2767645	135
+processed_7. Barellan Levee Design (Google Dataset)_page_3.png	1856	488	118	1101449	477
+processed_10. Warm Dark Shell Bid-Permit Set_page_7.png	1605	530	44	589254	491
+processed_10. Warm Dark Shell Bid-Permit Set_page_19.png	1608	628	50	939431	580
+processed_10. Warm Dark Shell Bid-Permit Set_page_5.png	5238	492	58	4773419	451
+processed_7. Barellan Levee Design (Google Dataset)_page_1.png	1443	178	29	478083	168
+processed_12. Conviva Gateway Expansion Permit Set_page_28.png	1193	1	0	598825	1
+processed_11. Golf Galaxy Construction Set_page_45.png	2103	121	9	1484237	110
+processed_11. Golf Galaxy Construction Set_page_51.png	1834	1451	78	964441	1386
+processed_12. Conviva Gateway Expansion Permit Set_page_14.png	5192	1	0	3824470	1
+processed_9. Dick's Sporting Goods Construction Set_page_14.png	446	12565	851	1472233	11476
+processed_9. Dick's Sporting Goods Construction Set_page_1.png	1980	2897	540	1017759	2719
+processed_9. Dick's Sporting Goods Construction Set_page_15.png	1542	11118	847	1326947	9973
+processed_11. Golf Galaxy Construction Set_page_50.png	1567	127	4	1988442	111
+processed_12. Conviva Gateway Expansion Permit Set_page_15.png	4626	1	0	3611235	1
+processed_11. Golf Galaxy Construction Set_page_44.png	1099	3732	681	1342515	2964
+processed_12. Conviva Gateway Expansion Permit Set_page_29.png	1114	1	0	611073	1
+processed_10. Warm Dark Shell Bid-Permit Set_page_4.png	7353	495	60	4923847	454
+processed_10. Warm Dark Shell Bid-Permit Set_page_18.png	1770	618	48	870135	570

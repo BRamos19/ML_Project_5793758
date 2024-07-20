@@ -1,0 +1,698 @@
+\tbs-projects05\2021\2021-0155\Cad-Revit - TBA\Structural\2021-0155 $1.0.dwg, 3/24/2021 2:30:29 PM
+
+GENERAL NOTES (cont.)
+
+Special Inspection
+
+1. Special inspection is to be provided in addition to the inspections conducted by the department of
+building safety and shall not be construed to relieve the owner or his authorized agent from requesting
+the periodic and called inspections required by the applicable building code. Owner shall engage and
+pay for a qualified testing agency to perform special inspections.
+
+Required Special Inspections
+
+1. In addition to the regular inspections, the following items will also require special inspection in
+accordance with the applicable building code.
+
+Soils compliance prior to foundation inspection (compacting fill, special grading)
+Structural concrete over 2,500 psi
+
+Structural steel fabrication
+
+Field welding
+
+High strength bolts
+
+Structural masonry
+
+Cold Formed Steel Deck
+
+QONMOO Dy
+
+2. Special inspector shall meet the qualifications as stated in the applicable building code and shall
+perform the duties and responsibilities as outlined in the applicable building code. The special inspector
+shall provide written documentation to the building official demonstrating his or her competence and
+relevant experience or training. Experience or training shall be considered relevant when the
+documented experience or training is related in complexity to the same type of special inspection
+activities for projects of similar complexity and material qualities. These qualifications are in addition to
+qualifications specified in others sections of the applicable building code.
+
+3. Special inspection shall meet the requirements of the applicable building code. Special inspector(s) shall
+be hired by the owner to perform the required special inspections. The names of persons or firms who
+are to perform the special inspections shall be forwarded to the bullding official for approval. The special
+inspector(s) shall complete and submit all forms required by the building department having jurisdiction.
+
+4. Access for special inspection: The construction or work for which special inspection is required shall
+remain accessible and exposed for special inspection purposes until completion of the required special
+inspections.
+
+5. The special inspector(s) shall:
+
+A. Observe the work assigned for conformance to the approved drawing and specifications.
+
+B. Furnish inspection reports to the engineer of record and building department. Discrepancies shall
+be brought to the immediate attention of the contractor for correction, then, if not corrected to the
+engineer and the building department.
+
+C. Submit to the engineer of record and the building department a signed final report stating that the
+work was in conformance with the approved drawings and specifications and the applicable
+workmanship provisions of the applicable building code.
+
+6. Special Inspection Notes:
+
+A. Continuous special inspection is always required during the performance of the work unless
+specifically noted below.
+
+B. Where fabrication of structural load-bearing members and assemblies is being performed on the
+premises of a fabricator's shop, continuous special inspection is required during the performance
+of the work except as allowed in the applicable building code and unless specifically noted below.
+
+C. It is the responsibility of the contractor to provide the special inspector(s) with advance notice, no
+less than one working day, of the initiation of any work required to have special inspections. All
+work performed without required special inspection will be subject to removal.
+
+7. Types of work requiring special inspections are:
+
+A. Structural steel elements of buildings and structures as required by AISC 360 as referenced in
+the applicable building code, see Table 1.
+1. Exceptions include:
+
+a. Special Inspection of steel fabrication process shall not be required where the
+fabricator does not perform any welding, thermal cutting or heating operation of any
+kind as part of the fabrication process. In such cases, the fabricator shall be required
+to submit a detailed procedure for material control that demonstrates the fabricator's
+ability to maintain suitable records and procedures such that, at any time during the
+fabrication process, the material specification, and grade for the main stress-carrying
+elements are capable of being determined. Mill test reports shall be identifiable to the
+main stress-carrying elements required by the approved construction documents.
+
+B. Cold formed steel deck as required by SDI (Steel Deck Institute) QA/QC as reference in the
+applicable building code,see Table 2.
+
+C. Open web steel joists and joist girders as required per Table 3.
+
+D. Concrete construction as required by applicable building code and Table 4. Exceptions are as
+follows:
+1. Concrete patios, driveways and sidewalks, on grade.
+
+E. Masonry construction as required in the applicable building code and Table 5, Level 2, special
+inspection, except as allowed in the applicable building code.
+
+F. Special inspection for existing site soil conditions, during site preparation and fill placement, to
+ensure load-bearing requirements in compliance with applicable building code and Table 7 except
+as allowed in applicable building code.
+
+8. Additional types of work requiring special inspections for wind resistance defined as wind Exposure
+Category B, where the allowable design wind speed (Vagp) is 120 miles per hour (155 mph ultimate) or
+greater or wind Exposure Category C or D, where allowable wind speed (Vasp) is 110 mph (142 mph
+ultimate) or greater.
+
+A. Wind-resisting components periodic special inspection is required for the following system and
+components.
+1. Roof covering, roof deck and roof framing connections.
+2. Exterior wall covering and wall connections to roof and floor diaphragms and framing.
+
+REQUIRED VERIFICATION AND INSPECTION OF STEEL CONSTRUCTION
+aC PROUEGT VERIFICATION AND INSPECTION PERFORM OBSERVE
+xX 1. MATERIAL TEST REPORTS AND CERTIFICATIONS AS LISTED IN AISC 360 x _
+FOR COMPLIANCE WITH THE CONSTRUCTION DOCUMENTS.
+2. INSPECTION PRIOR TO WELDING:
+x a. WELDER QUALIFICATION RECORDS AND CONTINUITY REPORTS Xx _
+x b. WELDING PROCEDURE SPECIFICATIONS (WPSs) AVAILABLE. x -
+xX c. MANUFACTURERS CERTIFICATIONS FOR WELDING xX _
+CONSUMABLES AVAILABLE.
+x d. MATERIAL IDENTIFICATION (TYPE/GRADE) - x
+x e. WELDER IDENTIFICATION SYSTEM. - x
+
+f. FIT-UP OF GROOVE WELDS (INCLUDING JOINT GEOMETRY)
+- JOINT PREPARATION
+- DIMENSIONS (ALIGNMENT, ROOT OPENING, ROOT FACE,
+x BEVEL) - x
+- CLEANLINESS (CONDITION OF STEEL SURFACES)
+- TACKING (TACK WELD QUALITY AND LOCATION)
+- BACKING TYPE AND FIT (IF APPLICABLE)
+
+g. FIT-UP OF CJP GROOVE WELDS OF HSS T-, Y- AND K- JOINTS
+WITHOUT BACKING (INCLUDING JOINT GEOMETRY)
+- JOINT PREPARATIONS
+- DIMENSIONS (ALIGNMENT, ROOT OPENING, ROOF FACE, - x
+BEVEL)
+- CLEANLINESS (CONDITION OF STEEL SURFACES)
+- TACKING (TACK WELD QUALITY AND LOCATION)
+
+x h. CONFIGURATION AND FINISH OF ACCESS HOLES. - x
+
+i. FIT-UP OF FILLET WELDS
+- DIMENSIONS (ALIGNMENT, GAPS AT ROOT)
+- CLEANLINESS (CONDITION OF STEEL SURFACES)
+- TACKING (TACK WELD QUALITY AND LOCATION)
+
+x j. CHECK WELDING EQUIPMENT. - x
+
+3. INSPECTIONS DURING WELDING
+
+x a. USE OF QUALIFIED WELDERS - x
+
+b. CONTROL AND HANDLING OF WELDING CONSUMABLES
+x - PACKAGING - x
+- EXPOSURE CONTROL
+
+x c. NO WELDING OVER CRACKED TACK WELDS - x
+
+d. ENVIRONMENTAL CONDITIONS
+x - WIND SPEED WITHIN LIMITS -
+- PRECIPITATION AND TEMPERATURE
+
+e. WPS FOLLOWED
+- SETTINGS ON WELDING EQUIPMENT
+- TRAVEL SPEED
+- SELECTED WELDING MATERIALS
+- SHIELDING GAS TYPE/FLOW RATE
+- PREHEAT APPLIED
+- INTERPASS TEMPERATURE MAINTAINED (MIN/MAX.)
+- PROPER POSITION (F, V, H, OH)
+
+f. WELDING TECHNIQUES
+- INTERPASS AND FINAL CLEANING
+- EACH PASS WITHIN PROFILE LIMITATIONS
+- EACH PASS MEETS QUALITY REQUIREMENTS
+
+4. INSPECTIONS AFTER WELDING
+
+x a. WELDS CLEANED - x
+
+x b. SIZE, LENGTH AND LOCATION OF WELDS x -
+
+c. WELDS MEET VISUAL ACCEPTANCE CRITERIA
+- CRACK PROHIBITION
+- WELD/BASE-METAL FUSION
+- CRATER CROSS SECTION
+- WELD PROFILES
+- WELD SIZE
+- UNDERCUT
+- POROSITY
+
+x d. ARC STRIKES
+
+x e. k-AREA
+
+f. WELD ACCESS HOLES IN ROLLED HEAVY SHAPES AND BUILT-UP
+HEAVY SHAPES.
+
+x g. BACKING REMOVED AND WELD TABS REMOVED (IF REQUIRED)
+
+x h. REPAIR ACTIVITIES
+
+x | KK) K | KY) XK
+
+i. DOCUMENT ACCEPTANCE OR REJECTION OF WELDED
+JOINT OR MEMBER
+
+j. NO PROHIBITED WELDS HAVE BEEN ADDED WITHOUT THE
+APPROVAL OF THE EOR.
+
+5. WHEN REQUIRED BY AISC 360 APPENDIX 3, SECTION N WELDED JOINTS
+REQUIRING WELD SOUNDNESS TO BE ESTABLISHED BY RADIOGRAPHIC
+OR ULTRASONIC INSPECTION SHALL BE TESTED BY SPECIAL INSPECTOR
+AS PRESCRIBED IN AISC 360.
+
+6. INSPECTIONS PRIOR TO BOLTING
+
+a. MANUFACTURERS CERTIFICATIONS AVAILABLE FOR FASTENER
+MATERIALS
+
+b. FASTENERS MARKED IN ACCORDANCE WITH ASTM
+REQUIREMENTS
+
+c. CORRECT FASTENERS SELECTED FOR THE JOINT DETAIL
+x (GRADE, TYPE, BOLT LENGTH, IF THREADS ARE TO BE - x
+EXCLUDED FROM SHEAR PLANE)
+
+x d. CORRECT BOLTING PROCEDURE SELECTED FOR JOINT DETAIL - x
+
+e. CONNECTING ELEMENTS, INCLUDING THE APPROPRIATE
+xX FAYING SURFACE CONDITION AND HOLE PREPARATION, IF - x
+SPECIFIED, MEET APPLICABLE REQUIREMENTS
+
+f. PRE-INSTALLATION VERIFICATION TESTING BY INSTALLATION
+x PERSONNEL OBSERVED AND DOCUMENTED FOR FASTENER - x
+ASSEMBLIES AND METHODS USED.
+
+g. PROPER STORAGE PROVIDED FOR BOLTS, NUTS, WASHERS
+AND OTHER FASTENER COMPONENTS
+
+7. INSPECTIONS DURING BOLTING
+
+a. FASTENER ASSEMBLIES, OF SUITABLE CONDITION, PLACED IN
+
+x ALL HOLES AND WASHERS (IF REQUIRED) ARE POSITIONED AS - x
+REQUIRED
+xX b. JOINT BROUGHT TO THE SNUG-TIGHT CONDITION PRIOR TO _ x
+
+THE PRE-TENSIONING OPERATION
+
+c. FASTENER COMPONENT NOT TURNED BY THE WRENCH
+PREVENTED FROM ROTATING
+
+d. FASTENERS ARE PRE-TENSIONED IN ACCORDANCE WITH THE
+x RCSC SPECIFICATION, PROGRESSING SYSTEMATICALLY FROM - x
+THE MOST RIGID POINT TO THE FREE EDGES.
+
+8. INSPECTIONS AFTER BOLTING
+
+a. DOCUMENT ACCEPTANCE OR REJECTION OF BOLTED
+CONNECTIONS
+
+9. INSPECTION OF STEEL ELEMENTS OF COMPOSITE CONSTRUCTION
+PRIOR TO CONCRETE PLACEMENT
+
+a. PLACEMENT AND INSTALLATION OF DECK x x
+
+b. PLACEMENT AND INSTALLATION OF STEEL HEADED STUD x x
+ANCHORS
+
+c. DOCUMENT ACCEPTANCE OR REJECTION OF STEEL ELEMENTS x x
+
+NOTES:
+
+e ‘OBSERVE’ SHALL MEAN TO INSPECT THESE ITEMS ON AN INTERMITTENT BASIS. OPERATIONS NEED NOT BE DELAYED PENDING THESE
+INSPECTIONS. FREQUENCY OF OBSERVATIONS SHALL BE ADEQUATE TO CONFIRM THAT THE WORK HAS BEEN PERFORMED IN ACCORDANCE WITH
+THE APPLICABLE DOCUMENTS. IN THE EVENT THAT OBSERVATIONS DETERMINE THAT THE MATERIALS AND/OR WORKMANSHIP ARE NOT IN
+CONFORMANCE WITH THE APPLICABLE DOCUMENTS, ADDITIONAL INSPECTIONS SHALL BE PERFORMED TO DETERMINE THE EXTENT OF
+NON-CONFORMANCE.
+
+e'PERFORM' SHALL MEAN TO PERFORM THESE TASKS PRIOR TO FINAL ACCEPTANCE FOR EACH ITEM OR ELEMENT.
+
+TABLE 2
+REQUIRED VERIFICATION AND INSPECTION OF COLD FORMED STEEL DECK
+APPLICABLE
+TO PROJECT VERIFICATION AND INSPECTION PERFORM OBSERVE
+1. INSPECTION OR EXECUTION TASKS PRIOR TO DECK PLACEMENT:
+a. VERIFY COMPLIANCE OF MATERIALS (DECK AND DECK
+xX ACCESSORIES) WITH CONSTRUCTION DOCUMENTS, INCLUDING 4 -
+PROFILES, MATERIAL PROPERTIES, AND BASE METAL THICKNESS.
+xX b. DOCUMENT ACCEPTANCE OR REJECTION OF DECK AND DECK x
+ACCESSORIES. -
+2. INSPECTION OR EXECUTION TASKS AFTER DECK PLACEMENT:
+x a. VERIFY COMPLIANCE OF DECK AND ALL DECK ACCESSORIES xX
+INSTALLATION WITH CONTRUCTION DOCUMENTS ~
+b. VERIFY DECK MATERIALS ARE REPRESENTED BY THE MILL
+x CERTIFICATIONS THAT COMPLY WITH THE CONSTRUCTION x -
+DOCUMENTS.
+x c. DOCUMENT ACCEPTANCE OR REJECTION OF INSTALLATION OF x
+DECK AND DECK ACCESSORIES. ~
+3. INSPECTION OR EXECUTION TASKS PRIOR TO WELDING:
+x a. WELDING PROCEDURE SPECIFICATION (WPS) AVAILABLE _ x
+x b. MANUFACTUREER CERTIFICATIONS FOR WELDING _ x
+CONSUMABLES AVAILABLE
+x c. MATERIAL IDENTIFICATION (TYPE / GRADE) _ x
+x d. CHECK WELDING EQUIPMENT - x
+4. INSPECTION OR EXECUTION TASKS DURING WELDING:
+x a. USE OF QUALIFIED WELDERS - x
+x b. CONTROL AND HANDLING OF WELDING CONSUMABLES _ x
+x c. ENVIRONMENTAL CONDITIONS (WIND SPEED, MOISTURE, x
+TEMPERATURE) ~
+x d. WPS FOLLOWED - x
+5. INSPECTION OR EXECUTION TASKS AFTER WELDING:
+x a. VERIFY SIZE AND LOCATION OF WELDS, INCLUDING SUPPORT, x
+SIDELAP, AND PERIMETER WELDS. ~
+x b. WELDS MEET VISUAL ACCEPTANCE CRITERIA x -
+x c. VERIFY REPAIR ACTIVITIES x -
+x d. DOCUMENT ACCEPTANCE OR REJECTION OF WELDS x -
+6. INSPECTION OR EXECUTION TASKS PRIOR TO MECHANICAL FASTENING:
+x a. MANUFACTURER INSTALLATION INSTRUCTIONS AVAILBALE FOR _ x
+MECHANICAL FASTENERS.
+x b. PROPER TOOLS AVAILABLE FOR FASTENER INSTALLATION _ x
+x c. PROPER STORAGE FOR MECHANICAL FASTENERS _ x
+7. INSPECTION OR EXECUTION TASKS DURING MECHANICAL FASTENING
+x a. FASTENERS ARE POSITIONED AS REQUIRED _ x
+x b. FASTENERS ARE INSTALLED IN ACCORDANCE WITH _ x
+MANUFACTURER'S INSTRUCTIONS
+8. INSPECTION OR EXECUTION TASKS AFTER MECHANICAL FASTENING
+xX a. CHECK SPACING, TYPE, AND INSTALLATION OF SUPPORT x _
+FASTENERS
+xX b. CHECK SPACING, TYPE, AND INSTALLATION OF SIDELAP x _
+FASTENERS
+xX c. CHECK SPACING, TYPE, AND INSTALLATION OF PERIMETER x _
+FASTENERS
+x d. VERIFY REPAIR ACTIVITIES x -
+xX e. DOCUMENT ACCEPTANCE OR REJECTION OF MECHANICAL x _
+FASTENERS
+NOTES:
+
+e ‘OBSERVE’ SHALL MEAN TO INSPECT THESE ITEMS ON AN INTERMITTENT BASIS. OPERATIONS NEED NOT BE DELAYED PENDING THESE
+
+INSPECTIONS. FREQUENCY OF OBSERVATIONS SHALL BE ADEQUATE TO CONFIRM THAT THE WORK HAS BEEN PERFORMED IN ACCORDANCE WITH
+
+THE APPLICABLE DOCUMENTS. IN THE EVENT THAT OBSERVATIONS DETERMINE THAT THE MATERIALS AND/OR WORKMANSHIP ARE NOT IN
+CONFORMANCE WITH THE APPLICABLE DOCUMENTS, ADDITIONAL INSPECTIONS SHALL BE PERFORMED TO DETERMINE THE EXTENT OF
+NON-CONFORMANCE.
+
+e'PERFORM' SHALL MEAN TO PERFORM THESE TASKS PRIOR TO FINAL ACCEPTANCE FOR EACH ITEM OR ELEMENT.
+
+ABBREVIATIONS
+
+AB.
+AR.
+ADD'L
+AF.F.
+ARCH.
+Bi
+BLDG.
+BM.
+BOT.
+BRG.
+BTJ
+CANT'L
+CFMF
+C.I.P.
+CJ
+
+CL
+CLR.
+CMU.
+COL.
+CONC.
+CONSTR.
+CONT.
+CY.
+DBA
+DET.
+DIAG.
+@/DIA.
+D.L.
+DWG.
+E.F.
+
+EJ
+
+EL.
+EMBED.
+E.S.
+EQ.
+EQUIP.
+E.W.
+EXP.
+cS)
+EXT.
+F.D.
+FIN.
+FLG.
+FLR.
+F.S.
+FT.
+FTG.
+GA.
+
+GB
+Gc.
+GALV.
+HD'D
+HORIZ.
+LF.
+INT.
+
+J/B OR J/BRG.
+
+ANCHOR BOLT
+ANCHOR ROD
+ADDITIONAL
+
+ABOVE FINISH FLOOR
+ARCHITECTURAL
+BOTTOM OF
+
+BUILDING
+
+BEAM
+
+BOTTOM
+
+BEARING
+
+BOLTED TIE JOIST
+CANTILEVER
+
+COLD FORMED METAL FRAMING
+CAST-IN-PLACE
+CONTROL JOINT
+CENTERLINE
+
+CLEAR
+
+CONCRETE MASONRY UNIT
+COLUMN
+
+CONCRETE
+CONSTRUCTION
+CONTINUOUS
+
+CUBIC YARD
+DEFORMED BAR ANCHOR
+DETAIL
+
+DIAGONAL
+
+DIAMETER
+
+DEAD LOAD
+
+DRAWING
+
+EACH FACE
+EXPANSION JOINT
+ELEVATION
+EMBEDMENT
+
+EACH SIDE
+
+EQUAL OR EQUIVALENT
+EQUIPMENT
+
+EACH WAY
+
+EXPANSION
+
+EXISTING
+
+EXTERIOR
+
+FLOOR DRAIN
+
+FINISH
+
+FLANGE
+
+FLOOR
+
+FAR SIDE OR FOOTING STEP
+FEET
+
+FOOTING
+
+GAUGE
+
+GRADE BEAM
+
+GENERAL CONTRACTOR
+GALVANIZED
+
+HEADED
+
+HORIZONTAL
+
+INSIDE FACE
+
+INTERIOR
+
+JOIST BEARING
+
+k
+LG.
+LL.
+(LLH)
+(LLY)
+(LSH)
+(LSV)
+LW.
+MECH.
+MFR.
+(N)
+(N.LC.)
+N.S.
+NTS
+oxen
+OF.
+oo
+OPP.
+PC
+
+PJ
+
+PL
+PSF
+Psi
+RAD.
+R.D.
+REINF.
+REQ'D
+SECT.
+SIM.
+S.0.G.
+sP.
+sQ.
+STIFF.
+STL.
+STRUCT.
+SM.
+SYM.
+Ti
+TYP.
+UNO
+VERT.
+VL.
+WP.
+WWR.
+Wi
+
+KIP
+
+LONG
+
+LIVE LOAD
+
+LONG LEG HORIZONTAL
+LONG LEG VERTICAL
+LONG SIDE HORIZONTAL
+LONG SIDE VERTICAL
+LONG WAY
+MECHANICAL
+MANUFACTURER
+
+NEW
+
+NOT IN CONTRACT
+NEAR SIDE
+
+NOT TO SCALE
+
+ON CENTER
+
+OUTSIDE FACE
+
+OUT TO OUT
+
+OPPOSITE
+
+PRECAST CONCRETE
+PANEL JOINT
+
+PLATE
+POUNDS/SQUARE FOOT
+POUNDS/SQUARE INCH
+RADIUS
+
+ROOF DRAIN
+REINFORCING
+REQUIRED
+
+SECTION
+
+SIMILAR TO
+
+SLAB ON GRADE
+SPACES
+
+SQUARE
+
+STIFFENER
+
+STEEL
+
+STRUCTURAL
+
+SHORT WAY
+SYMMETRICAL
+
+TOP OF
+
+TYPICAL
+
+UNLESS NOTED OTHERWISE
+VERTICAL
+
+VERIFY IN FIELD
+
+WORK POINT
+
+WELDED WIRE REINFORCEMENT
+WITH
+
+3030 West Streetsboro Road
+Richfield, Ohio 44286
+
+Thorson Baker + Associates
+
+CONSULTING ENGINEERS
+
+DENNIS P. MAILLE, PE:&2625,
+EB:0007857; EXPIRES: 02-28-2023
+
+All design materials prepared by Fax Design
+Group, LLC shall remain the property of Fax
+Design Group, LLC, which shall also retain all
+common law, statutory and other rights, including
+‘the copyright thereto
+
+DESIGN GROUP
+
+FL LICENSE: AA26003844
+
+FOX DESIGN GROUP, LLC
+33730 BAINBRIDGE ROAD, 2ND FLOOR
+
+SOLON, OH 44139
+www. foxdesigngroup.net
+
+a
+
+GALAXY
+
+—
+LL
+ui
+
+S
+oO 7
+=z .
+a
+=a,
+Ir
+aro)
+at
+
+>
+<
+<
+©
+LL.
+ol
+O
+©
+
+PROJECT NUMBER: 01168
+
+NO. | ISSUE DATE
+
+BID-PERMIT 03-26-21
+
+DRAWING:
+GENERAL NOTES
+
+(330) 659-6688 Ph.
+(330) 659-6675 Fax
+
+SHEET NUMBER:
+
+91.1
+

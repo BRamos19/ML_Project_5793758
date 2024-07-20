@@ -1,0 +1,1053 @@
+DIVISION 5 - METALS
+
+SECTION 05500 - MISC. METAL FABRICATIONS
+
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+
+A. Pipe bollards
+B. Steel ladder frame with treads.
+
+1.02 SYSTEM DESCRIPTION
+
+A. Design ladder assembly to support live load of 100 pounds per square foot
+with deflection of stringer or landing framing not to exceed 1/180 of span.
+
+PART 2 PRODUCTS
+
+2.01 MATERIALS
+
+Steel Sections: ASTM A36.
+
+Steel Plate: ASTM A283.
+
+. Steel Tubing: ASTM A500, Grade B.
+
+Pipe: ASTM A53, Grade B Schedule 40.
+
+Sheet Steel: ASTM A653, Grade B Structural Quality with galvanized coating.
+Bolts, Nuts, and Washers: ASTM A325.
+
+. Handrail Fittings: Elbows, T-shapes, wall brackets, escutcheons; machined
+steel.
+
+Welding Materials: AWS D1.1.
+
+Shop and Touch-Up Primer: SSPC 15, Type 1, red oxide.
+
+-X @mmo09m>
+
+DIVISION 6 - WOOD
+
+06100 - ROUGH CARPENTRY
+
+PART1- GENERAL
+
+1.1. SUMMARY
+
+A. Section Includes:
+1. Wood blocking and nailers.
+
+1.2 ACTION SUBMITTALS
+A. Product Data: For each type of process and factory-fabricated product.
+
+1.3. INFORMATIONAL SUBMITTALS
+
+A. Material Certificates: For dimension lumber specified to comply with minimum
+allowable unit stresses. Indicate species and grade selected for each use and
+design values approved by the ALSC Board of Review.
+
+B. Evaluation Reports: For the following, from ICC-ES:
+1. Wood-preservative-treated wood.
+2. Fire-retardant-treated wood.
+3. Power-driven fasteners.
+4. Metal framing anchors.
+
+PART2- PRODUCTS
+
+2.1 WOOD PRODUCTS, GENERAL
+
+A. Lumber: DOC PS 20 and applicable rules of grading agencies indicated. If no
+grading agency is indicated, comply with the applaicable rules of any
+rules-writing agency certified by the ALSC Board of Review. Grade lumber by an
+agency certified by the ALSC Board of Review to inspect and grade lumber
+under the rules indicated.
+
+1. Factory mark each piece of lumber with grade stamp of grading agency.
+
+B. Maximum Moisture Content of Lumber: 19 percent unless otherwise indicated.
+
+2.2. WOOD-PRESERVATIVE-TREATED LUMBER
+
+A. Preservative Treatment by Pressure Process: AWPA U1;
+Use Category UC2 for interior construction not in contact with ground,
+Use Category UC3b for exterior construction not in contact with ground, and
+Use Category UC4a for items in contact with ground.
+
+1. Preservative Chemicals: Acceptable to authorities having jurisdiction and
+containing no arsenic or chromium. Do not use inorganic boron (SBX) for
+sill plates.
+
+B. Kiln-dry lumber after treatment to a maximum moisture content of 19 percent. D
+not use material that is warped or that does not comply with requirements for
+untreated material.
+
+C. Mark lumber with treatment quality mark of an inspection agency approved by
+the ALSC Board of Review.
+
+D. Application: Treat all rough carpentry unless otherwise indicated.
+
+1. Wood cants, nailers, curbs, equipment support bases, blocking, stripping,
+and similar members in connection with roofing, flashing, vapor barriers, an
+waterproofing.
+
+2. Wood sills, sleepers, blocking, furring, stripping, and similar concealed
+members in contact with masonry or concrete.
+
+2.3 FIRE-RETARDANT-TREATED MATERIALS
+
+A. General: Where fire-retardant-treated materials are indicated, materials shall
+comply with requirements in this article, that are acceptable to authorities having
+jurisdiction, and with fire-test-response characteristics specified as determined
+by testing identical products per test method indicated by a qualified testing
+agency.
+
+B. Fire-Retardant-Treated Lumber and Plywood by Pressure Process: Products witl
+a flame-spread index of 25 or less when tested according to ASTM E 84, and
+with no evidence of significant progressive combustion when the test is
+extended an additional 20 minutes, and with the flame front not extending more
+than 10.5 feet beyond the centerline of the burners at any time during the test.
+
+1. Exterior Type: Treated materials shall comply with requirements specified
+above for fire-retardant-treated lumber and plywood by pressure process
+after being subjected to accelerated weathering according to
+ASTM D 2898. Use for exterior locations and where indicated.
+
+06100 - ROUGH CARPENTRY - Continued
+
+C. Kiln-dry lumber after treatment to maximum moisture content of 19 percent.
+
+D. Identify fire-retardant-treated wood with appropriate classification marking of
+qualitied testing agency.
+
+E. Application: Treat items indicated on Drawings, and the following:
+1. Concealed blocking.
+
+2.5 MISCELLANEOUS LUMBER
+
+A. General: Provide miscellaneous lumber indicated and lumber for support or
+attachment of other construction, including the following:
+
+Blocking.
+
+Nailers.
+
+Rooftop equipment bases and support curbs.
+
+Cants.
+
+Furring.
+
+a Pons
+
+B. Dimension Lumber Items: Construction or No. 2 grade lumber of any species.
+
+C. Concealed Boards: 19 percent maximum moisture content and any of the
+following species and grades:
+
+1. Mixed southem pine or southern pine; No. 2 grade; SPIB.
+2. Eastern softwoods; No. 2 Common grade; NeLMA.
+
+2.6 FASTENERS
+
+A. General: Fasteners shall be of size and type indicated and shall comply with
+requirements specified in this article for material and manufacture.
+1. Where rough carpentry is exposed to weather, in ground contact,
+pressure-preservative treated, or in area of high relative humidity, provide
+fasteners with hot-dip zinc coating complying with ASTM A 153/A 153M.
+
+B. Power-Driven Fasteners: Fastener systems with an evaluation report acceptable
+to authorities having jurisdiction, based on ICC-ES AC70.
+
+2.7 METAL FRAMING ANCHORS
+
+A. Manufacturers: Subject to compliance with requirements, available
+manufacturers offering products that may be incorporated into the Work include,
+but are not limited to the following:
+
+1. KC Metals Products, Inc.
+2. Simpson Strong-Tie Co., Inc.
+3. USP Structural Connectors.
+
+B. Allowable design loads, as published by manufacturer, shall meet or exceed
+those of products of manufacturers listed. Manufacturer's published values shall
+be determined from empirical data or by rational engineering analysis and
+demonstrated by comprehensive testing performed by a qualified independent
+testing agency. Framing anchors shall be punched for fasteners adequate to
+withstand same loads as framing anchors.
+
+C. Galvanized-Steel Sheet: Hot-dip, zinc-coated steel sheet complying with ASTM
+A653, G60 coating designation.
+
+1. Use for interior locations unless otherwise indicated.
+
+2.8 MISCELLANEOUS MATERIALS
+
+A. Sill-Sealer Gaskets: Closed-cell neoprene foam, 1/4 inch thick, selected from
+manufacturer's standard widths to suit width of sill members indicated.
+
+B. Flexible Flashing: Composite, self-adhesive, flashing product consisting of a
+pliable, butyl rubber or rubberized-asphalt compound, bonded to a high-density
+polyethylene film, aluminum foil, or spunbonded polyolefin to produce an overall
+thickness of not less than 0.025 inch.
+
+PART3- EXECUTION
+
+3.1. INSTALLATION, GENERAL
+
+A. Framing Standard: Comply with AF&PA's WCD 1, "Details for Conventional
+Wood Frame Construction," unless otherwise indicated.
+
+B. Set rough carpentry to required levels and lines, with members plumb, true to
+line, cut, and fitted. Fit rough carpentry accurately to other construction. Locate
+furring, nailers, blocking, grounds, and similar supports to comply with
+requirements for attaching other construction.
+
+C. Install metal framing anchors to comply with manufacturer's written instructions.
+Install fasteners through each fastener hole.
+
+D. Comply with AWPA M4 for applying field treatment to cut surfaces of
+preservative-treated lumber.
+
+E. Where wood-preservative-treated lumber is installed adjacent to metal decking,
+install continuous flexible flashing separator between wood and metal decking.
+
+F. Securely attach rough carpentry work to substrate by anchoring and fastening
+as indicated, complying with the following:
+1. Table 2304.9.1, "Fastening Schedule," in ICC's International Building Code
+(IBC).
+2. ICC-ES evaluation report for fastener.
+
+3.2 PROTECTION
+
+A. Protect wood that has been treated with inorganic boron (SBX) from weather. If,
+despite protection, inorganic boron-treated wood becomes wet, apply
+EPA-registered borate treatment. Apply borate solution by spraying to comply
+with EPA-registered label.
+
+B. Protect rough carpentry from weather. If, despite protection, rough carpentry
+becomes wet enough that moisture content exceeds that specified, apply
+EPA-registered borate treatment. Apply borate solution by spraying to comply
+with EPA-registered label.
+
+END OF SECTION 06100
+
+DIVISION 7 - THERMAL AND MOISTURE
+
+PROTECTION
+
+SECTION 07210 - BUILDING INSULATION
+
+PART 1 GENERAL
+
+1.01 SECTION INCLUDES
+A. Vinyl or PSK faced batt thermal insulation at underside of roof.
+B. Fiberglass Batt thermal insulation in exterior wall assembly.
+
+1. Unfaced
+
+2. Kraft faced
+
+3. Foil faced
+
+4. FSK faced
+
+C. Fiberglass Board [4'x8'] thermal insulation in exterior wall assembly - Ci.
+
+1. Unfaced
+
+2. Kraft faced
+
+3. FSK faced
+
+D. Extruded Polystyrene [XPS] thermal insulation at masonry cavity walls,
+foundations and under slab locations indicated on drawings.
+
+1.02 ENVIRONMENTAL REQUIREMENTS
+A. Install insulation adhesives in accordance with manufacturer's instructions.
+
+1.03 SUBMITTALS
+
+A. Submit shop drawings indicating location and installation of underside of roof,
+wall, perimeter foundation and slab insulation. Submit samples and product data
+including testing agency information on all products.
+
+1.04 CLIMATE ZONES
+A. Selection of thermal insulation product types are based on the requirements
+of the various climate zones, and associated vapor permeance.
+
+PART 2 PRODUCTS
+2.01 INSULATION MATERIALS - CLIMATE ZONE 1 & 2
+
+A. Underside of roof Fiberglass Batt Insulation per ASTM C665.
+1. Vinyl or PSK faced - Class | vapor retarder per ASTM E96 - Less than 0.1
+perms.
+2. Flame Spread 25, Smoke Developed 50 per ASTM E84
+B. Wall Fiberglass Batt Insulation per ASTM C665.
+1. Unfaced - Class Ill vapor retarder per ASTM E96 - greater than 1.0
+perms.
+2. Flame Spread 10, Smoke Developed 10 per ASTM E84
+C. Wall Fiberglass Board [4'x8'] Insulation: ASTM C612. When used as Ci -
+continuous insulation in conjunction with batt insulation.
+1. Unfaced - permeable - greater than 10 perms per ASTM E96
+2. Flame Spread 25, Smoke Developed 25 per ASTM E84.
+D. Foundation and slab insulation: Not Used.
+E. XPS at masonry cavity wall locations as indicated on drawings.
+1. Extruded Polystyrene [XPS] thermal insulation - Type IV - 25 psi
+compressive resistance.
+
+2.02 INSULATION MATERIALS - CLIMATE ZONE 3 & 4 [other than Marine 4]
+
+A. Underside of roof Fiberglass Batt Insulation per ASTM C665.
+1. Vinyl or PSK faced - Class | vapor retarder per ASTM E96 - Less than 0.1
+perms.
+B. Wall Fiberglass Batt Insulation per ASTM C665.
+1. Unfaced, Kraft faced or Foil faced - Class II or Ill vapor retarder per ASTM
+E96 - greater than 0.1 perms.
+2. Flame Spread 10, Smoke Developed 10 per ASTM E84 - unfaced.
+3. Kraft faced batt insulation must be protected with approved covering,
+i.e. Gypsum Board.
+4. Flame Spread 75, Smoke Developed 150 per ASTM E84 - Foil faced.
+C. Wall Fiberglass Board [4'x8'] Insulation: ASTM C612. When used as Ci -
+continuous insulation in conjunction with batt insulation.
+1. Unfaced - permeable - greater than 10 perms per ASTM E96
+2. Flame Spread 25, Smoke Developed 25 per ASTM E84.
+D. Masonry cavity walls, Foundations and under slab insulation as indicated on
+drawings.
+1. Extruded Polystyrene [XPS] thermal insulation - Type IV - 25 psi
+compressive resistance.
+
+2.03 INSULATION MATERIALS - CLIMATE ZONE 5, 6, 7, 8 and Marine 4
+
+A. Underside of roof Fiberglass Batt Insulation per ASTM C665.
+1. Vinyl or PSK faced - Class | vapor retarder per ASTM E96 - Less than 0.1
+perms.
+B. Wall Fiberglass Batt Insulation per ASTM C665.
+1. Kraft faced, Foil faced or FSK - Class | or Il vapor retarder per ASTM E96
+- less than or equal to 1.0 perm. [Avoid Class | vapor retarder in Climate
+Zone 5 & 6 and Marine 4]
+2. Flame Spread 10, Smoke Developed 10 per ASTM E84 - unfaced.
+3. Kraft faced batt insulation must be protected with approved covering,
+i.e. Gypsum Board.
+4. Flame Spread 75, Smoke Developed 150 per ASTM E84 - Class Il Vapor
+retarder Foil faced.
+5. or Flame Spread 25, Smoke Developed 50 per ASTM E84 - Class |
+Vapor retarder FSK. Not for use in Climate Zone 5 &6 and Marine 4
+C. Wall Fiberglass Board [4'x8'] Insulation: ASTM C612.
+1. Unfaced - permeable - greater than 10 perms per ASTM E96 when used
+as Ci - continuous insulation with batt insulation. When used alone then
+FSK is permitted but not in Climate Zone 5 &6 and Marine 4.
+2. Flame Spread 25, Smoke Developed 25 per ASTM E84.
+D. Masonry cavity walls, Foundation and under slab insulation as indicated on
+drawings.
+1. Extruded Polystyrene [XPS] thermal insulation - Type IV - 25 psi
+compressive resistance.
+
+2.02 APPROVED MANUFACTURERS
+
+A. Fiberglass Batts and Board Insultion:
+1. Owens Corning
+2. Johns Manville [ Fiberglass board = IS 300 UF - 4'x8']
+3. or approved equal
+B. Extruded Polystyrene - XPS
+1. Owens Corning - Foamular 250
+2. Dupont - Strofoam XPS
+3. or approved equal
+
+PART 3 EXECUTION
+
+3.01 EXAMINATION AND PREPARATION
+A. Verify that substrate and adjacent materials are dry and ready to receive
+insulation.
+
+3.02 INSTALLATION - BATT INSULATION
+
+A. _ Install Batt insulation in accordance with insulation manufacturer's
+instructions.
+
+Install in exterior walls to underside of roof without gaps or voids.
+Install at underside of roof without gaps or voids.
+
+Fit insulation tight in spaces. Leave no gaps or voids.
+
+Attach flanges of facing to framing members, where applicable.
+
+moon
+
+3.03 INSTALLATION - BOARD INSULATION
+
+A. _ Install board insulation in accordance with insulation manufacturer's
+instructions.
+
+B. Install at exterior walls to underside of roof without gaps or voids - Ci -
+continuous insulation.
+
+C. Fit insulation tight in spaces. Leave no gaps or voids.
+
+D. Attach with apporved adhesive and/or pins, where applicable.
+
+3.04 INSTALLATION - XPS INSULATION
+
+A. Install XPS board insulation in accordance with insulation manufacturer's
+instructions.
+
+B. Install at masonry cavity walls as indicated on drawings without gaps or
+voids, Ci - continuous insulation.
+
+C. Install at underside of slab without gaps or voids.
+
+D. Install at foundation walls without gaps or voids.
+
+END OF SECTION
+
+SECTION 07720 - ROOF ACCESSORIES
+
+1.1 SUMMARY
+A. This Section includes the following:
+1. Roof hatches
+
+1.2 MANUFACTURERS
+A. Manufacturers: Subject to compliance with requirements, provide products
+by one of the following:
+1. Bilco Co. Type S-20
+
+1.3 MATERIALS, GENERAL
+
+A. Commercial-Quality Galvanized Steel Sheet: ASTM A 526 with G90 coating
+complying with ASTM A 525.
+
+B. Insulation: Manufacturer's standard rigid or semi-rigid glass-fiber board of
+thickness indicated.
+
+C. Wood Nailers: Softwood lumber, pressure treated with water-borne
+preservatives for above-ground use, complying with AWPA C2; not less that
+1-1/2 inch thick.
+
+D. Fasteners: Same metal as metals being fastened, or nonmagnetic stainless
+steel or other non-corrosive metal as recommended by manufacturer. Match
+finish of exposed fasteners with finish of material being fastened.
+
+1. Where removal of exterior exposed fasteners affords access to building,
+provide non-removable fastener heads.
+
+E. Gaskets: Manufacturer's standard tubular or fingered design of neoprene or
+polyvinyl chloride, or block design of sponge neoprene.
+
+F. Elastomeric Sealant: Generic type recommended by unit manufacturer that
+is compatible with joint surfaces; ASTM C 920, Type S, Grade NS, Class 25,
+and Uses NT, G, and A.
+
+G. Roofing Cement: ASTM D 4586, non-asbestos, fibrated asphalt cement
+designed for trowel application or other adhesive compatible with roofing
+system.
+
+1.4 ROOF HATCHES
+
+A. General: Fabricate units to withstand 40-Ibf per sq.ft. external loading and
+20-Ibf per sq.ft. internal loading pressure. Frame with 9-inch-high,
+integral-curb, double-wall 14 gauge construction with 1-1/2 inch insulation,
+cant strips and cap flashing (roofing counterflashing), with welded or sealed
+mechanical corner joints. Provide double-wall 14 gauge cover (lid)
+construction with 1-inch insulation core. Provide gasketing and equip
+corrosion-resistant or hot-dip galvanized hardware including pintle hinges,
+hold-open devices, interior padlock hasps and both interior and exterior latch
+handles.
+
+B. Type: Single-leaf personnel access; Bilco Type S-20
+1. For Ladder Access: 3'-0” x 2'-6”.
+
+C. Materials: Zinc-coated steel sheets with red oxide primer.
+
+1.5 INSTALLATION
+
+A. General: Comply with manufacturer's instructions and recommendations.
+Coordinate with installation of roof deck and other substrates to receive
+accessory units, roof insulation, roofing and flashing, as required, to ensure
+that each element of the Work performs properly and that combined
+elements are watertight. Anchor units securely to supporting structural
+substrates, adequate to withstand lateral and thermal stresses, as well as
+inward and outward loading pressure.
+
+1. Except as otherwise indicated, install roof accessory items according to
+construction details of NRCA “Roofing and Waterproofing Manual’.
+
+B. Isolation: Where metal surfaces of units are to be installed in contact with
+incompatible metal or corrosive substrates, including wood, apply bituminous
+coating on concealed metal surfaces, or provide other permanent separation.
+
+C. Flange Seals: Unless otherwise indicated, set flanges of accessory units in a
+thick bed of roofing cement to form a seal.
+
+D. Cap Flashing: Where cap flashing is required as component of accessory,
+install to provide adequate waterproof overlap with roofing or roof flashing (as
+counter-flashing). Seal with thick bead of mastic sealant, except where
+overlap is indicated to be left open for ventilation.
+
+E. Operational Units: Test operate units with operable components. Clean and
+lubricate joints and hardware. Adjust for proper operation.
+
+1.6 CLEANING AND PROTECTION
+A. Clean exposed metal surfaces according to manufacturer's instructions.
+Touch up damaged metal coatings.
+
+END OF SECTION 07720
+
+SECTION 07900 - JOINT SEALANTS
+
+PART1- GENERAL
+
+1.1. SUMMARY
+
+A. Section Includes:
+
+Non-staining silicone joint sealants.
+Urethane joint sealants.
+Mildew-resistant joint sealants.
+Acrylic Latex joint sealants.
+Butyl-Rubber mastic/sealants.
+Joint-Sealant backing.
+
+Oar on >
+
+1.2. PREINSTALLATION MEETINGS
+Pre-installation Conference: Conduct conference at Project site.
+
+>
+
+ACTION SUBMITTALS
+Product Data: For each joint-sealant product.
+Certificate of Compliance with ASTM C920 & ASTM C1193 Standards.
+
+Samples: For each kind and color of joint sealant required.
+
+9 OD pe
+
+Joint-Sealant Schedule: Include the following information:
+
+1. Joint-sealant application, joint location, and designation.
+
+2. Joint-sealant details indicating, width, depth, backing, substrate and use of
+primers and/or bond breakers.
+
+3. Joint-sealant manufacturer and product name.
+
+Joint-sealant formulation.
+
+5. Joint-sealant color.
+
+-
+
+SECTION 07900 - JOINT SEALANTS - continued
+
+1.4. INFORMATIONAL SUBMITTALS
+A. Product test reports.
+B. Field-adhesion-test reports.
+
+C. Sample warranties.
+
+1.5 QUALITY ASSURANCE
+
+A. Testing Agency Qualifications: Qualified according to ASTM C 1021 to
+conduct the testing indicated.
+
+1.6 WARRANTY
+
+B. Special Installer's Warranty: Installer agrees to repair or replace joint sealants
+that do not comply with performance and other requirements specified in this
+Section within specified warranty period.
+
+1. Warranty Period: Two years from date of Substantial Completion.
+
+C. Special Manufacturers Warranty: Manufacturer agrees to furnish joint sealants
+to repair or replace those joint sealants that do not comply with performance
+and other requirements specified in this Section within specified warranty
+period.
+
+2. Warranty Period: Five years from date of Substantial Completion.
+
+PART 2- PRODUCTS
+
+2.1 JOINT SEALANTS, GENERAL
+
+A. Colors of Exposed Joint Sealants: Color to match adjacent surface. Final color
+selection by Architect from manufacturer's full range.
+
+2.2 NON-STAINING SILICONE JOINT SEALANTS
+
+A. Non-staining Joint Sealants: No staining of substrates when tested according to
+ASTM C 1248.
+
+B. Silicone, Non-staining, S$, NS, 50, NT: Non-staining, single-component,
+non-sag, plus 50 percent and minus 50 percent movement capability,
+non-traffic-use, neutral-curing silicone joint sealant; ASTM C 920, Type S,
+Grade NS, Class 50, Use NT.
+
+1. Manufacturers: Subject to compliance with requirements, available
+manufacturers offering products that may be incorporated into the Work
+include, but are not limited to the following:
+
+a. Dow Coming Corporation.
+b. Pecora Corporation.
+c. Tremco Incorporated.
+
+2.3 URETHANE JOINT SEALANTS
+
+A. Urethane, S, NS, 25, T, NT: Single-component, non-sag, plus 25 percent and
+minus 25 percent movement capability, traffic- and non-traffic-use, urethane
+joint sealant; ASTM C 920, Type S, Grade NS, Class 25, Uses T and NT.
+
+1. Manufacturers: Subject to compliance with requirements, available
+manufacturers offering products that may be incorporated into the Work
+include, but are not limited to the following:
+
+a. BASF Corporation; Construction Systems.
+
+b. LymTal International Inc.
+c. Pecora Corporation.
+
+d. Tremco Incorporated.
+
+B. Urethane, S, P, 25, T, NT: Single-component, pourable, plus 25 percent and
+minus 25 percent movement capability, traffic- and non-traffic-use, urethane
+joint sealant; ASTM C 920, Type S, Grade P, Class 25, Uses T and NT.
+
+1. Manufacturers: Subject to compliance with requirements, available
+manufacturers offering products that may be incorporated into the Work
+include, but are not limited to the following:
+
+a. BASF Corporation; Construction Systems.
+
+b. Pecora Corporation.
+c. Sherwin-Williams Company (The).
+
+C. Urethane, M, P, 50, T, NT: Multicomponent, pourable, plus 50 percent and
+minus 50 percent movement capability, traffic- and non-traffic-use, urethane
+joint sealant; ASTM C 920, Type M, Grade P, Class 50, Uses T and NT.
+
+1. Manufacturers: Subject to compliance with requirements, available
+manufacturers offering products that may be incorporated into the Work
+include, but are not limited to the following:
+
+a. LymTal International Inc.
+
+b. Pecora Corporation.
+c. Tremco Incorporated.
+
+2.4 MILDEW-RESISTANT JOINT SEALANTS
+
+A. Mildew-Resistant Joint Sealants: Formulated for prolonged exposure to
+humidity with fungicide to prevent mold and mildew growth.
+
+B. Silicone, Mildew Resistant, Acid Curing, S, NS, 25, NT: Mildew-resistant,
+single-component, non-sag, plus 25 percent and minus 25 percent movement
+capability, non-traffic-use, acid-curing silicone joint sealant; ASTM C 920,
+Type S, Grade NS, Class 25, Use NT.
+
+1. Manufacturers: Subject to compliance with requirements, available
+manufacturers offering products that may be incorporated into the Work
+include, but are not limited to the following:
+
+a. Dow Coming Corporation.
+b. Pecora Corporation.
+c. Tremco Incorporated.
+
+2.5 ACRYIC LATEX JOINT SEALANTS
+
+A. Acrylic Latex: Acrylic latex or siliconized acrylic latex, ASTM C 834, Type OP,
+Grade NF.
+
+1. Manufacturers: Subject to compliance with requirements, available
+manufacturers offering products that may be incorporated into the Work
+include, but are not limited to the following:
+
+a. Pecora Corporation.
+b. Sherwin-Williams Company (The).
+
+c. Tremco Incorporated.
+
+2.6 BUTYL-RUBBER MASTIC/SEALANTS
+
+A. Butyl-Rubber or Butyl Rubber and polyiosbutylene, flexible sealant / bedding
+mastic, ASTM C1311, S, NS, 12.5.
+1. Manufacturers: Subject to compliance with requirements, available
+manufacturers offering products that may be incorporated into the Work
+include, but are not limited to the following:
+
+a. Pecora Corporation.
+
+b. Tremco Incorporated.
+c. deVan Sealants Inc.
+
+Coordinate paragraphs in this article with "Joint-Sealant Schedule" Article.
+
+In addition to Type OP (for opaque sealants containing color or extended pigments)
+in "Acrylic Latex" Paragraph below, ASTM C 834 includes Type C (for clear or
+translucent sealants). Also, in addition to Grade NF (not tested for low-temperature
+flexibility) in paragraph below, ASTM C 834 includes Grades minus 18 deg C and
+zero deg C (for sealants that comply with requirements for flexibility at
+minus 18 deg C and zero deg C, respectively).
+
+2.7 JOINT-SEALANT BACKING.
+
+A. Cylindrical Sealant Backings: ASTM C 1330, Type C (closed-cell material with
+a surface skin), Type B (bi-cellular material with a surface skin) or any of the
+preceding types, as approved in writing by joint-sealant manufacturer for joint
+application indicated, and of size and density to control sealant depth and
+otherwise contribute to producing optimum sealant performance.
+
+1. Manufacturers: Subject to compliance with requirements, available
+manufacturers offering products that may be incorporated into the Work
+include, but are not limited to the following:
+
+a. Alcot Plastics Ltd.
+b. BASF Corporation; Construction Systems.
+
+c. Construction Foam Products; a division of Nomaco, Inc.
+
+B. Bond-Breaker Tape: Polyethylene tape or other plastic tape recommended by
+sealant manufacturer.
+
+SECTION 07900 - JOINT SEALANTS - continued
+
+2.8 MISCELLANEOUS MATERIALS
+
+A. Primer: Material recommended by joint-sealant manufacturer where required
+for adhesion of sealant to joint substrates indicated, as determined from
+preconstruction joint-sealant-substrate tests and field tests.
+
+B. Cleaners for Nonporous Surfaces: Chemical cleaners acceptable to
+manufacturers of sealants and sealant backing materials.
+
+C. Masking Tape: Non-staining, non-absorbent material compatible with joint
+sealants and surfaces adjacent to joints.
+
+PART3- EXECUTION
+
+3.1. PREPARATION
+
+A. Surface Cleaning of Joints: Clean out joints immediately before installing joint
+sealants to comply with joint-sealant manufacturer's written instructions and
+the following requirements:
+
+1. Remove laitance and form-release agents from concrete.
+
+2. Clean nonporous joint substrate surfaces with chemical cleaners or other
+means that do not stain, harm substrates, or leave residues capable of
+interfering with adhesion.
+
+B. Joint Priming: Prime joint substrates where recommended by joint-sealant
+manufacturer or as indicated by preconstruction joint-sealant-substrate tests
+or prior experience.
+
+C. Masking Tape: Use masking tape where required to prevent contact of sealant
+or primer with adjoining surfaces.
+
+3.2. INSTALLATION OF JOINT SEALANTS
+
+A. General: Comply with ASTM C 1193 and joint-sealant manufacturer's written
+installation instructions for products and applications indicated, unless more
+stringent requirements apply.
+
+B. Install sealant backings of kind indicated to support sealants during
+application and at position required to produce cross-sectional shapes and
+depths of installed sealants relative to joint widths that allow optimum sealant
+movement capability.
+
+C. Install bond-breaker tape behind sealants where sealant backings are not
+used between sealants and backs of joints.
+
+D. Install sealants using proven techniques that comply with the following and at
+the same time backings are installed:
+
+1. Place sealants so they directly contact and fully wet joint substrates.
+
+2. Completely fill recesses in each joint configuration.
+
+3. Produce uniform, cross-sectional shapes and depths relative to joint
+widths that allow optimum sealant movement capability.
+
+E. Tooling of Non-sag Sealants: Immediately after sealant application and before
+skinning or curing begins, tool sealants to form smooth, uniform beads of
+configuration indicated. Use tooling agents that are approved in writing by
+sealant manufacturer and that do not discolor sealants or adjacent surfaces.
+
+1. Provide concave joint profile per Figure 8A in ASTM C 1193 unless
+otherwise indicated.
+
+3.3 FIELD QUALITY CONTROL
+
+A. Field-Adhesion Testing: The Owner shall engage an independent testing
+agency to perform field quality control testing. Field test joint-sealant adhesion
+to joint substrates as follows:
+
+1. Extent of Testing: Test completed and cured sealant joints as follows:
+
+a. Perform 2 tests for the first 100 feet of joint length for each kind of
+sealant and joint substrate.
+
+2. Test Method: Test joint sealants according to Method A, Field-Applied
+Sealant Joint Hand Pull Tab, in Appendix X1 in ASTM C 1193.
+
+B. Evaluation of Field-Adhesion-Test Results: Sealants not evidencing adhesive
+failure from testing or noncompliance with other indicated requirements will be
+considered satisfactory. Remove sealants that fail to adhere to joint substrates
+during testing or to comply with other requirements. Retest failed applications
+until test results prove sealants comply with indicated requirements.
+
+3.4. JOINT-SEALANT SCHEDULE
+
+A. Joint-Sealant Application: Exterior joints in horizontal traffic surfaces (JS-1).
+1. Joint Locations:
+
+a. Isolation and contraction joints in cast-in-place concrete slabs.
+b. Other joints as indicated on Drawings.
+
+Ny
+
+Joint Sealant: Urethane, M, P, 50, T.
+3. Joint-Sealant Color: Color to match adjacent surface. Final color selection
+by Architect from manufacturer's full range of colors.
+
+B. Joint-Sealant Application: Exterior joints in vertical surfaces and horizontal
+non-traffic surfaces (JS-2).
+1. Joint Locations:
+
+Construction joints in cast-in-place concrete.
+
+Joints between plant-precast or tilt-up concrete wall panels.
+Control and expansion joints in unit masonry and masonry veneer.
+Joints in cast stone masonry.
+
+Joints in Exterior Insulation and Finish Systems (EIFS).
+
+~@ a9 F ®
+
+Perimeter joints around window and door frames.
+
+g. Other joints as indicated on Drawings.
+
+Ny
+
+Joint Sealant: Silicone, non-staining, S, NS, 50, NT.
+
+3. Joint-Sealant Color: Color to match adjacent surface. Final color selection
+by Architect from manufacturer's full range of colors for each indicated
+application.
+
+C. Joint-Sealant Application: Interior joints in horizontal traffic surfaces (JS-3).
+1. Joint Locations:
+a. Isolation joints in cast-in-place concrete slabs.
+b. Control and expansion joints in tile flooring.
+
+c. Other joints as indicated on Drawings.
+
+Joint Sealant: Urethane, S, P, 25, T.
+
+3. Joint-Sealant Color: Color to match adjacent surface. Final color selection
+by Architect from manufacturer's full range of colors for each indicated
+application.
+
+Ny
+
+D. Joint-Sealant Application: Interior joints in vertical surfaces and horizontal
+non-traffic surfaces (JS-4).
+1. Joint Locations:
+
+a. Control and expansion joints on exposed interior surfaces of exterior
+walls.
+
+b. Vertical joints on exposed surfaces of concrete unit masonry walls.
+
+c. Joints between plant-precast or tilt-up concrete wall panels, unless
+otherwise specified.
+
+d. Perimeter joints around window and door frames.
+
+e. Other joints as indicated on Drawings.
+
+Joint Sealant: Urethane, S, NS, 25, NT.
+
+3. Joint-Sealant Color: Color to match adjacent surface. Final color selection
+by Architect from manufacturer's full range of colors for each indicated
+application.
+
+Ny
+
+E. Joint-Sealant Application: Interior joints in vertical surfaces and horizontal
+non-traffic surfaces not subject to significant movement (JS-5).
+1. Joint Locations:
+
+a. Perimeter joints between interior wall surfaces and frames of interior
+doors and windows.
+
+b. Other joints as indicated on Drawings.
+
+2. Joint Sealant: Acrylic latex, OP, NF.
+
+3. Joint-Sealant Color: Color to match adjacent surface. Final color selection
+by Architect from manufacturer's full range of colors.
+
+F. Joint-Sealant Application: Mildew-resistant interior joints in vertical surfaces
+and horizontal non-traffic surfaces (JS-6).
+1. Joint Locations:
+
+a. Joints between plumbing fixtures and adjoining walls, floors, and
+counters.
+
+b. Tile control and expansion joints where indicated.
+
+c. Other joints as indicated on Drawings.
+
+Ny
+
+Joint Sealant: Silicone, mildew resistant, acid curing, S, NS, 25, NT.
+
+3. Joint-Sealant Color: Color to match adjacent surface. Final color selection
+by Architect from manufacturer's full range of colors for each indicated
+application.
+
+G. Joint-Sealant Application: Concealed mastics (JS-7).
+1. Joint Locations:
+
+a. Aluminum thresholds.
+b. Sill plates.
+
+c. Other joints as indicated on Drawings.
+2. Joint Sealant: Butyl-rubber based.
+3. Joint-Sealant Color: Gray.
+
+END OF SECTION 079200
+
+SECTION 08410 - ALUMINUM ENTRANCES AND
+
+PART1- GENERAL
+
+1.1. Related Documents
+A. Drawings and general provisions of the Contract, including General and
+Supplementary Conditions and Division 01 Specification Sections, apply to this
+Section.
+
+1.2 Summary
+
+A. Section Includes: Kawneer Architectural Aluminum Storefront Systems,
+including perimeter trims, stools, accessories, shims and anchors, and
+perimeter sealing of storefront units.
+
+1. Types of Kawneer Aluminum Storefront Systems include:
+
+a. Trifab™ VG 451T Framing System - 2" x 4-1/2" (50.8 mm x 114.3 mm)
+nominal dimension; Thermal; Front, Center, Back, Multi-Plane, Structural
+Silicone or Weatherseal Glazed (Type B); Screw Spline, Shear Block, Stick
+or Punched Opening Fabrication.
+
+b. Trifab™ VG 451T Framing System - Impact Glazing.
+
+c. 190 Standard Doors with 1" insulated glazing.
+
+B. Related Sections:
+
+1. 07900 - Sealants and Caulking
+2. 08800 - Glazing
+
+1.3 Definitions
+
+A. Definitions: For fenestration industry standard terminology and definitions refer
+to American Architectural Manufacturers Association (AAMA) - AAMA Glossary
+(AAMA AG).
+
+1.4 Performance Requirements
+
+A. Storefront System Performance Requirements:
+
+1. Wind loads: Provide storefront system; include anchorage, capable of
+withstanding wind load design pressures as indicated on the drawings.
+
+2. Air Leakage: The test specimen shall be tested in accordance with ASTM E
+283. Air Leakage rate shall not exceed 0.06 cfim/ft2 at a static air pressure
+differential of 6.2 psf with interior seal, or, rate shall not exceed 0.06 cfm/ft2 at
+a static air pressure differential of 1.6 psf without interior seal.
+
+3. Water Resistance: The test specimen shall be tested in accordance with
+ASTM E 331. There shall be no leakage at a minimum static air pressure
+differential of 8 psf as defined in AAMA 501.
+
+4. Uniform Load: A static air design load of 35 psf shall be applied in the positive
+and negative direction in accordance with ASTM E 330. There shall be no
+deflection in excess of L/175 of the span of any framing member. At a
+structural test load equal to 1.5 times the specified design load, no glass
+breakage or permanent set in the framing members in excess of 0.2% of their
+clear spans shall occur.
+
+5. Seismic: When tested to AAMA 501.4, system must meet design
+displacement of 0.010 x the story height and ultimate displacement of 1.5 x
+the design displacement.
+
+6. Thermal Movements: Allow for thermal movements resulting from the
+following maximum change (range) in ambient and surface temperatures:
+
+a. Temperature Change (Range): 0 deg F; 180 deg F.
+
+b. Test Interior Ambient-Air Temperature: 75 deg F.
+
+c. Test Performance: No buckling; stress on glass; sealant failure; excess
+stress on framing, anchors, and fasteners; or reduction of performance
+when tested according to AAMA 501.5 for a minimum 3 cycles.
+
+7. Windborne-Debris-Impact Resistance Performance: Shall be tested in
+accordance with ASTM E 1886, information in ASTM E 1996 and TAS
+201/203.
+
+a. Large-Missile Impact: For aluminum-framed systems located within 30 feet
+of grade.
+
+b. Small-Missile Impact: For aluminum-framed systems located above 30 feet
+of grade.
+
+mcgarchitecture.com
+
+i—J
+a 2
+=
+fre
+Lat
+akaes
+Seal:
+A Project for:
+
+WARM DARK SHELL
+CASSELBERRY COMMONS
+1455 FL-436 SUITE 251
+CASSELBERRY, FL 32707
+
+Client:
+SITE CENTERS
+3300 ENTERPRISE PARKWAY
+BEACHWOOD, OH 44122
+Revisions:
+Issued for Bid-Permit 10-15-2021
+No. Description Date
+Project No.: 20.379.20
+Drawn By: M.1RA
+Reviewed By: TRG
+Scale: AS NOTED
+Date: 10-15-21
+Filename:
+Sheet Title:
+
+SPECIFICATIONS
+
+Sheet #:
+
+A002
+
+© MCG ARCHITECTURE 2021 ALL RIGHTS RESERVED

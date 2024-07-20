@@ -1,0 +1,502 @@
+4{2/2021 10:58:16 AM
+
+084113 - ALUMINUM-FRAMED ENTRANCES AND
+STOREFRONTS
+
+PART 1- GENERAL
+1.1. RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+
+1.2 SUMMARY
+
+A. Section Includes:
+
+1. Interior storefront framing.
+
+2. Interior manual-swing entrance doors and door-frame units.
+
+1.3 ACTION SUBMITTALS
+
+A. Product Data: For each type of product.
+
+1. Include construction details, material descriptions, dimensions of individual components and profiles, and
+finishes.
+
+B. Shop Drawings: For aluminum-framed entrances and storefronts. Include plans, elevations, sections, full-size
+details, and attachments to other work.
+
+1. Include details of provisions for assembly expansion and contraction and for draining moisture occurring within
+the assembly to the exterior.
+
+2. Include full-size isometric details of each vertical-to-horizontal intersection of aluminum-framed entrances and
+storefronts, showing the following:
+
+a. Joinery, including concealed welds.
+b. Anchorage.
+
+c. Expansion provisions.
+
+d. Glazing.
+
+e. Flashing and drainage.
+
+3. Show connection to and continuity with adjacent thermal, weather, air, and vapor barriers.
+
+C. Entrance Door Hardware Schedule: Prepared by or under supervision of supplier, detailing fabrication and
+assembly of entrance door hardware, as well as procedures and diagrams. Coordinate final entrance door hardware
+schedule with doors, frames, and related work to ensure proper size, thickness, hand, function, and finish of entrance
+door hardware.
+
+1.4. WARRANTY
+
+A. Special Warranty: Installer agrees to repair or replace components of aluminum-framed entrances and storefronts
+that do not comply with requirements or that fail in materials or workmanship within specified warranty period.
+PART 2- PRODUCTS
+2.1. PERFORMANCE REQUIREMENTS
+
+A. General Performance: Comply with performance requirements specified, as determined by testing of aluminum-
+framed entrances and storefronts representing those indicated for this Project without failure due to defective
+manufacture, fabrication, installation, or other defects in construction.
+
+1. Aluminum-framed entrances and storefronts shall withstand movements of supporting structure including, but
+not limited to, story drift, twist, column shortening, long-term creep, and deflection from uniformly distributed and
+concentrated live loads.
+
+2. Failure also includes the following:
+
+a. Thermal stresses transferring to building structure.
+
+b. Glass breakage.
+
+c. Noise or vibration created by wind and thermal and structural movements.
+
+d. Loosening or weakening of fasteners, attachments, and other components.
+
+e. Failure of operating units.
+
+B. Seismic Performance: Aluminum-framed entrances and storefronts shall withstand the effects of earthquake
+motions determined according to ASCE/SEI 7. Seismic Drift Causing Glass Fallout: Complying with criteria for passing
+based on building occupancy type when tested according to AAMA 501.6 at design displacement.
+
+2.2 FRAMING
+
+A. Framing Members: Manufacturer's extruded- or formed-aluminum framing members of thickness required and
+reinforced as required to support imposed loads.
+
+B. Backer Plates: Manufacturer's standard, continuous backer plates for framing members, if not integral, where
+framing abuts adjacent construction. Brackets and Reinforcements: Manufacturer's standard high-strength aluminum
+with nonstaining, nonferrous shims for aligning system components.
+
+2.3 ENTRANCE DOOR SYSTEMS
+
+A. Entrance Doors: Manufacturer's standard glazed entrance doors for manual-swing operation.
+2.4 ENTRANCE DOOR HARDWARE
+
+A. General: Provide entrance door hardware and entrance door hardware sets indicated in door and frame schedule
+for each entrance door to comply with requirements in this Section.
+
+B. Panic Exit Devices where shown: BHMA A156.3, Grade 1, listed and labeled by a testing and inspecting agency
+acceptable to authorities having jurisdiction, for panic protection, based on testing according to UL 305.
+
+C. Closers: BHMA A156.4, Grade 1, with accessories required for a complete installation, sized as requited by door
+size, exposure to weather, and anticipated frequency of use; adjustable to comply with field conditions and requirements
+for opening force.
+
+D. Concealed Overhead Holders: BHMA A156.8, Grade 1.
+
+E. Door Stops: BHMA A156.16, Grade 1, floor or wall mounted, as appropriate for door location indicated, with
+integral rubber bumper.
+
+2.5 FABRICATION
+
+A. Form or extrude aluminum shapes before finishing.
+
+B. Weld in concealed locations to greatest extent possible to minimize distortion or discoloration of finish. Remove
+weld spatter and welding oxides from exposed surfaces by descaling or grinding.
+
+C. Entrance Door Frames: Reinforce as required to support loads imposed by door operation and for installing
+entrance door hardware.
+
+D. Entrance Doors: Reinforce doors as required for installing entrance door hardware.
+
+E. Entrance Door Hardware Installation: Factory install entrance door hardware to the greatest extent possible. Cut,
+drill, and tap for factory-installed entrance door hardware before applying finishes. After fabrication, clearly mark
+components to identify their locations in Project according to Shop Drawings.
+
+2.6 SOURCE QUALITY CONTROL
+
+A. Structural Sealant: Perform quality-control procedures complying with ASTM C 1401 recommendations
+including, but not limited to, assembly material qualification procedures, sealant testing, and assembly fabrication
+reviews and checks.
+
+PART3- EXECUTION
+3.1. EXAMINATION
+
+A. Examine areas, with Installer present, for compliance with requirements for installation tolerances and other
+conditions affecting performance of the Work. Proceed with installation only after unsatisfactory conditions have been
+corrected.
+
+3.2 PREPARATION
+
+A. Prepare surfaces that are in contact with structural sealant according to sealant manufacturer's written instructions
+to ensure compatibility and adhesion. Preparation includes, but is not limited to, cleaning and priming surfaces.
+3.3 INSTALLATION
+
+A. General:
+
+1. Comply with manufacturer's written instructions.
+
+2. Fit joints to produce hairline joints free of burrs and distortion.
+
+3. Install anchors with separators and isolators to prevent metal corrosion and electrolytic deterioration and to
+prevent impeding movement of moving joints.
+
+B. Install operable units level and plumb, securely anchored, and without distortion. Adjust weather-stripping contact
+and hardware movement to produce proper operation.
+
+C. Entrance Doors: Install doors to produce smooth operation and tight fit at contact points.Field-Installed Entrance
+Door Hardware: Installsurface-mounted entrance door hardware according to entrance door hardware manufacturers'
+written instructions using concealed fasteners to greatest extent possible.
+
+3.4 ERECTION TOLERANCES
+
+A. Erection Tolerances: Install aluminum-framed entrances and storefronts to comply with the following maximum
+tolerances:
+
+1. Plumb: 1/8 inch in 10 feet (3.2 mm in 3 m); 1/4 inch in 40 feet (6.35 mm in 12.2 m).
+
+2. Level: 1/8 inch in 20 feet (3.2 mm in 6 m); 1/4 inch in 40 feet (6.35 mm in 12.2 m).
+
+3. Alignment:
+a. Where surfaces abut in line or are separated by reveal or protruding element up to 1/2 inch (12.7 mm)
+wide, limit offset from true alignment to 1/16 inch (1.6 mm).
+b. Where surfaces are separated by reveal or protruding element from 1/2 to 1 inch (12.7 to 25.4 mm) wide,
+limit offset from true alignment to 1/8 inch (3.2 mm).
+c. Where surfaces are separated by reveal or protruding element of 1 inch (25.4 mm) wide or more, limit
+offset from true alignment to 1/4 inch (6 mm).
+4. Location: Limit variation from plane to 1/8 inch in 12 feet (3.2 mm in 3.6 m); 1/2 inch (12.7 mm) over total
+length.
+3.5 MAINTENANCE SERVICE
+A. Entrance Door Hardware:
+1. Maintenance Tools and Instructions: Furnish a complete set of specialized tools and maintenance instructions
+as needed for Owner's continued adjustment, maintenance, and removal and replacement of entrance door hardware.
+2. Initial Maintenance Service: Beginning at Substantial Completion, provide six months' full maintenance by
+skilled employees of entrance door hardware Installer. Include quarterly preventive maintenance, repair or replacement
+of worn or defective components, lubrication, cleaning, and adjusting as required for proper entrance door hardware
+operation at rated speed and capacity. Use parts and supplies that are the same as those used in the manufacture and
+installation of original equipment.
+
+084123-ALL=GLASS ENTRANCES AND
+STOREFRONTS
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+
+1.2 SUMMARY
+
+A. Section Includes:
+
+1. Interior swinging and sliding all-glass doors.
+2. All-glass sidelights.
+3. Interior all-glass storefronts.
+
+1.3 ACTION SUBMITTALS
+
+A. Product Data: For each type of product.
+
+1. Include construction details, material descriptions, dimensions of individual components and profiles, and
+finishes for all-glass system.
+
+B. Shop Drawings: For all-glass entrances and storefronts.
+
+1. Include plans, elevations, and sections.
+2. Include details of fittings and glazing
+3. Door hardware locations, mounting heights, and installation requirements.
+
+C. Entrance Door Hardware Schedule: Prepared by or under supervision of supplier, detailing fabrication and
+assembly of entrance door hardware, as well as procedures and diagrams. Coordinate final entrance door hardware
+schedule with doors sidelights, and related work to ensure proper size, thickness, hand, function, and finish of entrance
+door hardware.
+
+1.4 INFORMATIONAL SUBMITTALS.
+
+A. Product Test Reports: For all-glass systems, for tests performed by manufacturer and witnessed by a qualified
+testing agency. Field quality-control reports. Sample Warranty: For special warranty.
+1.5 QUALITY ASSURANCE
+
+A. Installer Qualifications: Manufacturer's authorized representative who is trained and approved for installation of
+units required for this Project.
+
+B. Product Options: Information on Drawings and in Specifications establishes requirements for aesthetic effects and
+performance characteristics of assemblies. Aesthetic effects are indicated by dimensions, arrangements, alignment, and
+profiles of components and assemblies as they relate to sightlines, to one another, and to adjoining construction.
+
+PART 2- PRODUCTS
+2.1. PERFORMANCE REQUIREMENTS
+
+A. General Performance: Comply with performance requirements specified, as determined by testing of all-glass
+entrances and storefronts representing those indicated for this Project without failure due to defective manufacture,
+fabrication, installation, or other defects in construction.
+
+B. Seismic Performance: All-glass entrances and storefronts shall withstand the effects of earthquake motions
+determined according to ASCE/SEI 7.
+
+2.2 GLASS
+
+A. Glass: ASTM C 1048, Kind FT (fully tempered), Condition A (uncoated surfaces), Type | (transparent), tested for
+surface and edge compression per ASTM C 1048 and for impact strength per 16 CFR 1201 for Category II materials.
+Class 1: Clear monolithic. Butt Edges: Flat ground. Corner Edges: Lap-joint corners with exposed edges polished.
+
+2.3 ENTRANCE DOOR HARDWARE
+
+A. General: Heavy-duty entrance door hardware units in sizes, quantities, and types recommended by manufacturer
+for all-glass entrance systems indicated.
+
+B. Concealed Floor Closers and Top Pivots: Center hung; BHMA A156.4, Grade 1; including cases, bottom arms, top
+walking beam pivots, plates, and accessories required for complete installation. Concealed Overhead Holder: BHMA
+A156.8, Grade 1, with dead-stop setting coordinated with concealed floor closer.
+
+2.4 BUTT-GLAZING SEALANTS
+
+A. Single-Component, Nonsag, Acid-Curing Silicone Joint Sealant: ASTM C 920, Type S, Grade NS, Class 25, for
+Uses NT, G, and A.
+
+2.5 FABRICATION
+
+A. Provide holes and cutouts in glass to receive hardware, fittings, and accessory fittings before tempering glass. Do
+not cut, drill, or make other alterations to glass after tempering. Fully temper glass using horizontal (roller-hearth)
+process, and fabricate so that when glass is installed, roll-wave distortion is parallel with bottom edge of door or lite.
+Factory assemble components and factory install hardware and fittings to greatest extent possible.
+
+PART3- EXECUTION
+3.1 EXAMINATION
+
+A Examine areas and conditions, with Installer present, for compliance with requirements for installation tolerances
+and other conditions affecting performance of the Work. Proceed with installation only after unsatisfactory conditions
+have been corrected.
+
+3.2 INSTALLATION
+
+A. Install all-glass systems and associated components according to manufacturer's written instructions. Set units
+level, plumb, and true to line, with uniform joints. Maintain uniform clearances between adjacent components. Lubricate
+hardware and other moving parts according to manufacturer's written instructions. Set, seal, and grout floor closer cases
+as required to suit hardware and substrate indicated. Install butt-joint sealants according to manufacturer's instructions.
+3.3 FIELD QUALITY CONTROL
+
+A. After completion of all-glass storefront installation and nominal curing of sealant and glazing compounds, but
+before installation of interior finishes, test for water leaks according to AAMA 501.2. Work will be considered defective if
+it does not pass tests and inspections. Prepare test and inspection reports.
+
+3.4 ADJUSTING AND CLEANING
+
+A. Adjust all-glass entrance doors and hardware to produce smooth operation and tight fit at contact points. For all-
+glass entrance doors accessible to people with disabilities, adjust closers to provide a three-second closer sweep period
+for doors to move from a 70-degree open position to 3 inches (75 mm) from the latch measured to the leading door
+edge. Remove excess sealant and glazing compounds and dirt from surfaces.
+
+104413-FIRE PROTECTION CABINETS 104416-FIRE EXTINGUISHERS
+
+PART1- GENERAL
+1.1. RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+
+1.2 SUMMARY
+
+A. Section Includes:
+
+1. Fire-protection cabinets for the following:
+a. Portable fire extinguishers.
+b. Fire hose valves.
+c. Fire hoses and racks.
+1.3 ACTION SUBMITTALS
+
+A. Product Data: For each type of product. Show door hardware, cabinet type, trim style, and panel style. Include
+roughing-in dimensions and details showing recessed-, semirecessed-, or surface-mounting method and relationships
+of box and trim to surrounding construction.
+
+1. Show location of knockouts for hose valves.
+
+B. Shop Drawings: For fire-protection cabinets. Include plans, elevations, sections, details, and attachments to other
+work.
+
+C. Product Schedule: For fire-protection cabinets. Indicate whether recessed, semirecessed, or surface mounted.
+Coordinate final fire-protection cabinet schedule with fire-extinguisher schedule to ensure proper fit and function.[ Use
+same designations indicated on Drawings. ]
+
+1.4 CLOSEOUT SUBMITTALS
+
+A. Maintenance Data: For fire-protection cabinets to include in maintenance manuals.
+1.5 COORDINATION
+
+A. Coordinate size of fire-protection cabinets to ensure that type and capacity of [fire extinguishers] [fire hoses, hose
+valves, and hose racks] indicated are accommodated.
+
+B. Coordinate sizes and locations of fire-protection cabinets with wall depths.
+
+PART 2- PRODUCTS
+2.1. PERFORMANCE REQUIREMENTS
+
+A. Fire-Rated Fire-Protection Cabinets: Listed and labeled to comply with requirements in ASTM E 814 for fire-
+resistance rating of walls where they are installed.
+
+B. Electrical Components, Devices, and Accessories: Listed and labeled as defined in NFPA 70, by a qualified
+testing agency, and marked for intended location and application.
+
+2.2 FIRE-PROTECTION CABINET
+
+A. Cabinet Type: Suitable for fire extinguisher and hose valve where shown.
+
+B. Cabinet Material: Aluminum sheet for non-rated locations. Stee! sheet at rated enclosures.
+
+C. Recessed Cabinet: Trimless with Concealed Flange: Surface of surrounding wall finishes flush with exterior
+finished surface of cabinet frame and door, without overlapping trim attached to cabinet. Provide recessed flange, of
+same material as box, attached to box to act as drywall bead.
+
+D. Semirecessed Cabinet: One-piece combination trim and perimeter door frame overlapping surrounding wall
+surface with exposed trim face and wall return at outer edge (backbend).
+
+E. Surface-Mounted Cabinet: Cabinet box fully exposed and mounted directly on wall with no trim.
+
+F. Door Hardware: Manufacturer's standard door-operating hardware of proper type for cabinet type, trim style, and
+door material and style indicated.
+
+2.3 FABRICATION
+
+A. Fire-Protection Cabinets: Provide manufacturer's standard box (tub) with trim, frame, door, and hardware to suit
+cabinet type, trim style, and door style indicated. Cabinet Doors: Fabricate doors according to manufacturer's standards,
+from materials indicated and coordinated with cabinet types and trim styles. Cabinet Trim: Fabricate cabinet trim in one
+piece with corners mitered, welded, and ground smooth.
+
+2.4 GENERAL FINISH REQUIREMENTS
+
+A. Comply with NAAMM's AMP 500, "Metal Finishes Manual for Architectural and Metal Products," for
+recommendations for applying and designating finishes. Protect mechanical finishes on exposed surfaces of fire-
+protection cabinets from damage by applying a strippable, temporary protective covering before shipping. Finish fire-
+protection cabinets after assembly.
+
+B. Appearance of Finished Work: Noticeable variations in same piece are not acceptable. Variations in appearance of
+adjoining components are acceptable if they are within the range of approved Samples and are assembled or installed
+to minimize contrast.
+
+PART 3- EXECUTION
+3.1. EXAMINATION
+
+A. Examine roughing-in for hose valves and cabinets to verify actual locations of piping connections before cabinet
+installation. Examine walls and partitions for suitable framing depth and blocking where recessed and semirecessed
+cabinets will be installed. Proceed with installation only after unsatisfactory conditions have been corrected. Prepare
+recesses for recessed and semirecessed fire-protection cabinets as required by type and size of cabinet and trim style.
+3.2 INSTALLATION
+
+A. Fire-Protection Cabinets: Fasten cabinets to structure, square and plumb. Unless otherwise indicated, provide
+recessed fire-protection cabinets. If wall thickness is inadequate for recessed cabinets, provide semirecessed fire-
+protection cabinets. Provide inside latch and lock for break-glass panels. Fasten mounting brackets to inside surface of
+fire-protection cabinets, square and plumb.Identification: Apply vinyl lettering at locations indicated.
+
+3.3 ADJUSTING AND CLEANING
+
+A. Remove temporary protective coverings and strippable films, if any, as fire-protection cabinets are installed
+unless otherwise indicated in manufacturer's written installation instructions.
+
+B. Adjust fire-protection cabinet doors to operate easily without binding. Verify that integral locking devices operate
+properly. On completion of fire-protection cabinet installation, clean interior and exterior surfaces as recommended by
+manufacturer.
+
+C. Touch up marred finishes, or replace fire-protection cabinets that cannot be restored to factory-finished
+appearance. Use only materials and procedures recommended or furnished by fire-protection cabinet and mounting
+bracket manufacturers. Replace fire-protection cabinets that have been damaged or have deteriorated beyond
+successful repair by finish touchup or similar minor repair procedures.
+
+PART1- GENERAL
+1.1. RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section includes portable, hand-carried fire extinguishers and mounting brackets for fire extinguishers.
+B. Owner-Furnished Material: Hand-carried fire extinguishers.
+1.3. ACTION SUBMITTALS
+A. Product Data: For each type of product. Include rating and classification, material descriptions, dimensions of
+individual components and profiles, and finishes for fire extinguisher and mounting brackets.
+1.4 INFORMATIONAL SUBMITTALS
+. Warranty: Sample of special warranty.
+CLOSEOUT SUBMITTALS
+. Operation and Maintenance Data: For fire extinguishers to include in maintenance manuals.
+COORDINATION
+. Coordinate type and capacity of fire extinguishers with fire-protection cabinets to ensure fit and function.
+WARRANTY
+. Special Warranty: Manufacturer's standard form in which manufacturer agrees to repair or replace fire
+extinguishers that fail in materials or workmanship within specified warranty period. Warranty Period: Six years from
+date of Substantial Completion.
+PART 2- PRODUCTS
+2.1. PERFORMANCE REQUIREMENTS
+A. NFPA Compliance: Fabricate and label fire extinguishers to comply with NFPA 10, "Portable Fire
+Extinguishers."
+B. Fire Extinguishers: Listed and labeled for type, rating, and classification by an independent testing agency
+acceptable to authorities having jurisdiction.
+2.2 MOUNTING BRACKETS
+A. Mounting Brackets: Manufacturer's standard galvanized steel, designed to secure fire extinguisher to wall or
+structure, of sizes required for types and capacities of fire extinguishers indicated, with plated or red baked-enamel
+finish. Identification: Lettering complying with authorities having jurisdiction for letter style, size, spacing, and
+location. Locate as indicated by Architect.
+PART3- EXECUTION
+3.1. EXAMINATION
+A. Examine fire extinguishers for proper charging and tagging. Remove and replace damaged, defective, or
+undercharged fire extinguishers. Proceed with installation only after unsatisfactory conditions have been corrected.
+3.2 INSTALLATION
+A. General: Install fire extinguishers and mounting brackets in locations indicated and in compliance with
+requirements of authorities having jurisdiction. Mounting Brackets: Fasten mounting brackets to surfaces, square and
+plumb, at locations indicated.
+
+convivat7
+Care Solutions
+GATEWAY
+
+JACKSONVILLE
+EXPANSION
+
+5238-16 Norwood Ave.,
+Suite 25,
+Jacksonville, FL 33208
+
+GEORGE W. DE LA HOZ
+FL LICENSE #AR0016664
+
+ISSUE FOR PERMIT
+90% CD PROGRESS SET
+
+04/02/2021
+02/19/2021
+
+Delta_Issue Description Date
+Nr.
+
+INTERIOR
+ARCHITECTS, RE.
+
+NM A M
+
+150 ALHAMBRA CIRCLE
+SUITE 800
+CORAL GABLES, FLORIDA 33134
+TEL 786-405-0230
+
+©2021 INTERIOR ARCHITECTS P.-C. LICENSE #AA26001062.
+ALL DRAWINGS AND WRITTEN MATERIAL HERE IN CONSTITUTE THE
+ORIGINAL AND UNPUBLISHED WORK OF THE ARCHITECT, AND THE
+SAME MAY NOT BE DUPLICATED, USED, OR DISCLOSED WITHOUT THE
+WRITTEN CONSENT OF THE ARCHITECT.
+
+Drawn: VM Check: Checker Owner Approval:
+
+Job No: 37HUMX.0331.000 Scale: 12" = 1'-0"
+
+mw SPECIFICATIONS
+
+wAN-2.15
+

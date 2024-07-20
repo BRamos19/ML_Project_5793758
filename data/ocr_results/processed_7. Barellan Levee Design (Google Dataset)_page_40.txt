@@ -1,0 +1,119 @@
+DATE PLOTTED: 12 March 2024 9:59 AM BY : AARON WARD
+
+Centreline Data
+
+Centreline Data
+
+X = 460989.83 X= 46121151
+Y = 6205382.47 4 959 ; Y = 6205313.41
+Z= 157.42 4h 0.25% 25% -% Z= 157.26 2% -2.8% 05%
+
+DATUM RL 156.50
+
+157.324 |/
+
+DATUM RL 156.50
+
+DESIGN SURFACE a; 8) = &| 8 DESIGN SURFACE
+EXISTING SURFACE EXISTING SURFACE
+OFFSET OFFSET
+CHAINAGE 34.587 CHAINAGE 39.795
+Centreline Data Centreline Data
+X = 460985.24 X= 461205.41
+Y = 6205368,62 F 3 ; Y = 6205204.58
+2= 157.52 i ci a mt _ Z= 157.45 as % ah
+DATUM RL 156.50 L DATUM RL 156.50
+DESIGN SURFACE DESIGN SURFACE
+
+157.524
+
+157.266
+
+EXISTING SURFACE
+OFFSET
+CHAINAGE 20.000 CHAINAGE 20.000
+Centreline Data Centreline Data
+X = 480983.02 X= 461203.14
+Y = 6205361.93 -3% 4% ting Y = 6205287.54 4% 4%
+Z= 157.65 mn Z= 157.68 a ees
+DATUM RL 156.50 DATUM RL 156.50
+
+DESIGN SURFACE
+
+EXISTING SURFACE
+
+OFFSET
+
+LEGEND - CROSS AND LONG SECTIONS
+FINISHED SURFACE PROFILE
+
+—— ———| EXISTING SURFACE PROFILE
+
+——_ — — ——|_ 1% AEP FLOOD PROFILE
+
+CHAINAGE 12.944
+
+RS06 KOOBA STREET CROSS SECTIONS
+SCALE H 1:100m V 1:100m
+
+CHAINAGE 12.604
+
+RS07 BOX STREET CROSS SECTIONS
+SCALE H 1:100m V 1:100m
+
+FOR CONSTRUCTION
+NARRANDERA SHIRE COUNCIL
+
+© Dryside Engineering (Aust) Pty Ltd.
+
+This plan and the design here within is produced by
+
+XREF's: P-RS02-XS-01; P-RS08-XS-01; P-RS03-XS-01; P-RS04-XS-01; P-RS05-XS-01; P-RS06-XS-01; P-RS07-XS-01
+
+CAD File: C:\Users\garon\Dryside Engineering Dropbox\Dryside\1. Jobs\2023\DSE23011_Barellan_Levee\4. ENGINEERING\2.Drawings\DSE2301 1-1230.dwg
+
+12/03/2024
+
+CONSTRUCTION ISSUE
+
+DATE
+
+DESCRIPTION
+
+0 1 2
+
+SCALE 1:100
+
+Dryside Engineering solely for the use and benefit of the
+client in accordance with the terms and conditions of the
+signed contract. Dryside Engineering does not and shall
+not assume any responsibility or liability whatsoever to
+any third party arising out of any use or reliance by third
+party on the content of this document.
+
+DRYSIDE
+ENGINEERING
+
+ED HENTY
+APPROVED
+
+www.dryside.com.au
+ABN:45639039839 ED HENTY
+
+BARELLAN LEVEE DESIGN DRAWN DATE
+KURRAJONG ST AND BARELLAN CEMETERY RD A.WARD 30/05/2023] AS SHOWN | +MAHD
+
+BARELLAN, NSW 2665
+DETAILED DESIGN
+ROAD CROSS SECTIONS
+SHEET 3 OF 4
+
+DESIGNED
+A.WARD
+
+DATE|PROJECTION | SHEET SIZE
+25/05/2023}  GD94 Al
+
+DSE23011-1232
+
+>|

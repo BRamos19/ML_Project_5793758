@@ -1,0 +1,515 @@
+4/2/2021 10:58:13 AM
+
+064116 - PLASTIC-LAMINATE-FACED
+ARCHITECTURAL CABINETS
+
+PART1- GENERAL
+1.1. RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+1. Plastic-laminate-faced architectural cabinets.
+2. Wood furring, blocking, shims, and hanging strips for installing plastic-laminate-faced architectural
+cabinets unless concealed within other construction before cabinet installation.
+1.3 ACTION SUBMITTALS
+
+A. Product Data: For each type of product include data for fire-retardant treatment from chemicaltreatment
+manufacturer and certification by treating plant that treated materials comply with requirements.
+
+B. Shop Drawings: Show location of each item, dimensioned plans and elevations, large-scale details,
+attachment devices, and other components.
+
+1. Show locations and sizes of cutouts and holes for electrical switches and outlets and other items installed
+in architectural plastic-laminate cabinets.
+2. Apply Architectural Woodwork Standards Quality Certification Program label to ShopDrawings.
+1.4 INFORMATIONAL SUBMITTALS
+A. Woodwork Quality Standard Compliance Certificates: AWI Quality Certification Program certificates.
+1.5 QUALITY ASSURANCE
+
+A. Fabricator Qualifications: Shop that employs skilled workers who custom fabricate products similar to those
+required for this Project and whose products have a record of successful inservice performance. Shop is a certified
+participant in AWI's Quality Certification Program.
+
+B. Installer Qualifications: Certified participant in AWI's Quality Certification Program
+1.6 DELIVERY, STORAGE, AND HANDLING
+
+A. Do not deliver cabinets until painting and similar operations that could damage woodwork have been
+completed in installation areas. If cabinets must be stored in other than installation areas, store only in areas where
+environmental conditions comply with requirements specified in "Field Conditions" Article.
+
+1.7 FIELD CONDITIONS
+
+A. Environmental Limitations: Do not deliver or install cabinets until building is enclosed, wet work is complete,
+and HVAC system is operating and maintaining temperature and relative humidity at occupancy levels during the
+remainder of the construction period.
+
+B. Environmental Limitations: Do not deliver or install cabinets until building is enclosed, wet work is complete,
+and HVAC system is operating and maintaining temperature between 60 and 90 deg F (16 and 32 deg C).
+
+C. Field Measurements: Where cabinets are indicated to fit to other construction, verify dimensions of other
+construction by field measurements before fabrication, and indicate measurements on Shop Drawings. Coordinate
+fabrication schedule with construction progress to avoid delaying the Work.
+
+D. Established Dimensions: Where cabinets are indicated to fit to other construction, establish dimensions for
+areas where cabinets are to fit. Provide allowance for trimming at site, and coordinate construction to ensure that
+actual dimensions correspond to established dimensions.
+
+1.8 COORDINATION
+
+A. Coordinate sizes and locations of framing, blocking, furring, reinforcements, and other related units of Work
+
+specified in other Sections to ensure that cabinets can be supported and installedas indicated.
+
+PART 2 - PRODUCTS
+2.1 PLASTIC-LAMINATE-FACED ARCHITECTURAL CABINETS
+
+A. Quality Standard: Unless otherwise indicated, comply with the "Architectural WoodworkStandards' for grades
+of architectural plastic-laminate cabinets indicated for construction, finishes, installation, and other requirements.
+
+B. Grade: Custom.
+
+C. Certified Wood: Plastic-laminate cabinets shall be made from wood products certified as "FSC Pure"
+according to FSC STD-01-001, "FSC Principles and Criteria for Forest Stewardship," and FSC STD-40-004, "FSC
+Standard for Chain of Custody Certification."
+
+D. Type of Construction: As shown on drawings.
+
+E. Cabinet, Door, and Drawer Front Interface Style: As shown on drawings. Reveal Dimension: As shown on
+drawings.
+
+F. High-Pressure Decorative Laminate: NEMA LD 3, grades as indicated or if not indicated, as required by
+woodwork quality standard.
+
+G. Drawer Construction: Fabricate with exposed fronts fastened to subfront with mounting screws from interior of
+body.
+
+H. Colors, Patterns, and Finishes: As shown on drawings.
+
+2.2 WOOD MATERIALS
+
+A. Wood Products: Provide materials that comply with requirements of referenced quality standard for each type
+of woodwork and quality grade specified unless otherwise indicated. Composite Wood and Agrifiber Products:
+Provide materials that comply with requirements of referenced quality standard for each type of woodwork and
+quality grade specified unless otherwise
+
+indicated.
+2.3 FIRE-RETARDANT-TREATED MATERIALS
+
+A. Fire-Retardant-Treated Materials, General: Where fire-retardant-treated materials are indicated, use materials
+complying with requirements in this article that are acceptable to authorities having jurisdiction and with fire-test-
+response characteristics specified as determined by testing identical products per test method indicated by a
+qualified testing agency.
+
+1. Use treated materials that comply with requirements of referenced woodworking standard. Do not use
+materials that are warped, discolored, or otherwise defective.
+
+2. Use fire-retardant-treatment formulations that do not bleed through or otherwise adversely affect finishes.
+Do not use colorants to distinguish treated materials from untreated materials.
+
+3. Identify fire-retardant-treated materials with appropriate classification marking of qualified testing agency
+in the form of removable paper label or imprint on surfaces that will be concealed from view after installation.
+
+B. Fire-Retardant-Treated Lumber and Plywood: Products with a flame-spread index of 25 or less when tested
+according to ASTM E 84, with no evidence of significant progressive combustion when the test is extended an
+additional 20 minutes, and with the flame front not extending more than 10.5 feet (3.2 m) beyond the centerline of
+the bumers at any time during the test.
+
+C. Fire-Retardant Particleboard: Panels complying with the following requirements, made from softwood
+particles and fire-retardant chemicals mixed together at time of panel manufacture to achieve flame-spread index
+of 25 or less and smoke-developed index of 25 or less per ASTM E 84.
+
+2.4 CABINET HARDWARE AND ACCESSORIES
+
+A. General: Provide cabinet hardware and accessory materials associated with architectural cabinets as shown
+on drawings.
+
+2.5 MISCELLANEOUS MATERIALS
+
+A. Furring, Blocking, Shims, and Hanging Strips: Fire-retardant-treated softwood lumber, kiln dried to less than
+15 percent moisture content.
+
+B. Anchors: Select material, type, size, and finish required for each substrate for secure anchorage. Provide
+metal expansion sleeves or expansion bolts for post-installed anchors. Use nonferrousmetal or hot-dip galvanized
+anchors and inserts at inside face of exterior walls and at floors.
+
+C. Adhesives: Do not use adhesives that contain urea formaldehyde.
+
+2.6 FABRICATION
+
+A. Sand fire-retardant-treated wood lightly to remove raised grain on exposed surfaces before fabrication.
+Fabricate cabinets to dimensions, profiles, and details indicated.
+
+B. Complete fabrication, including assembly and hardware application, to maximum extent possible before
+shipment to Project site. Disassemble components only as necessary for shipment and installation. Where
+necessary for fitting at site, provide ample allowance _for scribing, trimming, and fitting.
+
+C. Shop-cut openings to maximum extent possible to receive hardware, appliances, electrical work, and similar
+items. Locate openings accurately and use templates or roughing-in diagrams to produce accurately sized and
+shaped openings. Sand edges of cutouts to remove splinters and burrs.
+
+D. Install glass to comply with applicable requirements in GANA's "Glazing Manual." For glass in wood frames,
+secure glass with removable stops.
+
+PART 3- EXECUTION
+3.1. INSTALLATION
+
+A. Assemble cabinets and complete fabrication at Project site to the extent that it was not completed in the shop.
+Install cabinets level, plumb, true, and straight. Shim as required with concealed shims. Install level and plumb to a
+tolerance of 1/8 inch in 96 inches (3 mm in 2400 mm). Scribe and cut cabinets to fit adjoining work, refinish cut
+surfaces, and repair damaged finish at cuts.
+
+B. Cabinets: Install without distortion so doors and drawers fit openings properly and are accurately aligned. Adjust
+hardware to center doors and drawers in openings and to provide unencumbered operation. Complete installation of
+hardware and accessory items as_ indicated.
+
+3.2 ADJUSTING AND CLEANING
+
+A. Repair damaged and defective cabinets, where possible, to eliminate functional and visual defects; where not
+possible to repair, replace woodwork. Adjust joinery for uniformappearance.Clean, lubricate, and adjust hardware.
+Clean cabinets on exposed and semiexposed surfaces.
+
+3.3. INSTALLATION
+
+A. General: Install penetration firestopping to comply with manufacturer's written installation instructions and
+published drawings for products and applications indicated. Install forming materials and other
+accessories of types required to support fill materials during their application and in the position needed to
+produce cross-sectional shapes and depths required to achieve fire ratings indicated.
+
+3.4 CLEANING AND PROTECTION
+
+A. Clean off excess fill materials adjacent to openings as the Work progresses by methods and with cleaning
+materials that are approved _ in writing by penetration firestopping manufacturers and that do not damage
+materials in which openings occur.
+
+B. Provide final protection and maintain conditions during and after installation that ensure that penetration
+firestopping is without damage or deterioration at time of Substantial Completion. If, despite such protection,
+damage or deterioration occurs, immediately cut out and remove damaged or deteriorated penetration
+firestopping and install new materials to produce systems complying with specified requirements.
+
+078413 - PENETRATION FIRESTOPPING
+
+078446 - FIRE-RESISTIVE JOINT SYSTEMS
+
+PART1- GENERAL
+1.1. RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+1. Penetrations in fire-resistance-rated walls.
+2. Penetrations in horizontal assemblies.
+3. Penetrations in smoke barriers.
+ACTION SUBMITTALS
+
+. Product Data: For each type of product indicated.
+
+. Product Schedule: For each penetration firestopping system. Include location and design designation of
+qualified testing and inspecting agency. Where Project conditions require modification to a qualified testing and
+inspecting agency's illustration for a particular penetration firestopping condition, submit illustration, with
+modifications marked, approved by penetration firestopping manufacturer's fire-protection engineer as an
+engineering judgment or equivalent fire-resistance-rated assembly.
+
+1.4 PROJECT CONDITIONS
+
+A. Environmental Limitations: Do not install penetration firestopping when ambient or substrate temperatures are
+outside limits permitted by penetration firestopping manufacturers or when substrates are wet because of rain, frost,
+condensation, or other causes.
+1.5 COORDINATION
+
+A. Coordinate construction of openings and penetrating items to ensure that penetration firestopping is installed
+according to specified requirements. Coordinate sizing of sleeves, openings, core-drilled holes, or cut openings to
+accommodate penetration firestopping.
+
+PART 2- PRODUCTS
+2.1 PENETRATION FIRESTOPPING
+
+A. Provide penetration firestopping that is produced and installed to resist spread of fire according to
+requirements indicated, resist passage of smoke and other gases, and maintain original fire-resistance rating of
+construction penetrated. Penetration firestopping systems shall be compatible with one another, with the substrates
+forming openings, and with penetrating items if any.
+
+B. Penetrations in Fire-Resistance-Rated Walls: Provide penetration firestopping with ratings determined per
+ASTM E 814 or UL 1479, based on testing at a positive pressure differential of 0.01-inch wg (2.49 Pa).
+
+C. Penetrations in Horizontal Assemblies: Provide penetration firestopping with ratings determined per
+ASTM E 814 or UL 1479, based on testing at a positive pressure differential of 0.01-inch wg (2.49 Pa).
+
+D. Penetrations in Smoke Barriers: Provide penetration firestopping with ratings determined per UL 1479.
+
+E. W-Rating: Provide penetration firestopping showing no evidence of water leakage when tested according to
+UL 1479.
+
+F. Exposed Penetration Firestopping: Provide products with flame-spread and smoke-developed indexes of less
+than 25 and 450, respectively, as determined per ASTM E 84.
+
+G. Low-Emitting Materials: Penetration firestopping sealants and sealant primers shall comply with the testing
+and product requirements of the California Department of Health Services! "Standard Practice for the Testing of
+Volatile Organic Emissions from Various Sources Using Small-Scale Environmental Chambers."
+
+H. Accessories: Provide components for each penetration firestopping system that are needed to install fill
+materials and to maintain ratings required. Use only those components specified by penetration firestopping
+manufacturer and approved by qualified testing and inspecting agency for firestopping indicated.
+
+2.2 FILL MATERIALS
+
+A. Latex Sealants: Single-component latex formulations that do not re-emulsify after cure during exposure to
+moisture.
+
+B. Firestop Devices: Factory-assembled collars formed from galvanized steel and lined with intumescent material
+sized to fit specific diameter of penetrant.
+
+C. Intumescent Composite Sheets: Rigid panels consisting of aluminum-foil-faced elastomeric sheet bonded to
+galvanized-steel sheet.
+
+D. Intumescent Putties: Nonhardening dielectric, water-resistant putties containing no solvents, inorganic fibers,
+or silicone compounds.
+
+E. Intumescent Wrap Strips: Single-component intumescent elastomeric sheets with aluminum foil on one side.
+
+F. Mortars: Prepackaged dry mixes consisting of a blend of inorganic binders, hydraulic cement, fillers, and
+lightweight aggregate formulated for mixing with water at Project site to form a nonshrinking, homogeneous mortar.
+
+G. Pillows/Bags: Reusable heat-expanding pillows/bags consisting of glass-fiber cloth cases filled with a
+combination of mineral-fiber, water-insoluble expansion agents, and fire-retardant additives. Where exposed, cover
+openings with steel-reinforcing wire mesh to protect pillows/bags from being easily removed.
+
+H. Silicone Foams: Multicomponent, silicone-based liquid elastomers that, when mixed, expand and cure in
+place to produce a flexible, nonshrinking foam.
+
+|. Silicone Sealants: Single-component, silicone-based, neutral-curing elastomeric sealants of grade indicated
+below:
+
+1. Grade: Pourable (self-leveling) formulation for openings in floors and other horizontal surfaces, and nonsag
+formulation for openings in vertical and sloped surfaces, unless indicated firestopping limits use of nonsag grade for
+both opening conditions.
+
+2.3 MIXING
+
+A. For those products requiring mixing before application, comply with penetration firestopping manufacturer's
+written instructions for accurate proportioning of materials, water (if required), type of mixing equipment, selection of
+mixer speeds, mixing containers, mixing time, and other items or procedures needed to produce products of uniform
+quality with optimum performance characteristics for application indicated.
+
+PART 3- EXECUTION
+3.1. EXAMINATION
+
+A. Examine substrates and conditions, with Installer present, for compliance with requirements for opening
+configurations, penetrating items, substrates, and other conditions affecting performance of the Work. Proceed with
+installation only after unsatisfactory conditions have been corrected.
+
+3.2 PREPARATION
+
+A. Surface Cleaning: Clean out openings immediately before installing penetration firestopping to comply with
+manufacturer's written instructions.
+
+B. Priming: Prime substrates where recommended in writing by manufacturer using that manufacturer's
+recommended products and methods. Confine primers to areas of bond; do not allow spillage and migration onto
+exposed surfaces. Masking Tape: Use masking tape to prevent penetration firestopping from contacting adjoining
+surfaces that will remain exposed on completion of the Work and that would otherwise be permanently stained or
+damaged by such contact or by cleaning methods used to remove stains. Remove tape as soon as possible without
+disturbing firestopping's seal with substrates.
+
+PART 1- GENERAL
+1.1 RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+
+1. Joints in or between fire-resistance-rated constructions.
+
+2. Joints at exterior curtain-wall/floor intersections.
+
+3. Joints in smoke barriers.
+
+ACTION SUBMITTALS
+
+. Product Data: For each type of product indicated.
+. Product Schedule: For each fire-resistive joint system. Include location and design designation of qualified
+testing agency.
+
+1. Where Project conditions require modification to a qualified testing agency's illustration for a particular fire-
+resistive joint system condition, submit illustration, with modifications marked, approved by fire-resistive joint
+system manufacturer's fire-protection engineer as an engineering judgment or equivalent fire-resistance-rated
+assembly.
+
+1.4. QUALITY ASSURANCE
+
+A. Installer Qualifications: A firm experienced in installing fire-resistive joint systems similar in material, design,
+and extent to that indicated for this Project, whose work has resulted in construction with a record of successful
+performance. Qualifications include having the necessary experience, staff, and training to install manufacturer's
+products per specified requirements. Manufacturer's willingness to sell its fire-resistive joint system products to
+Contractor or to Installer engaged by Contractor does not in itself confer qualification on buyer.
+1.5 PROJECT CONDITIONS
+
+A. Environmental Limitations: Do not install fire-resistive joint systems when ambient or substrate temperatures
+are outside limits permitted by fire-resistive joint system manufacturers or when substrates are wet due to rain, frost,
+condensation, or other causes. Install and cure fire-resistive joint systems per manufacturer's written instructions
+using natural means of ventilation or, where this is inadequate, forced-air circulation.
+1.6 COORDINATION
+
+A. Coordinate construction of joints to ensure that fire-resistive joint systems are installed according to specified
+requirements. Coordinate sizing of joints to accommodate fire-resistive joint systems.
+
+PART 2- PRODUCTS
+2.1 FIRE-RESISTIVE JOINT SYSTEMS
+
+A. Where required, provide fire-resistive joint systems that are produced and installed to resist spread of fire
+according to requirements indicated, resist passage of smoke and other gases, and maintain original fire-resistance
+rating of assemblies in or between which fire-resistive joint systems are installed. Fire-resistive joint systems shall
+accommodate building movements without impairing their ability to resist the passage of fire and hot gases.
+
+B. Joints in or between Fire-Resistance-Rated Construction: Provide fire-resistive joint systems with ratings
+determined per ASTM E 1966 or UL 2079:
+
+C. Joints at Exterior Curtain-Wall/Floor Intersections: Provide fire-resistive joint systems with rating determined
+by ASTM E 119 based on testing at a positive pressure differential of 0.01-inch wg (2.49 Pa) or ASTM E 2307. Fire-
+Resistance Rating: Equal to or exceeding the fire-resistance rating of the floor assembly.
+
+D. Joints in Smoke Barriers: Provide fire-resistive joint systems with ratings determined per UL 2079. L-Rating:
+Not exceeding 5.0 cfm/ft (0.00775 cu. m/s x m) of joint at 0.30 inch wg (74.7 Pa) at both ambient and elevated
+temperatures.
+
+E. Exposed Fire-Resistive Joint Systems: Provide products with flame-spread and smoke-developed indexes of
+less than 25 and 450, respectively, as determined per ASTM E 84.
+
+F. Low-Emitting Materials: Fire-resistive joint system sealants shall comply with the testing and product
+requirements of the California Department of Health Services’ "Standard Practice for the Testing of Volatile Organic
+Emissions from Various Sources Using Small-Scale Environmental Chambers."
+
+G. Accessories: Provide components of fire-resistive joint systems, including primers and forming materials, that
+are needed to install fill materials and to maintain ratings required. Use only components specified by fire-resistive
+joint system manufacturer and approved by the qualified testing agency for systems indicated.
+
+PART3- EXECUTION
+3.1 EXAMINATION
+
+A. Examine substrates and conditions, with Installer present, for compliance with requirements for joint
+configurations, substrates, and other conditions affecting performance of the Work.
+
+B. Proceed with installation only after unsatisfactory conditions have been corrected.
+
+3.2 PREPARATION
+
+A. Surface Cleaning: Clean joints immediately before installing fire-resistive joint systems to comply with fire-
+resistive joint system manufacturer's written instructions and the following requirements: Remove from surfaces of
+joint substrates foreign materials that could interfere with adhesion of fill materials. Clean joint substrates to produce
+clean, sound surfaces capable of developing optimum bond with fill materials. Remove loose particles remaining
+from cleaning operation. Remove laitance and form-release agents from concrete.
+
+B. Priming: Prime substrates where recommended in writing by fire-resistive joint system manufacturer using that
+manufacturer's recommended products and methods. Confine primers to areas of bond; do not allow spillage and
+migration onto exposed surfaces.
+
+C. Masking Tape: Use masking tape to prevent fill materials of fire-resistive joint system from contacting
+adjoining surfaces that will remain exposed on completion of the Work and that would otherwise be permanently
+stained or damaged by such contact or by cleaning methods used to remove stains. Remove tape as soon as
+possible without disturbing fire-resistive joint system's seal with substrates.
+
+3.3 INSTALLATION
+
+A. General: Install fire-resistive joint systems to comply with manufacturer's written installation instructions and
+published drawings for products and applications indicated.
+
+B. Install forming materials and other accessories of types required to support fill materials during their
+application and in position needed to produce cross-sectional shapes and depths required to achieve fire ratings
+indicated.
+
+1. After installing fill materials and allowing them to fully cure, remove combustible forming materials and
+other accessories not indicated as permanent components of fire-resistive joint system.
+
+C. Install fill materials for fire-resistive joint systems by proven techniques to produce the following results: Fill
+voids and cavities formed by joints and forming materials as required to achieve fire-resistance ratings indicated.
+Apply fill materials so they contact and adhere to substrates formed by joints. For fill materials that will remain
+exposed after completing the Work, finish to produce smooth, uniform surfaces that are flush with adjoining finishes.
+
+3.4 IDENTIFICATION
+
+A. Identify fire-resistive joint systems with preprinted metal or plastic labels. Attach labels permanently to
+surfaces adjacent to and within 6 inches (150 mm) of joint edge so labels will be visible to anyone seeking to
+remove or penetrate joint system. Use mechanical fasteners or self-adhering-type labels with adhesives capable
+of permanently bonding labels to surfaces on which labels are placed. Include the following information on
+labels:
+
+1. The words "Warning - Fire-Resistive Joint System - Do Not Disturb. Notify Building Management of
+Any Damage."
+
+2. Contractor's name, address, and phone number.
+
+3. Designation of applicable testing agency.
+
+4. Date of installation.
+
+5. Manufacturer's name.
+
+6. Installer's name.
+3.5 FIELD QUALITY CONTROL
+
+A. Inspecting Agency: Owner will engage a qualified testing agency to perform tests and inspections.
+
+B. Where deficiencies are found or fire-resistive joint systems are damaged or removed due to testing, repair
+or replace fire-resistive joint systems so they comply with requirements.
+
+C. Proceed with enclosing fire-resistive joint systems with other construction only after inspection reports
+are issued and installations comply with requirements.
+
+3.6 CLEANING AND PROTECTING
+
+A. Clean off excess fill materials adjacent to joints as the Work progresses by methods and with cleaning
+materials that are approved in writing by fire-resistive joint system manufacturers and that do not damage
+materials in which joints occur.
+
+B. Provide final protection and maintain conditions during and after installation that ensure fire-resistive joint
+systems are without damage or deterioration at time of Substantial Completion. If damage or deterioration
+occurs despite such protection, cut out and remove damaged or deteriorated fire-resistive joint systems
+immediately and install new materials to produce fire-resistive joint systems complying with specified
+requirements.
+
+convivat7
+Care Solutions
+GATEWAY
+
+JACKSONVILLE
+EXPANSION
+
+5238-16 Norwood Ave.,
+Suite 25,
+Jacksonville, FL 33208
+
+GEORGE W. DE LA HOZ
+FL LICENSE #AR0016664
+
+ISSUE FOR PERMIT
+90% CD PROGRESS SET
+
+04/02/2021
+02/19/2021
+
+Delta_Issue Description Date
+Nr.
+
+INTERIOR
+ARCHITECTS, RE.
+
+NM A M
+
+150 ALHAMBRA CIRCLE
+SUITE 800
+CORAL GABLES, FLORIDA 33134
+TEL 786-405-0230
+
+©2021 INTERIOR ARCHITECTS P.-C. LICENSE #AA26001062.
+ALL DRAWINGS AND WRITTEN MATERIAL HERE IN CONSTITUTE THE
+ORIGINAL AND UNPUBLISHED WORK OF THE ARCHITECT, AND THE
+SAME MAY NOT BE DUPLICATED, USED, OR DISCLOSED WITHOUT THE
+WRITTEN CONSENT OF THE ARCHITECT.
+
+Drawn: VM Check: Checker Owner Approval:
+
+Job No: 37HUMX.0331.000 Scale: 12" = 1'-0"
+
+mw: SPECIFICATIONS
+
+uAN-2.9
+

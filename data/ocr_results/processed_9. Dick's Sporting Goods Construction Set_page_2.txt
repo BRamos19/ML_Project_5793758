@@ -1,0 +1,314 @@
+PLAN REVIEW DATA - 2021
+
+Applicable Codes:
+. 2020 Florida Building Code
+2020 Florida Building Code - Plumbing
+
+2018 Intemational Fire Code
+
+2020 Florida Building Code - Mechanical
+
+2018 Life Safety Code
+
+2020 Florida Building Code - Energy Conversation
+2020 Florida Building Code -Accessibility
+
+2020 Florida Building Code - Fuel Gas Dasign and construction daoumenis as
+
+2020 National Electric Code and van fe property of Ory ceaive The
+
+use of this design end theses construction
+Yr | wSS\ | documents for the
+
+TTO Moony
+
+Occupancy Group:
+
+A. Mercantile (M) Section 309
+B. Storage (S-1) Section 311
+C. Business (B) Section 304
+
+D. Mixed Use Occupancies (Section 508)
+Seperated Occupancies (Section 508.4) Allowing No Rated (0 hour) seperation required at
+Stock Rooms or Offices (Table 508.4)
+
+t
+==1
+=i
+==T
+==1
+
+==TF-
+==TF-
+
+==
+==TF-
+
+Building Height and Area:
+A. Allowable Area: Unlimited Area, sprinklered, one-story w/ 60 feet public way or yard (507.4)
+B. Allowable Height: 1 Story
+
+E>
+===
+=F
+—E
+==tF-
+
+-
+
+FARA a
+FARA
+
+E
+FE
+r=
+I=
+
+A. _ILB (Table 601)
+
+Automatic Sprinkler System
+A. Fully sprinklered (903.2.7 & 903.3.1.1)
+B. Manual Fire alarm system not required for Group M occupancies (907.2.7) where the building is
+
+—=t
+
+25001 Emery Road, Sulte 400
+216.223.3200 onyxcreative.com
+
+FL. LIC. AR95693 Cleveland, Ohio 44128
+
+@
+
+@® @® @® 8 & @
+==TF-
+==T
+
+equipped throughout with an automatic sprinkler system installed in accordance with section td x<
+903.1.1 and the occupant notification appliances will automatically activate throughout the = VA Hi FE
+notification zones upon sprinkler waterflow (exception #2.) o | | | |
+Occupant Load I Ty TT ' (a (a y (a (a TE mM
+A. Section 1004 Occupant Load o4 ay cy) ~ ay, ay
+(Refer to Table 1004.1.2 for maximum floor area allowances per occupant) — {+-—+——_| I pC — — ¢ —
+Ke
+Mercantile = 60 SF Gross/Occupant (33,043 SF)= 551 Occupants I A iT | | ©
+Business = 150 SF Gross/Occupant (1,277SF)= 9 Occupants ee oe I IE T T
+S-1 Storage= 300 SF Gross/Occupant ( 1,504 SF) = 6 Occupants 33" CLEAR L I Se) Hh Hi Tt Th Tt 9 ay) HH A TT] T IT; co Hi E
+8-1 Mezzanine = 300 SF Gross/Occupant ( 1,691 SF) = 6 Occupants EGRESS L 4 I | | | | | | | | | e | | | | | | |
+(37.515 SF)= 572 Occupants Total WIDT . sa Hi Hi 4 ° Hi KY Ky A
+Exit Capacity (No Changes to # of Exits): all Tt I ze
+A. Minimum number of exits: (1006.2.1.1) Total occupant load = 571 occupants = 3 exits, min [ I (po | | | | (a | | | | — |
+B. Number of exits provided: 3 - (2) from Sales + (1) from Stock 7 I ap Hl et a i ay, ae | — |
+C. Minimum exit width required (section 1005.3.2) = ™ 7 l | m4 I
+C.1. Doors: 0.2 inches per person. 571 occupants x 0.2 = 115" of required door width | e == [—]
+C.2. Note Section 1005.5 :50% x 115" = 73" for remain exits if main exit (largest capacity) is o Hi Hi Ed aa Hi a @
+blocked: (1) @ 33” +(1) @ 68 = 101" (remaining doors must add up to a minimum 50% of : ee) (a | | | | (o | & er)
+egress width capacity} cy el
+D. Exit width provided: I DIMEN@ =| 3 Hi a rt m4 Hi ‘ = @
+D.1. 136” of Sales egress width provided. I Mi NSi ON) . 7 Tite
+D.2. 33" of Stock egress width provided. ] a ok "" en . == Ll =
+it i ion: I Ty ¢ “T Tr pene Tc Tr a |
+Exit And Exit Access Doorway Configuration: | | ( cy ( [7 bl ec a
+A. Separation of Exits: At least 2 exits shall be placed a distance apart equal to not less than one-half I — 7 a ~ - _— VE eS ee | fe
+the length of the maximum overall diagonal dimension of the area being served (1007.1.1) . | Pa “= —y =e
+Exception 2: Distance shall not be less than one-third the diagonal length for fully-sprinklered () I iA i on = : e
+buildings. | we T* eee ly
+. . . T T T T b ed ‘
+B. Maximum travel distance: 250 feet (Table 1017.2) I wy, Oy, Gey a Cy fa oO fa oO : is dz Syne 3
+Other Life Safety Considerations: I 7s * ‘ ~ * I
+IX. Minimum corridor width: 44” (1020.2) I 1 I ®
+IY. Dead end corridor: 20' maximum (1020.4) . Exception #2 . 50' maximum in Group M where | I SA: Px I
+‘ding is equi hroughout wi ic sprinkl : ; : — ; ——= — ———
+be equipped throughout with an automatic sprinkler system in accordance with Section | L| ' | | oS (o (oS (m & re oe | | | | (a (a (4 ay (a | | I 66° CLEAR SELF-DEVELOPED STORES
+IZ. Door clear width: 32" minimum (1010.1.1) — 1 LL - - SKsy lL Jl. - - . . - 4a I EGRESS WIDTH All work, materials, and systems shown in these
+i erica Exits/ Passageways - Class B | al I Kd HH ak & KS Kd a ae Ld EH a I the General Contractor to purchase, schedule,
+; xit Access Cooridors - Class C I | | | | | fe) fz, | , rc | | | | | r I and install complete as shown and referenced.
+F PBS ORAS Sf LaQee Rest Materials must comply with DOC FF-1 'pill test’ (804.4.1) 3 I KH ri oS KH - bi Hl E4 a bi - I © these plans and/or specifications.
+No changes to restrooms | | || L War til | | | | | |
+bons mo I
+lay Tc Tc 1
+ie ( Ct
+IN 2 oo) oi vii oi oT OC mo tT
+= rH ri of ih HH KH rh Ly HH H ae I
+1e
+|
+A Vs & = &
+4 tS +t+—_¢ +4 a +4 HH —
+©) Y Ie ivi i an . mom oe ay Seg
+1 = He a Ly m1 rt ae Ly Mt rt ae I -_~ - 4
+i HT - HT iT 1 6 -----0( i) ==
+| in 1 tI | (oy | | i | | coy | O\C
+1) Aw om om om om mom io ot 1 Tie |
+\ or {| I + tH rh +L tH rH rH hy rH HH Hy I
+| fi == = =-
+=|= == == = I
+x . I af tT Tt gaeaea gaell! ® @®@
+eae eH @ e@ eee tl LH egoeggil |
+i OOS BOOK ; A XN XN XN A i
+I le OVERALL TRAVEL DISTANCE = 199'-10" 1 1
+rN f : rt rT (250'-0" PERMITTED) mi
+Q)—] = 7, ll @@S@SSS Sill @ @eSe88 88
+= “i ut t] @
+LH me /-
+= het he het } het He
+= YI ; Me tt
+
+S &
+Oo &
+
++E
+Ut
+UE
+TE
++E
+Ut
+TE
+IE
+
+E=
+[T=
+T=
+
+=
+HE
+=I
+=II
+IE
+HE
+@ ©®
+
+Ee
+LF
+LF
+
+=
+
+E=
+[T=
+=
+
+=
+c
+i
+E-
+Ee
+
+IN
+=IE
+=I
+
+=
+i:
+
+E
+E
+=
+i:
+
+E
+E=
+=
+
+’
+\
+x,
+—
+
+a
+=a
+> 6
+—l
+—!
+54
+OLr
+—
+sw
+ro
+r
+or
+D> <x
+ron:
+ez
+co >
+oOo
+— &
+
+©
+=<
+7)
+7p)
+O
+o-
+O
+op)
+=
+—l
+<C
+o
+Zz
+o
+nu
+r
+_—
+>
+oO
+a)
+—_—
+<
+oD
+—
+—_
+=
+Lu
+oc
+O
+_—
+7)
+
+LIFE SAFETY
+FLOOR PLAN
+
+SCALE 3/32” = 1'-0"
+
+"2
+“SS
+©
+©
+S
+2?)
+=
+=
+fo)
+=.
+dp)
+WM
+=
+2
+am |
+=
+—<—-
+Li
+—
+©
+te /
+S
+=
+©
+S
+©}
+=<
+©
+Led ]
+
+PROJECT NUMBER: 18652
+
+NO. | ISSUE DATE
+BID/PERMIT 05-03-21
+
+DRAWING:
+ARCHITECTURAL LIFE
+SAFETY PLAN
+
+SHEET NUMBER:
+
+LS$1.0
+

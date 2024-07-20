@@ -1,0 +1,178 @@
+PLAN REVIEW DATA
+
+Applicable Codes:
+
+A. Florida Building Code, 2020 7th Edition
+
+B. Florida Building Code Residential, 2020 7th Edition
+C. Florida Building Code Plumbing, 2020 7th Edition
+D. Florida Building Code Mechanical, 2020 7th Edition
+E. National Electric Code, 2017 Edition
+
+F. Florida Building Code Existing, 2020 7th Edition
+
+G. Florida Building Code Accessibility, 2020 7th Edition
+Occupancy Group:
+
+A. Mercantile (M) Section 309
+
+B. Storage (S-1) Section 311
+
+C. Business (B) Section 304
+
+D. Mixed Use Occupancies (Section 508)
+Seperated Occupancies (Section 508.4) Allowing No Rated (0 hour} seperation required at
+Stock Rooms or Offices (Table 508.4)
+
+Building Height and Area:
+A. _ Allowable Area: Unlimited Area, sprinklered, one-story w/ 60 feet public way or yard (507.4)
+
+B. Allowable Height: 1 Story
+
+Construction Type:
+A. II-B (Table 601)
+
+Automatic Sprinkler System
+A. Fully sprinklered (903.2.7 & 903.3.1.1)
+
+B. Manual Fire alarm system not required for Group M occupancies (907.2.7} where the building
+is equipped throughout with an automatic sprinkler system installed in accordance with section
+903.1.1 and the occupant notification appliances will automatically activate throughout the
+Notification zones upon sprinkler waterflow (exception #2.)
+
+All design materials prepared by Fox Design
+Group, LLC shall remain the property of Fox
+Design Group, LLC, which shall also retain all
+common law, statutory and other rights, including
+the copyright thereto
+
+33730 BAINBRIDGE ROAD, 2ND FLOOR
+
+SOLON, OH 44139
+
+DESIGN GROUP
+FL LICENSE: AA26003844
+
+FOX DESIGN GROUP, LLC
+www .foxdesigngroup.net
+
+FE
+
+\
+
+Occupant Load (A) (©) (P) ©) 3)
+A. Section 1004 Occupant Load
+(Refer to Table 1004.1.2 for maximum floor area allowances per occupant} 4551-2"
+Mercantile=  60SF Gross/Occupant (12,906 SF}= 216 Occupants Lan tan ao tae ann x<
+Business = 100 SF Gross/Occupant (1,024SF)= 10 Occupants 264 aa 186 x 426 7 36-0 at 32-10 4
+S-1 Storage = 300 SF Gross/Occupant (1,048 SF} = 3 Occupants T 2.3 3/8"
+(14,978 SF)= 229 Occupants Total re
+Exit Capacity:
+A. Number of exits: (1006.2.1} Total occupant load = 229 occupants = 2 exits, min j
+B. Number of exits provided: 3
+C. Minimum exit width required (section 1005.3.2) :
+C.1. Doors: 0.2 inches per person. 229 occupants x 0.2 = 46" of required door width
+C.2. Note Section 1005.5 : 50% x46" = 23” for remain exits if main exit (largest capacity) is
+blocked: (1) @ 23" =23" (remaining doors must add up to a minimum 50% of egress EXIT #3
+width capacity) 40" CLEAR T_*
+D. Exit width provided: EGRESS
+D.1. 255" of Sales egress width provided. 1 rr F.E@
+Exit And Exit Access Doorway Configuration: KRO} TY a aa aa : an omen omen omen a
+A. _ Separation of Exits: At least 2 exits shall be placed a distance apart equal to not less than ; Oo [e)
+one-half the length of the maximum overall diagonal dimension of the area being served BREAK ROOM 2
+(1007.1.1) . Exception 2: Distance shall not be less than one-third the diagonal length for H® > ; H
+fully-sprinklered buildings.
+B. Maximum travel distance: 250 feet (Table 1017.2) Midd L : [ | l | | | i | | | PEER ul EEE 3
+c ie [oanews|| earn) = a] fs = c al fannan || anno) mo fe) w
+\ Ey como coe Been (bocce) comin Eeeee [pec ees ° N
+Other Life Safety Considerations: NS Ly Ee = - = om = t = © = Tr
+IX. Minimum corridor width: 44” (1020.2) vo - = = = = = = : = = = ay
+IY. Dead end corridor: 20' maximum (1020.4). Exception #2. 50' maximum in Group M where / FE = _ = i = i : _ . - dl
+poi ‘ equipped throughout with an automatic sprinkler system in accordance with Section — _ = = = = = = : = - = a ° O
+3.1.1. = = - _ = = t = © = a
+IZ. Door clear width: 32" minimum (1010.1.1) ELECTRIC ROOM = =I = =I = =] t =a ix = c=
+JA. Interior finishes (Table 803.11) : [130 | = _ = _ = i : _ i i a
+1. Vertical Exits/ Passageways - Class B = i= = io = c =a i = zy ne
+2. _ Exit Access Cooridors - Class C | n & = = = = =] E = E = =a .
+3. Rooms/ Enclosed Spaces: Class C (H Py i = & = iow = c = i = oo ° &
+4. Floor Finishes - Class Il - Floor finish materials must comply with DOC FF-1 ‘pill test’ (804.4.1) S oa a | | a a me +
+Plumbing Fixture Analysis | DISPLAY a
+FE ~ 123 ~
+= RECEIVING r]
+MALE FEMALE [116 | 7
+i ig]
+Water Closets by Use Type Water Closets by Use Type — = [ | | i t | fi i H s
+Retail (10 occ.@ 1/20)= 0.5 = 1 required, Retail (10 occ.@ 1/20)}= 0.5= 1 required, 3
+1 WC's provided 1 WC's Provided F = | |
+Lavatories by use type < Z cece enc tensed San coffe r &
+Retail (10 occ.@ 1/40)=0.25=1 required Lavatories by use type E \ z i | freee) ere fewer | seer fe ene eee ol to
+1 provided Retail (10 occ.@ 1/40)=0.25=1 required mh } < = Beco paced Esco pon Sa
+{provited 2 i te a TI
+Drinking Fountains by use type £ an ae ee |e fesse eax H +
+2 provided Z| a ASS [pee sr face | so] loco sen c E& .
+pay a) ooo LPP | PrP io] are
+Service Sink 8 =| = — Se C °
+1 required per floor, 1 provided — " F.-@ = =p = 5} (2) _I
+i lex nes] Pnnnnn | mnaesl Bel @.1) ne _
+d 2 5 1
+i i i ELE an ) — Lu
+5
+si OVERALL TRAVEL DISTANCE FROM MOST REMOTE POINT = 175'-7" | = < <s O
+i ) _ EGRESS VaDTH = ke
+- Iw
+FIRE EXTINGUISHERS — “IL z =
+moms secur } | | y
+@ _FREEXTINGUISHERS | LL} | i T al o O
+1 1 PING F at
+os .
+FIRE EXTINGUISHER SIZE AND PLACEMENT FOR CLASS A HAZARDS. > 5 aN Ny _— x O
+=< - * i
+@ 11,250 S.F. MAX. FLOOR AREA FOR EACH FIRE EXTINGUISHER. z E 5 es . c ents = ®
+z =
+@ 75 MAXIMUM TRAVEL DISTANCE TO EXTINGUISHER 3 5 TE agami08 ie) “i «5
+@ 1,500 SQ, FT. PER UNIT OF A a z oe? ee as | .
+@ MINIMUM RATED EXTINGUISHER - 2A-10B:C ° = ON : Be
+FIRE EXTINGUISHER SIZE AND PLACEMENT FOR CLASS B HAZARDS. a i] Lop \ | F ai ect —__— 5 nD (3)
+4 z ro te e
+@ ORDINARY (MODERATE) HAZARD - Size 10B EXTINGUISHER RATING E ° —_— Be ua H &
+REQUIRES 30-0" MAX. TRAVEL DISTANCE TO EXTINGUISHER. _ - H — a Ga)
+We
+Size 20B EXTINGUISHER RATING REQUIRES 50'-0" MAX. TRAVEL - |
+DISTANCE TO EXTINGUISHER. EXIT #2 _—
+FIRE EXTINGUISHER SIZE AND PLACEMENT FOR CLASS C HAZARDS. A" CIEAI w |
+34" CLEAR L_ a) ,
+@ REQUIRED WHERE ENERGIZED ELECTRICAL EQUIPMENT CAN BE EGRESS ey a g DISPLAY *
+ENCOUNTERED THAT WOULD REQUIRE A NONCONDUCTING EXTINGUISHING E al 124 2
+MEDIUM. WIDTH eal
+FIRE EXTINGUISHER NOTES Sha 8 00 — 5
+INFORMATION BASED ON INTERNATIONAL FIRE CODE REQUIREMENTS AND CORRIDOR) F.ES Poe = £ 3
+2015 NFPA-1 FOR AN ORDINARY (MODERATE HAZARD) OCCUPANCY ‘B t- oo” cP -—
+1. LOCATIONS AND QUANTITIES AS PROPOSED ARE BASED ON 2015 S eS a
+NFPA 1. VERIFY & COORDINATE FINAL QUANTITIES, LOCATIONS, AND E es
+INSTALLATION WITH LOCAL JURISDICTION. |
+2. TOTAL FIRE EXTINGUISHERS = 12 UNITS ALL FIRE EXTINGUISHERS AVIDATAC M i ay
+SHALL HAVE A GROSS WEIGHT NOT TO EXCEED 40 Ibs AND ARE TO [118 | a FITTIN ~
+BE MOUNTED ON MOUNTING BRACKETS SO THAT THE BOTTOM OF > mm
+UNIT IS 27" A.F.F. OR LOWER FOR CANE DETECTION. COORDINATE Ps FI
+EXACT HEIGHT WITH LOCAL FIRE DEPARTMENT. 10 | |
+3. PLACE SALES FLOOR F.E.'s ON REAR SIDE OF COLUMNS AS SHOWN
+(OR AS ALLOWED BY FIXTURE PLACEMENT PER DSG's F-1 PLAN. oo ore (4)
+is) °
+PROJECT NUMBER: 01168
+No. | ISSUE DATE
+| BID-PERMIT 03-26-21
+
+LIFE SAFETY
+
+FLOOR PLAN
+
+3/32” = 1'-0"
+
+DRAWING:
+ARCHITECTURAL
+LIFE SAFETY PLAN
+
+SHEET NUMBER:
+
+L$1.0
+

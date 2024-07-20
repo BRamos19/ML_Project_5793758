@@ -1,0 +1,124 @@
+DATE PLOTTED: 12 March 2024 9:57 AM BY : AARON WARD
+
+CAD File: C:\Users\garon\Dryside Engineering Dropbox\Dryside\1. Jobs\2023\DSE23011_Barellan_Levee\4. ENGINEERING\2.Drawings\DSE2301 1-1220.dwg
+
+XREF's: P-RSO9-XS-01; P-RS09-XS-02; P-RS09-XS-03
+
+LEGEND - CROSS AND LONG SECTIONS
+
+FINISHED SURFACE PROFILE
+———. — EXISTING SURFACE PROFILE
+EASTBOUND a WESTBOUND
+r —— — — ——| 1% AEP FLOOD PROFILE
+Centreline Data
+X = 462928.53 — ————
+Y = 6205472.21 i —3% -3% 3%
+
+Z= 158.76
+DATUM RL 157.50
+
+DESIGN SURFACE
+
+EXISTING SURFACE
+
+OFFSET
+
+Centreline Data
+X = 462928.00 __ __
+Y = 6205472.39 3% 3 Er
+Z= 158.76
+
+DATUM RL 157.50
+
+DESIGN SURFACE
+
+EXISTING SURFACE
+
+OFFSET
+
+BAB
+6.00
+4.00
+
+50
+
+o|o
+S|"
+alo
+
+4.00
+6.00
+6.31
+
+CHAINAGE 431.398
+
+Centreline Data
+X = 462898.25 a
+Y = 6205482.43 3% <a = =3%
+
+Z= 158.81 — = —
+
+DATUM RL 157.50
+
+DESIGN SURFACE
+
+EXISTING SURFACE
+
+OFFSET
+
+CHAINAGE 400.000
+
+Centreline Data
+
+X = 462860.35
+
+Y = 6205495.22
+
+Z= 159.06 —
+
+DATUM RL 157.50
+
+DESIGN SURFACE
+
+EXISTING SURFACE
+
+Centreline Data
+
+X = 462842.73 —
+Y = 6205501.17 ——_
+
+Z= 159.25
+
+DATUM RL 157.00
+
+DESIGN SURFACE
+
+EXISTING SURFACE
+
+OFFSET = s 5 8 g 8\s|z 8 8 g 8 3
+
+CHAINAGE 341.398
+
+RS09 CROSS SECTIONS
+
+SCALE H 1:100m V 1:100m FOR CONSTRUCTION
+© Dryside Engineering (Aust) Pty Ltd. NARRANDERA SHIRE COUNCIL
+
+This plan and the design here within is produced by DRYSIDE BARELLAN LEVEE DESIGN DRAWN DATE
+
+client in accordance with the terms and conditions of the ED HENTY DESIGNED DATE] PROJECTION SHEET SIZE
+A.WARD 25/05/2023) GD94 Al
+
+signed contract. Dryside Engineering does not and shall ENG | N EER | NG APPROVED BARELLAN, NSW 2665
+DSE23011-1222
+
+not assume any responsibility or liability whatsoever to DETAILED DESIGN
+
+9 1 2 any third party arising out of any use or reliance by third
+party on the content of this document. www.dryside.com.au RS09 BURLEY GRIFFIN WAY CROSS SECTIONS
+
+DATE DESCRIPTION ABN:45639039839 ED HENTY SHEET 3 OF 3
+
+12/03/2024 | CONSTRUCTION ISSUE SCALE 1:100
+
+>|

@@ -1,0 +1,521 @@
+4{2/2021 10:58:14 AM
+
+081416 - FLUSH WOOD DOORS
+
+083113 - ACCESS DOORS AND FRAMES
+
+087100 - DOOR HARDWARE
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+
+1. Solid-core doors with wood-veneer faces
+
+2. Shop priming and Factory finishing flush wood doors.
+
+3. Factory fitting flush wood doors to frames and factory machining for hardware.
+
+1.3 ACTION SUBMITTALS
+
+A. Product Data: For each type of door. Include details of core and edge construction and trim for openings.
+Include factory-finishing specifications.
+
+B. Shop Drawings: Indicate location, size, and hand of each door; elevation of each kind of door; construction
+details not covered in Product Data; and the following:
+
+1. Dimensions and locations of blocking.
+
+2. Dimensions and locations of mortises and holes for hardware.
+
+3. Dimensions and locations of cutouts.
+
+4. Undercuts.
+
+5. Doors to be factory finished and finish requirements.
+
+6. Fire-protection ratings for fire-rated doors.
+
+C. Samples for Verification:
+
+1. Factory finishes applied to actual door face materials, approximately 8 by 10 inches (200 by 250 mm), for
+each material and finish. For each wood species and transparent finish, provide set of three Samples showing typical
+range of color and grain to be expected in finished Work.
+
+1.4 QUALITY ASSURANCE
+
+A. Manufacturer Qualifications: A qualified manufacturer that is a certified participant in AWI's Quality
+Certification Program
+1.5 DELIVERY, STORAGE, AND HANDLING
+
+A. Comply with requirements of referenced standard and manufacturer's written instructions. Package doors
+individually in cardboard cartons and wrap bundles of doors in plastic sheeting.
+1.6 FIELD CONDITIONS
+
+A. Environmental Limitations: Do not deliver or install doors until spaces are enclosed and weathertight, wet work
+in spaces is complete and dry, and HVAC system is operating and maintaining ambient temperature and humidity
+conditions at occupancy levels during remainder of construction period.
+1.7 WARRANTY
+
+A. Special Warranty: Manufacturer agrees to repair or replace doors that fail in materials or workmanship within
+specified warranty period.
+
+PART 2- PRODUCTS
+2.1 FLUSH WOOD DOORS, GENERAL
+
+A. Quality Standard: In addition to requirements specified, comply with AWI's "Architectural Woodwork
+Standards. Provide AWI Quality Certification Labels indicating that doors comply with requirements of grades
+specified.
+
+B. Low-Emitting Materials: Fabricate doors with adhesives and composite wood products that comply with the
+testing and product requirements of the California Department of Health Services' "Standard Practice for the Testing
+of Volatile Organic Emissions from Various Sources Using Small-Scale Environmental Chambers."
+
+C. Fire-Rated Wood Doors: Doors complying with NFPA 80 that are listed and labeled by a qualified testing
+agency, for fire-protection ratings indicated, based on testing at positive pressure according to UL 10C.
+
+D. Smoke- and Draft-Control Door Assemblies: Listed and labeled for smoke and draft control, based on testing
+according to UL 1784.
+
+2.2 FABRICATION
+
+A. Factory fit doors to suit frame-opening sizes indicated. Comply with clearance requirements of referenced
+quality standard for fitting unless otherwise indicated. Comply with NFPA 80 requirements for fire-rated doors.
+
+B. Factory machine doors for hardware that is not surface applied. Locate hardware to comply with DHI-WDHS-3.
+Comply with final hardware schedules, door frame Shop Drawings, BHMA-156.115-W, and hardware templates.
+
+C. Transom and Side Panels: Fabricate matching panels with same construction, exposed surfaces, and finish as
+specified for associated doors. Finish bottom edges of transoms and top edges of rabbeted doors same as door
+stiles. Fabricate door and transom panels with full-width, solid-lumber meeting rails. Provide factory-installed spring
+bolts for concealed attachment into jambs of metal door frames.
+
+D. Openings: Factory cut and trim openings through doors.
+
+2.3 SHOP PRIMING
+
+A. Doors for Transparent Finish: Shop prime faces and all four edges with stain (if required), other required
+pretreatments, and first coat of finish.
+2.4 FACTORY FINISHING
+
+A. General: Comply with referenced quality standard for factory finishing. Complete fabrication, including fitting
+doors for openings and machining for hardware that is not surface applied, before finishing. Finish faces, all four
+edges, edges of cutouts, and mortises. Stains and fillers may be omitted on top and bottom edges, edges of
+cutouts, and mortises.
+
+B. Factory finish doors.Factory finish doors that are indicated to receive transparent finish. Factory finish doors
+where indicated in schedules or on Drawings as factory finished.
+
+PART 3- EXECUTION
+3.1. EXAMINATION
+
+A. Examine doors and installed door frames, with Installer present, before hanging doors. Proceed with
+installation only after unsatisfactory conditions have been corrected.
+3.2 INSTALLATION
+
+A. Installation Instructions: Install doors to comply with manufacturer's written instructions and referenced quality
+standard, and as indicated.
+
+1. Install fire-rated doors according to NFPA 80.
+2. Install smoke- and draft-control doors according to NFPA 105.
+
+B. Job-Fitted Doors: Align and fit doors in frames with uniform clearances and bevels as indicated below; do not
+trim stiles and rails in excess of limits set by manufacturer or permitted for fire-rated doors. Machine doors for
+hardware. Seal edges of doors, edges of cutouts, and mortises after fitting and machining. Clearances: Provide 1/8
+inch (3.2 mm) at heads, jambs, and between pairs of doors. Provide 1/8 inch (3.2 mm) from bottom of door
+to top of decorative floor finish or covering unless otherwise indicated. Where threshold is shown or
+scheduled, provide1/4 inch (6.4 mm) from bottom of door to top of threshold unless otherwise indicated.
+
+Comply with NFPA 80 for fire-rated doors.
+
+C. Factory-Fitted Doors: Align in frames for uniform clearance at each edge. Factory-Finished Doors: Restore
+finish before installation if fitting or machining is required at Project site.
+
+3.3 ADJUSTING
+
+A. Operation: Rehang or replace doors that do not swing or operate freely. Finished Doors: Replace doors that are
+damaged or that do not comply with requirements. Doors may be repaired or refinished if Work complies with
+requirements and shows no evidence of repair or refinishing.
+
+PART1- GENERAL
+1.1 RELATED DOCUMENTS
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+1.2 SUMMARY
+A. Section Includes:
+1. Access doors and frames for walls and ceilings.
+1.3 ALLOWANCES
+A. Access doors and frames are part of an access door and frame allowance.
+1.4 ACTION SUBMITTALS
+A. Product Data: For each type of product.
+1. Include construction details, fire ratings, materials, individual components and profiles, and finishes.
+B. Shop Drawings:
+1. Include plans, elevations, sections, details, and attachments to other work.
+2. Detail fabrication and installation of access doors and frames for each type of substrate.
+C. Product Schedule: Provide complete access door and frame schedule, including types, locations, sizes,
+latching or locking provisions, and other data pertinent to installation.
+
+PART 2- PRODUCTS
+2.1. PERFORMANCE REQUIREMENTS
+
+A. Fire-Rated Access Doors and Frames: Units complying with NFPA 80 that are identical to access door and
+frame assemblies tested for fire-test-response characteristics according to the following test method and that
+are listed and labeled by UL or another testing and inspecting agency acceptable to authorities having
+jurisdiction:
+
+1. NFPA 252 or UL 10B for fire-rated access door assemblies installed vertically.
+2. NFPA 288 for fire-rated access door assemblies installed horizontally.
+2.2 ACCESS DOORS AND FRAMES FOR WALLS AND CEILINGS
+
+A. Source Limitations: Obtain each type of access door and frame from single source from single manufacturer.
+2.3 FABRICATION
+
+A. General: Provide access door and frame assemblies manufactured as integral units ready for installation.
+
+B. Metal Surfaces: For metal surfaces exposed to view in the completed Work, provide materials with smooth, flat
+surfaces without blemishes. Do not use materials with exposed pitting, seam marks, roller marks, rolled
+trade names, or roughness.
+
+C. Doors and Frames: Grind exposed welds smooth and flush with adjacent surfaces. Furnish attachment devices
+and fasteners of type required to secure access doors to types of supports indicated.
+
+1. For concealed flanges with drywall bead, provide edge trim for gypsum board securely attached to
+perimeter of frames.
+
+2. For concealed flanges with plaster bead for full-bed plaster applications, provide zinc-coated expanded
+metal lath and exposed casing bead welded to perimeter of frames.
+
+D. Recessed Access Doors: Form face of panel to provide recess for application of applied finish. Reinforce panel
+as required to prevent buckling.
+
+E. Latching Mechanisms: Furnish number required to hold doors in flush, smooth plane when closed. Extruded
+Aluminum: After fabrication, apply manufacturer's standard protective coating on aluminum that will
+come in contact with concrete.
+
+2.4 FINISHES
+
+A. Comply with NAAMM's "Metal Finishes Manual for Architectural and Metal Products" for recommendations for
+applying and designating finishes. Protect mechanical finishes on exposed surfaces from damage by
+applying a strippable, temporary protective covering before shipping.
+
+B. Appearance of Finished Work: Noticeable variations in same piece are not acceptable. Variations in appearance
+of adjoining components are acceptable if they are within the range of approved Samples and are
+assembled or installed to minimize contrast.
+
+C. Steel and Metallic-Coated-Steel Finishes: Factory Prime: Apply manufacturer's standard, fast-curing, lead- and
+chromate-tree, universal primer immediately after surface preparation and pretreatment. Factory Finish:
+Immediately after cleaning and pretreating, apply manufacturer's standard two-coat, baked-on finish
+consisting of prime coat and thermosetting topcoat, with a minimum dry- film thickness of 1 mil (0.025
+mm) for topcoat.
+
+PART 3- EXECUTION
+3.1. EXAMINATION
+
+A. Examine substrates for compliance with requirements for installation tolerances and other conditions affecting
+performance of the Work. Proceed with installation only after unsatisfactory conditions have been corrected.
+3.2 INSTALLATION
+
+A. Comply with manufacturer's written instructions for installing access doors and frames. Install doors flush with
+adjacent finish surfaces or recessed to receive finish material. Adjust doors and hardware, after
+installation, for proper operation. Remove and replace doors and frames that are warped, bowed, or
+otherwise damaged.
+
+PART 1- GENERAL
+1.1. RELATED DOCUMENTS
+
+A. Drawings and general provisions of the Contract, including General and Supplementary Conditions and
+Division 01 Specification Sections, apply to this Section.
+
+1.2 SUMMARY
+
+A. Section includes:
+
+1. Mechanical door hardware for the following:
+a. Swinging doors.
+b. Sliding doors.
+c. Folding doors.
+2. Cylinders for door hardware specified in other Sections.
+3. Electrified door hardware.
+1.3. ACTION SUBMITTALS
+
+A. Product Data: For each type of product indicated. Include construction and installation details, material
+descriptions, dimensions of individual components and profiles, and finishes.
+
+B. Door Hardware Schedule: Prepared by or under the supervision of Installer, detailing fabrication and assembly
+of door hardware, as well as installation procedures and diagrams. Coordinate final door hardware schedule with
+doors, frames, and related work to ensure proper size, thickness, hand, function, and finish of door hardware.
+Keying Schedule: Prepared by or under the supervision of Installer, detailing Owner's final keying instructions
+for locks. Include schematic keying diagram and index each key set to unique door designations that
+are coordinated with the Contract Documents.
+
+1.4 QUALITY ASSURANCE
+
+A. Installer Qualifications: Supplier of products and an employer of workers trained and approved by product
+manufacturers and an Architectural Hardware Consultant who is available during the course of the Work to consult
+with Contractor, Architect, and Owner about door hardware and keying.
+
+B. Source Limitations: Obtain each type of door hardware from a single manufacturer.
+
+C. Fire-Rated Door Assemblies: Where fire-rated door assemblies are indicated, provide door hardware rated for
+use in assemblies complying with NFPA 80 that are listed and labeled by a qualified testing agency, for fire-
+protection ratings indicated, based on testing at positive pressure according to NFPA 252 or UL 10C, unless
+otherwise indicated.
+
+D. Smoke- and Draft-Control Door Assemblies: Where smoke- and draft-control door assemblies are required,
+provide door hardware that meet requirements of assemblies tested according to UL 1784 and installed in
+compliance with NFPA 105.
+
+E. Electrified Door Hardware: Listed and labeled as defined in NFPA 70, Article 100, by a testing agency
+acceptable to authorities having jurisdiction.
+
+F. Means of Egress Doors: Latches do not require more than 15 Ibf (67 N) to release the latch. Locks do not
+require use of a key, tool, or special knowledge for operation.
+
+G. Accessibility Requirements: Comply with applicable provisions in the DOJ's ADA Standards for Accessible
+Design for door hardware on doors in an accessible route.
+
+1.5 DELIVERY, STORAGE, AND HANDLING
+
+A. Inventory door hardware on receipt and provide secure lock-up for door hardware delivered to Project site. Tag
+each item or package separately with identification coordinated with the final door hardware schedule, and include
+installation instructions, templates, and necessary fasteners with each item or package. Deliver keys and permanent
+cores to Owner by registered mail or overnight package service.
+
+1.6 COORDINATION
+
+A. Coordinate layout and installation of floor-recessed door hardware with floor construction. Cast anchoring
+inserts into concrete.
+
+B. Installation Templates: Distribute for doors, frames, and other work specified to be factory prepared. Check
+Shop Drawings of other work to confirm that adequate provisions are made for locating and installing door hardware
+to comply with indicated requirements.
+
+C. Security: Coordinate installation of door hardware, keying, and access control with Owner's security consultant.
+
+D. Electrical System Roughing-In: Coordinate layout and installation of electrified door hardware with connections
+to power supplies and building safety and security systems.
+
+E. Existing Openings: Where hardware components are scheduled for application to existing construction or
+where modifications to existing door hardware are required, field verify existing conditions and coordinate installation
+of door hardware to suit opening conditions and to provide proper door operation.
+
+1.7 WARRANTY
+
+A. Special Warranty: Manufacturer's standard form in which manufacturer agrees to repair or replace components
+of door hardware that fail in materials or workmanship within specified warranty period.
+1.8 MAINTENANCE SERVICE
+
+A. Maintenance Tools and Instructions: Furnish a complete set of specialized tools and maintenance instructions
+for Owner's continued adjustment, maintenance, and removal and replacement of door hardware.
+
+PART 2- PRODUCTS
+2.1. SCHEDULED DOOR HARDWARE
+
+A. Provide door hardware for each door as scheduled on Drawings to comply with requirements in this Section.
+2.2 MECHANICAL LOCKS AND LATCHES
+
+A. Lock Functions: As indicated in door hardware schedule.
+2.3 ELECTRIC STRIKES
+
+A. Electric Strikes: BHMA A156.31; Grade 1; with faceplate to suit lock and frame.
+
+2.4 ELECTROMAGNETIC LOCKS
+
+A. Electromagnetic Locks: BHMA A156.23; electrically powered; with electromagnet attached to frame and
+armature plate attached to door; full-exterior or full-interior type, as required by application indicated.
+2.5 EXIT LOCKS AND EXIT ALARMS
+
+A. Exit Locks and Alarms: BHMA A156.29, Grade 1.
+2.6 MANUAL FLUSH BOLTS
+
+A. Manual Flush Bolts: BHMA A156.16; minimum 3/4-inch (19-mm) throw; designed for mortising into door
+edge.
+2.7 AUTOMATIC AND SELF-LATCHING FLUSH BOLTS
+
+A. Automatic and Self-Latching Flush Bolts: BHMA A156.16; minimum 3/4-inch (19-mm) throw; designed for
+mortising into door edge.
+2.8 EXIT DEVICES AND AUXILIARY ITEMS
+
+A. Exit Devices and Auxiliary Items: BHMA A156.3.
+2.9 LOCK CYLINDERS
+
+A. Lock Cylinders: Tumbler type, constructed from brass or bronze, stainless steel, or nickel silver.
+2.10 ACCESSORIES FOR PAIRS OF DOORS
+
+A. Coordinators: BHMA A156.3; consisting of active-leaf, hold-open lever and inactive-leaf release trigger;
+fabricated from steel with nylon-coated strike plates; with built-in, adjustable safety release; and with internal
+override.
+2.11 SURFACE CLOSERS
+
+A. Surface Closers: BHMA A156.4; rack-and-pinion hydraulic type with adjustable sweep and latch speeds
+controlled by key-operated valves and forged-steel main arm. Comply with manufacturer's written recommendations
+for size of door closers depending on size of door, exposure to weather, and anticipated frequency of use. Provide
+factory-sized closers, adjustable to meet field conditions and requirements for opening force.
+2.12 CONCEALED CLOSERS
+
+A. Concealed Closers: BHMA A156.4; rack-and-pinion hydraulic type with adjustable sweep and latch speeds
+controlled by key-operated valves. Comply with manufacturer's written recommendations for size of door closers
+depending on size of door, exposure to weather, and anticipated frequency of use. Provide factory-sized closers,
+adjustable to meet field conditions and requirements for opening force.
+2.13 CLOSER HOLDER RELEASE DEVICES
+
+A. Closer Holder Release Devices: BHMA A156.15; Grade 1; closer connected with separate or integral releasing
+and fire- or smoke-detecting devices. Door shall become self-closing on interruption of signal to release device.
+Automatic release is activated by smoke detection system, loss of power.
+2.14 OVERHEAD STOPS AND HOLDERS
+
+A. Overhead Stops and Holders: BHMA A156.8.
+
+2.15 DOOR GASKETING
+
+A. Door Gasketing: BHMA A156.22; air leakage not to exceed 0.50 cfm per foot (0.000774 cu. m/s per m) of
+crack length for gasketing other than for smoke control, as tested according to ASTM E 283; with resilient or
+flexible seal strips that are easily replaceable and readily available from stocks maintained by manufacturer.
+2.16 THRESHOLDS
+
+A. Thresholds: BHMA A156.21; fabricated to full width of opening indicated.
+2.17 SLIDING DOOR HARDWARE
+
+A. Sliding Door Hardware: BHMA A156.14; consisting of complete sets including rails, hangers, supports,
+bumpers, floor guides, and accessories indicated.
+2.18 FABRICATION
+
+A. Fasteners: Provide door hardware manufactured to comply with published templates prepared for machine,
+wood, and sheet metal screws. Provide screws that comply with commercially recognized industry standards for
+application intended, except aluminum fasteners are not permitted. Provide Phillips flat-head screws with finished
+heads to match surface of door hardware, unless otherwise indicated.
+2.19 FINISHES
+
+A. Provide finishes complying with BHMA A156.18 as indicated in door hardware schedule. Protect
+mechanical finishes on exposed surfaces from damage by applying a strippable, temporary protective covering
+before shipping. Appearance of Finished Work: Variations in appearance of abutting or adjacent pieces are
+acceptable if they are within one-half of the range of approved Samples. Noticeable variations in the same piece
+are not acceptable. Variations in appearance of other components are acceptable if they are within the range of
+approved Samples and are assembled or installed to minimize contrast.
+
+PART 3- EXECUTION
+3.1. EXAMINATION
+
+A. Examine doors and frames, with Installer present, for compliance with requirements for installation
+tolerances, labeled fire-rated door assembly construction, wall and floor construction, and other conditions
+affecting performance.
+
+B. Examine roughing-in for electrical power systems to verify actual locations of wiring connections before
+electrified door hardware installation.
+
+C. Proceed with installation only after unsatisfactory conditions have been corrected.
+
+3.2 PREPARATION
+
+A. Steel Doors and Frames: For surface applied door hardware, drill and tap doors and frames according to
+ANSI/SDI A250.6.
+
+B. Wood Doors: Comply with DHI WDHS.5 "Recommended Hardware Reinforcement Locations for Mineral
+Core Wood Flush Doors."
+
+3.3 INSTALLATION
+
+A. Mounting Heights: Mount door hardware units at heights indicated on Drawings unless otherwise indicated
+
+or required to comply with governing regulations.
+
+1. Standard Steel Doors and Frames: ANSI/SDI A250.8.
+
+2. Custom Steel Doors and Frames: HMMA 831.
+
+3. Wood Doors: DHI WDHS.3, "Recommended Locations for Architectural Hardware for Wood Flush
+Doors."
+
+B. Install each door hardware item to comply with manufacturer's written instructions. Where cutting and fitting
+are required to install door hardware onto or into surfaces that are later to be painted or finished in another way,
+coordinate removal, storage, and reinstallation of surface protective trim units with finishing. Do not install
+surface-mounted items until finishes have been completed on substrates involved.
+
+C. Hinges: Install types and in quantities indicated in door hardware schedule but not fewer than the number
+recommended by manufacturer for application indicated or one hinge for every 30 inches (750 mm) of door
+height, whichever is more stringent, unless other equivalent means of support for door, such as spring hinges or
+pivots, are provided.
+
+D. Intermediate Offset Pivots: Where offset pivots are indicated, provide intermediate offset pivots in quantities
+indicated in door hardware schedule but not fewer than one intermediate offset pivot per door and one additional
+intermediate offset pivot for every 30 inches (750 mm) of door height greater than 90 inches (2286 mm).
+
+E. Lock Cylinders: Install construction cores to secure building and areas during construction period.
+
+F. Thresholds: Set thresholds for exterior doors and other doors indicated in full bed of sealant.
+
+G. Stops: Provide floor stops for doors unless wall or other type stops are indicated in door hardware
+schedule. Do not mount floor stops where they will impede traffic.
+
+H. Perimeter Gasketing: Apply to head and jamb, forming seal between door and frame.
+
+|. Meeting Stile Gasketing: Fasten to meeting stiles, forming seal when doors are closed. Door Bottoms:
+Apply to bottom of door, forming seal with threshold when door is closed.
+
+3.4 ADJUSTING
+
+A. Initial Adjustment: Adjust and check each operating item of door hardware and each door to ensure proper
+operation or function of every unit. Replace units that cannot be adjusted to operate as intended. Adjust door
+control devices to compensate for final operation of heating and ventilating equipment and to comply with
+referenced accessibility requirements.
+
+B. Occupancy Adjustment: Approximately six months after date of Substantial Completion, Installer's
+Architectural Hardware Consultant shall examine and readjust each item of door hardware, including adjusting
+operating forces, as necessary to ensure function of doors, door hardware, and electrified door hardware.
+
+3.5 CLEANING AND PROTECTION
+
+A. Clean adjacent surfaces soiled by door hardware installation. Clean operating items as necessary to restore
+proper function and finish. Provide final protection and maintain conditions that ensure that door hardware is
+without damage or deterioration at time of Substantial Completion.
+
+convivat7
+Care Solutions
+GATEWAY
+
+JACKSONVILLE
+EXPANSION
+
+5238-16 Norwood Ave.,
+Suite 25,
+Jacksonville, FL 33208
+
+GEORGE W. DE LA HOZ
+FL LICENSE #AR0016664
+
+ISSUE FOR PERMIT
+90% CD PROGRESS SET
+
+04/02/2021
+02/19/2021
+
+Delta_Issue Description Date
+Nr.
+
+INTERIOR
+ARCHITECTS, RE.
+
+NM A M
+
+150 ALHAMBRA CIRCLE
+SUITE 800
+CORAL GABLES, FLORIDA 33134
+TEL 786-405-0230
+
+©2021 INTERIOR ARCHITECTS P.-C. LICENSE #AA26001062.
+ALL DRAWINGS AND WRITTEN MATERIAL HERE IN CONSTITUTE THE
+ORIGINAL AND UNPUBLISHED WORK OF THE ARCHITECT, AND THE
+SAME MAY NOT BE DUPLICATED, USED, OR DISCLOSED WITHOUT THE
+WRITTEN CONSENT OF THE ARCHITECT.
+
+Drawn: VM Check: Checker Owner Approval:
+
+Job No: 37HUMX.0331.000 Scale: 12" = 1'-0"
+
+mw SPECIFICATIONS
+
+uAN-2.11
+

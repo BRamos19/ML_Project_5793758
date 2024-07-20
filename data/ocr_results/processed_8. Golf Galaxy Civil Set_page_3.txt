@@ -1,0 +1,173 @@
+Woarg
+
+Ul
+POINTERSTATE nnn Nee ;
+H I-95 “ “ G “ 7 ¢ ‘ “7 < i —— x * -— o_o ite
+“ OO OM OSE ‘ ~ a xx = q-_--1Q----I@---~
+EXIT RAMP y MLL KL EX. EDGE OF PAVEMENT s a a“ ET ’ __ ula --10---- GRAPHIC SCALE
+H “ oe “ “ ‘ ~AS “ “ _-* ' 19 3"E 225.43" er eens 1a----1Q4--- 20 f) 10 20
+1 “ ra laa “ Y N 19 “ “ pout ! NB4°57'23"E 2200? + \q----1Q---- a
+' “ oe ae “ 7 ss “0. ra a“ “yo H —_-_- ooo” 1Q----lQ---- es |
+\ “ “ “48 “ ra ‘ ~AL “ ed _ _-— 10 __-Q----1Q---- ee See ee
+| wae uw“ avs Y / _ SSA “ ae yn — \ Q----lQ---7~ nen 26.47 . (IN FEET )
+; ’ , Caw / ‘ SN se a “ ? AQ) = = 1 enn neneree _em--- DIES. 1 inch = 20 ft.
+! “a “ “ Az “ N. sSAL tse ae oa jQ----lQ--- neem _ ~---pDbe
+’ ’ a 4 N “A wT “ “7 ~ Ue -- mi 27D
+| “ “ YoY “ ‘ ~ a “ So” _--- ns
+“ OAK ff é > ss a a EX. MONUMENT Des
+| ’ , ’ — ss. “ ae a ' s” \ --=35
+a“ a hed \ x. ss, “ Ex. PENG SIGN-{70 REMAIN) -- nibs | EX. FORCE
+7 7 a sy “Ss ra ee em Ewer Q ---= == .
+, “ , 4 i . S : —- é MAIN
+EX. PARCEL
+LINE
+i)
+EX. SAN " LEGEND
+\ MANHOLE +
+TOP EL. 27.45
+INV. EL=17.08 i i i 0. NEW PAVEMENT CONSTRUCTION
+1 ' ' 1
+-y 7 1 1 1
+= sa? ' ' ' OVERLAY PAVEMENT 3/4” SP-9.5
+laa 5. 1 1 1
+iI\_REMOVE !! \ ' t H PROP. SIDEWALK CONCRETE
+i EX.CURB} ref I
+CONST! 64LF OF ! i !
+12” HDPE ® 0.20% H i i EXIST. UTILITIES
+' i 1!
+1! i '
+YD—05
+Wet otf ee, § if BA S=4--=- : : : PROP. UTILITIES
+YD—06) 24.50
+\ mmm PROPERTY BOUNDARY
+~ \
+E == mya Re 1 | : z 27.00. PROPOSED ELEVATIONS
+woe e 18"X18"_CONC. SUMP } oi
+~ “STRUCTURES —--L 4 oe . 26.50
+L STRUCTURE Y A
+fo 4
+fh PROP. TRUCK LOADING wn .
+a - ~ - 7 4
+van EX. EDGE WELL (SEE DETAIL SHEET) 8 yes, Olt : : : ar x2 2 EXISTING ELEVATIONS
+eo .00 _ = N oa "
+27.80 Mayen Exe PAVEMENT ry Ae g Ha |: ' ' ! ! /
+1472730 CURB a any i "yt H H t i
+” I & 1 1 1 1 1 re
+ae / 28.01 o7 8" ROOF_AA 2450) Ip 12 7! Vn Noues ' tA ' a EXIST. D CURB
+i i DRAIN Ho eS at rp a 1 \ aa ----
+-_ 1g Gy 1 # 5| : t+ 4+— onaees =
+r a i I N i zloq H 71 i I
+| CONST. FIBER OPTIC CABLE - nos: | \ i 1 rin 1 I
+o|-- FOR FUTURE DEVELOPMENT Ig | i ie ib \g i u | i a i i i ADA DETECTABLE WARNING PAD
+7 7 - || OD NY | 1 Zu 1 1 1
+mT | IST. LIGHT PB Sy } 7 ot H : at
+“ Lu ral \ Roe? ¥ 4 : : tee : PROP. D CURB
+[ ———<$—$—$=+ EX. 8” WATER .
+—_ aay J | Bust. 1YPE MAIN
+P a +e SD!
+be CONST. POWER LINE FOR | | \
+TFUTURE DEVELOPMNENT | -e__-, _- a
+|§ hall ron 2" ficcccccd! | EXIST. DRAINAGE
+! Hw\L-— EasTmNe =® a ae | |
+mal | ie ir .
+1a roi Cel gs *. Vip C//p EXIST. SITE LIGHTING
+\7 ~ |! ‘Sy \ EX FIRE ' '
+tf r > \HYQRANT ' '
+| ey FFE=28.50 | ' on \ | ' '
+4 We — i LL | a 1 1
+an tI YD—04| cee \ Fs) . i i
+! eo \ ae |! | ¢ H H
+ADS Pasa ee \ 2 | L nn | See a) 2 ee Sscoocbosoata---
+j 1 “7
+FUTURE BUILDING we \ at
+4 -
+ale rae fo ot 8
+vb} I we \ Toh = S fF 3 ® Se == Nee pRE===pe==== i - BI BI- -- 4
+i a \ | '
+i we \ ia -s = ae
+LB]! CONST. 66 LF OF ae 1 + Il ~s.
+thd 12” HDPE @ 0.20% an ! al a! CONC. ~s.
+“—e ' —_—_ ~~~. DRIVE DRAINAGE STRUCTURE TABLE
+my | “7 v D SL
+wie a ' a © ~s STRUCTURE NAME | STRUCTURE DETAILS
+-- all NN
+\ wet { <I ! Py weeeeeaee / \ NU YD-01 RIM = 28.40
+: - 1 $ 1 \ ey Pak CONST. YARD DRAIN | W INV = 24.85
+(s) EK, 8” PVC \ EX. IPT RIM = 28.40
+=~, 2846 6" 2B, | SAN. SEWER \ STATION Yo—02 ey oe
+lo, @ 8 ROOF, eee 6 ROOF aos V eeeeee / A CONST. YARD DRAIN | & INV = 24.76
+YD] '5 yl
+| (2) RIM = 28.20
+CONST. 101 LF OF ae \ YD—03 =
+12" HDPE © 0.20% mae 7 yD— 02 i CONST. YARD DRAIN | fj NV — Ba'eg
+ss ao | oy |S a \ -
+a anes : Z u 4 RIM = 28.20
+eg  CONBT 35 LE OE pp pp ee |, OBL Fed - W INV = 24.18
+. 3 v 2 , CONST. YARD DRAIN _ ¥
+mau —.,BE —— pe ——, + x y ft S INV = 24.45
+~ { TRANSFORMER CY YD-05 RIM = 28,30
+I 1 f vy CONST. YARD DRAIN W INV = 22.80
+4 +
+| H / 7 RIM = 27.50
+‘ ra YD-06 E INV = 22.67
+N A CONST. YARD DRAIN | W INV = 22.67
+/! N INV = 22.67
+——— ee = satesas=====4== fiid
+ay \ fy, we YD—07 RIM = 27.80
+EXIST. 6” , CONST. TYPE ’D’ CURB CONST. TYPE 'D’ / Lf CONST. YARD DRAIN £ INV = 22.76
+WATER MAIN CURB (TYP.) foows
+— — LS) \ t / I i ‘
+! ' ve
+L lag
+| lar
+we
+1 Ki
+1 mt
+ye
+vw}
+4 A
+a ha
+“ud t
+We
+at {
+1
+I
+% g
+el {
+FS / H
+t t
+i af H
+wananene-=d
+r I
+EXIST. PARKING ' ; !
+!
+————t STEFAN K. MATTHES, P.E., FL. REG. NO. 38723
+PSLUSD PROJECT No.: 20—XXXX
+COMPUTER DATE: 3/10/21
+
+FILE Ree. | FIELD BK./PG.
+
+HORIZ. SCALE: 1°=20’
+
+NOTES:
+1) ALL ELEVATIONS AND BENCHMARKS SHOWN
+HEREON ARE RELATIVE TO THE NORTH AMERICAN
+
+VERTICAL DATUM (N.A.V.D.) OF 1988.
+
+= CULPEPPER & SOEs zm] CATLIN PLAZA-GOLF GALAXY
+
+wot ERPENINGINC | oom | @ [e787 DAVING, GRADING & DRAINAGE
+
+PHONE 772-464-3537 @ FAX 772-464-9497 ¢ www.ct-eng.com
+STATE OF FLORIDA BOARD OF PROFESSIONAL CHECKED 3/10/21 P L AN
+ENGINEERS AUTHORIZATION NO. 4286 APPROVED 3/10/21
+
+VERT. SCALE: N/A
+
+JOB No. 20-233
+seeT 3 Of 10
+
+Know what's below.
+Call before you dig.
+

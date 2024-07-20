@@ -1,0 +1,286 @@
+XREF's: P-RS01-XS-01; P-RS01-XS-02; P-RS01-XS-03; P-RS01-XS-04; P-RS01-XS-05; P-RS01-XS-06; P-RS01-XS-07; P-RS01-XS-08; P-RS01-XS-09; P-RS09-XS-01; P-RS09-XS-02; P-RS01-XS-10
+
+CAD File: C:\Users\garon\Dryside Engineering Dropbox\Dryside\1. Jobs\2023\DSE23011_Barellan_Levee\4. ENGINEERING\2.Drawings\DSE2301 1-1200.dwg
+
+DATE PLOTTED: 12 March 2024 9:57 AM BY : AARON WARD
+
+LEGEND - CROSS AND LONG SECTIONS
+
+FINISHED SURFACE PROFILE
+
+EXISTING SURFACE PROFILE
+
+1% AEP FLOOD PROFILE
+
+3% 3%
+Centreline Data 5 ti
+X = 462147.68 aw: —~ 3
+Y = 6205418.12 a
+Z= 159.30 a a —__
+DATUM RL 157.00
+DESIGN SURFACE S| 3] & x 8 5 g
+EXISTING SURFACE | a| 8 g s 8 8
+OFFSET a) 2| 8 g : : ‘
+CHAINAGE 2680.000
+
+3% 3%
+Centreline Data 1
+X = 462108.09 aw ing
+Y = 6205423.80 —_
+Z= 159.30 —_—_
+DATUM RL 157.00
+
+DESIGN SURFACE
+
+EXISTING SURFACE
+
+OFFSET
+
+Centreline Data
+X = 462068.50
+
+Y = 6205429.49
+
+Z= 159.30
+
+DATUM RL 157.00
+DESIGN SURFACE
+
+CHAINAGE 2640.000
+
+EXISTING SURFACE
+
+OFFSET
+
+Centreline Data
+
+CHAINAGE 2600.000
+
+X = 462028.90
+
+Y = 6205435.17
+
+Z= 159.31 —_——
+
+DATUM RL 157.00
+
+DESIGN SURFACE S| #3 3 5 3 3
+EXISTING SURFACE | gl 5 S 8 FE
+
+OFFSET
+
+12/03/2024 | CONSTRUCTION ISSUE
+
+DATE DESCRIPTION
+
+CHAINAGE 2560.000
+
+Centreline Data
+X = 462306.06
+
+Y = 6205395.38
+
+Z= 159.33
+
+DATUM RL 157.00
+DESIGN SURFACE
+
+EXISTING SURFACE
+
+OFFSET
+
+3% 3%
+
+an?
+
+40
+6.56
+5.69
+
+4 2
+( 3S
+Y °
+
+2.00
+
+5.47
+
+Centreline Data
+X = 462266.47
+
+Y = 6205401.06
+
+Z= 159.32
+
+DATUM RL 157.00
+DESIGN SURFACE
+
+EXISTING SURFACE
+
+OFFSET
+
+CHAINAGE 2840.000
+
+3% 3%
+
+CHAINAGE 2800.000
+Centreline Dat = =
+entreline Data ,
+X = 462226 87 tine __| —~*:
+Y = 6205406.75
+Z= 159.31
+DATUM RL 157.00
+DESIGN SURFACE
+EXISTING SURFACE
+OFFSET
+CHAINAGE 2760.000
+3% 3%
+Centreline Data ,
+X = 462187.28 an ling
+Y = 6205412.43 —
+Z= 159.30 ——_ —_—_—_T
+DATUM RL 157.00
+DESIGN SURFACE | | 5 x s s E
+EXISTING SURFACE 2/8] 8 5 5 B 8
+OFFSET =| 8] 8 g g 8 %
+CHAINAGE 2720.000
+
+0 1 2
+
+SCALE 1:100
+
+RS01 CROSS SECTIONS
+SCALE H 1:100m V 1:100m
+
+© Dryside Engineering (Aust) Pty Ltd.
+
+This plan and the design here within is produced by
+
+Centreline Data
+X = 462373.69
+
+Y = 6205431.49
+
+Z= 159.35
+
+DATUM RL 157.00
+
+DESIGN SURFACE
+
+EXISTING SURFACE
+
+OFFSET
+
+3% -3%
+ane
+
+CHAINAGE 2920.000
+Centreline Data = aie
+entreline Da .
+X = 462341.95 and Ting
+Y = 6205407.14 —— __ | ————+——_
+Z= 159.34 —_| —_ |} —_
+DATUM RL 157.00
+DESIGN SURFACE
+
+158.000
+157.774
+
+EXISTING SURFACE
+OFFSET
+
+Centreline Data
+X = 462330.05
+
+Y = 6205398.02
+
+Z= 159.34
+
+DATUM RL 157.00
+
+DESIGN SURFACE
+EXISTING SURFACE
+
+OFFSET x
+
+6.54
+
+158.000
+
+6.73
+
+159.280
+159.340
+159.280
+
+CHAINAGE 2880.000
+
+4 2
+( 3S
+Y °
+
+2.00
+
+5.59
+
+CHAINAGE 2865.005
+
+Centreline Data
+
+X = 462315.03
+
+Y =6205394.09
+
+Z= 159.33 TT
+
+DATUM RL 157.00
+
+DESIGN SURFACE z| 2) 8 S 3 iS 3
+8) Bl 8 B B B 8
+
+EXISTING SURFACE a] 3] § g 4
+
+OFFSET a| al 2 g g : :
+
+CHAINAGE 2849.067
+
+BARELLAN LEVEE DESIGN
+
+Dryside Engineering solely for the use and benefit of the
+client in accordance with the terms and conditions of the
+signed contract. Dryside Engineering does not and shall
+not assume any responsibility or liability whatsoever to
+any third party arising out of any use or reliance by third
+party on the content of this document.
+
+DRYSIDE
+ENGINEERING
+
+www.dryside.com.au
+ABN:45639039839
+
+ED HENTY
+APPROVED
+
+ED HENTY
+
+KURRAJONG ST AND BARELLAN CEMETERY RD
+BARELLAN, NSW 2665
+
+DETAILED DESIGN
+
+LEVEE CROSS SECTIONS
+
+SHEET 8 OF 10
+
+FOR CONSTRUCTION
+
+NARRANDERA SHIRE COUNCIL
+
+DRAWN DATE] SCALE DATUM
+A.WARD 30/05/2023) AS SHOWN | ~MAHD
+DESIGNED DATE|PROJECTION | SHEET SIZE
+A.WARD 25/05/2023}  GD94 Al
+DSE23011-1207
+
+>|
