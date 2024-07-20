@@ -63,7 +63,7 @@ def add_predicted_labels(row):
     return most_common_label if count > 0 else ''
 
 # Add the 'p.label' column with predicted labels
-combined_df['p.label'] = combined_df.apply(add_predicted_labels, axis=1)
+combined_df['P.Label'] = combined_df.apply(add_predicted_labels, axis=1)
 
 # Read the manually labeled data
 manual_labeled_df = pd.read_csv(manual_labeled_data_path)

@@ -8,7 +8,7 @@
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Scripts Explanation](#scripts-explanation)
-  - [convert_pdfs_to_images.py](#convert_pdfstoimagespy)
+  - [convert_pdfs_to_images.py](#convert_pdfs_to_imagespy)
   - [ocr_images.py](#ocr_imagespy)
   - [clean_ocr_text.py](#clean_ocr_textpy)
   - [extract_geometric_features.py](#extract_geometric_featurespy)
@@ -28,7 +28,7 @@ My machine learning project aims to extract text and geometric features from con
 
 1. **Clone the repository**:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/BRamos19/ML_Project_5793758.git
    cd ML_Project_5793758
    ```
 
@@ -205,7 +205,3 @@ Trains the best-performing model, evaluates its performance, and saves the testi
 ## Contact
 
 For any questions or issues, please contact Benjamin Ramos at [bramo029@fiu.edu](mailto:bramo029@fiu.edu).
-
----
-
-Feel free to customize the repository URL and any other details as needed. This README file should provide a comprehensive guide to your project. Let me know if you need any further assistance!
