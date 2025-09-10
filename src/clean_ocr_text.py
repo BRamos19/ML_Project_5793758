@@ -19,6 +19,15 @@ def clean_text(text):
 
 # Function to detect encoding and read file
 def read_file_with_encoding(filepath):
+    """
+    Detects the encoding of a file and reads its content as a string.
+
+    Args:
+        filepath (str): The path to the file to be read.
+
+    Returns:
+        str: The decoded content of the file.
+    """
     with open(filepath, 'rb') as f:
         raw_data = f.read()
     result = chardet.detect(raw_data)
